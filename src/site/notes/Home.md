@@ -33,10 +33,5 @@ An introductory article to player character creation in the world of Spirit Seek
 </div>
 
 
->[!column|no-title]
-> **[[00 Player Guide/Spirit Seeker Campaign Guide\|Player's Guide]]**
-> ![kfds;|sban htiny ctr](https://i.imgur.com/3k7kcVc.jpeg)
-> 
-> **[[00 Player Guide/Lore Primer\|World of Erythea]]**
-> ![[]]
+
 
