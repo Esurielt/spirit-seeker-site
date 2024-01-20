@@ -1,0 +1,80 @@
+
+.bookcover {
+    margin: 10px;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    height: 200px;
+    background: #000;
+    border-radius: 5px;
+    border: 1.5px solid #a38240;
+    overflow: hidden;
+}
+
+.bookcover .img,.bookcover img {
+    max-width: 100%;
+    max-height: 100%;
+    height: 100%;
+    object-fit: cover
+}
+
+.bookcover .excerpt {
+    display: none
+}
+
+.bookcover a {
+    color: #000
+}
+
+.bookcover a:hover {
+    background: #000000;
+    border-color: #cbac5b;
+    color: black;
+}
+
+.bookcover a,.bookcover a:hover {
+    text-decoration: none
+}
+/* 
+.bookcover a:hover .booktitle {
+    background-color: #962626;
+    color: #fff
+} */
+
+.bookcover a:hover .excerpt {
+    display: block;
+    position: absolute;
+    top: 10%;
+    width: 200px;
+    left: 50px;
+    color: #cbac5b;
+    text-align: center;
+    -webkit-transition: all .5s
+}
+
+.bookcover a:hover img {
+    opacity: .35
+}
+
+.booktitle {
+    position: absolute;
+    left: 20%;
+    top: 70%;
+    width: 60%;
+    background: #fff;
+    padding: 5px 10px 5px 10px;
+    max-width: 200px;
+    text-align: center;
+    background-color: transparent;
+    -webkit-transition: all .5s;
+    color: #e6c86e;
+    font-family: Taroca ;
+}
+body {
+	--file-line-width: 760px !important;
+}
+
+.content{
+    max-width: 760px;
+}
