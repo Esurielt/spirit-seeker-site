@@ -6,7 +6,7 @@
 
 # Erythea, land of the Spirits 
 
-**Erythea**, a vibrant world blessed by the dream of the spirits. Magic pulse through the veins of the land, yet we found ourselves in the heart of a mechanical metropolis - illuminated by streetlamps and signs powered by the fruit of arcane research, the **City of Ambrose** is crowded with skyscrapers and houses with metal bridges and light trails zooming through the cracks between the buildings. We, are in the birthplace of the Golden Age of Arcane. 
+**Erythea**, a vibrant world blessed by the dream of the spirits. Magic pulse through the veins of the land long through its history, yet we found ourselves in the heart of a mechanical metropolis - illuminated by streetlamps and signs powered by the fruit of arcane research, the **City of Ambrose** is crowded with skyscrapers and houses with metal bridges and light trails zooming through the cracks between the buildings. We, are in the birthplace of the Golden Age of Arcane. 
 
 It's in this world where we meet our heroes, new found **Seekers** who swore to protect the civilians from dangers in the shadow and magic lost to fables. When faced with a vison of an ancient threat, could they sway the course of fate and save the world?
 
@@ -32,6 +32,19 @@ An introductory article to player character creation in the world of Spirit Seek
 </div>
 </div>
 
+>[!note|clean ttl-c no-i] [[00 Player Guide/Spirit Seeker Campaign Guide\|Player's Guide]] 
 
 
+>[!cards|dataview]
+> | Image                                                                      | Column Name                                                     |
+> | -------------------------------------------------------------------------- | --------------------------------------------------------------- |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**     |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Deities/Deities\|Deities]]**         |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**         |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**               |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]** |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**            |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**            |
+> 
+{ .block-language-dataview}
 
