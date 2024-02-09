@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/elemental-polarity/","title":"Elemental Polarity","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/elemental-polarity/","title":"Elemental Polarity","hide":true,"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 Also known as the "Air" or "Qi", describe the flow of [[z_Glossary/element\|element]]s, also a scale that can be used to measure an element's degree of activity. The most common names include: [[z_Glossary/elemental polarity\|Solais]] vs. [[z_Glossary/elemental polarity\|Noxis]], [[z_Glossary/elemental polarity\|Yang]] vs. [[z_Glossary/elemental polarity\|Yin]], [[z_Glossary/elemental polarity\|Celestial]] vs. [[z_Glossary/elemental polarity\|Terrestrial]].
