@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/aether/","title":"Aether","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/aether/","title":"Aether","hide":true,"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 The quintessence, the most basic energy that makes up the world.
