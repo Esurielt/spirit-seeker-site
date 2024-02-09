@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/spirit/","title":"Spirit","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/spirit/","title":"Spirit","hide":true,"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 Spirit refers to a cluster of [[z_Glossary/aether\|aether]] that retains a general sense of consciousness and personality. 
