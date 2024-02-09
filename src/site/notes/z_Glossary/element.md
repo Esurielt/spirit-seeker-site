@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/element/","title":"Elemental Alignment","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/element/","title":"Elemental Alignment","hide":true,"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 The metrics with which Aether's physical properties are described, including Fire, Water, Wood, Metal, Earth.
