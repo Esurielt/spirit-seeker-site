@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/cerulite/","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/cerulite/","hide":true,"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 `= this.Definition `
