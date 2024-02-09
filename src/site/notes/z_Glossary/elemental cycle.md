@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/elemental-cycle/","title":"Elemental Polarity","hide":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/elemental-cycle/","title":"Elemental Polarity","hide":true,"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 The rules that describe how elements feed or counter each other when they are mixed together and shift its [[z_Glossary/elemental polarity\|elemental polarity]].
