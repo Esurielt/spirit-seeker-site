@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-glossary/a/","contentClasses":"h-line hr-no-icon","tags":["GlossaryIndex/Letter"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/z-glossary/a/","contentClasses":"h-line hr-no-icon","tags":["GlossaryIndex/Letter"],"dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 
