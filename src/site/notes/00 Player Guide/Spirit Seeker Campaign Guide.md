@@ -3,8 +3,8 @@
 ---
 
 
-> [!quote|mark] 
-> In a world where magic flows from the dreams of ancient spirits, you open your eyes to crowded streets and smoke-filled skies. The Age of Invention has come, powered not by attunement with the mystics of old, but by gleaming engines and clever artifice. Cerulite reactors now shape reality at the whims of an industrial few. Yet, as you walk the lamp-lit avenues with purpose in your step, you sense a deeper malaise plaguing this progress. Whispers speak of unrest among the outcast mages, of strange disappearances and eerie events on the city's fringe. You clutch an amulet beneath your cloak, a reminder of your own past encounters with forces unseen. Though the authorities promise prosperity, you feel the currents of magic growing erratic, like the first raindrops before a storm. As the sun sets over the metropolis, you know tonight your vigilance and skill will be tested once more. Adventure calls.
+> [!cite] Night in Ambrose
+> *In a world where magic flows from the dreams of ancient spirits, you walk out of the bar to crowded streets and arcane-illuminated skies. The Age of Arcane has come, Magic cast not by attuning with the mystics of old, but by gleaming engines and clever artifice. Cerulite reactors now shape reality at the whims of an industrial few. Yet, as you walk the lamp-lit avenues with purpose in your step, you sense a deeper malaise plaguing this progress. Whispers speak of unrest among the outcast mages, of strange disappearances and eerie events in the darkest alleys. You clutch your amulet beneath your cloak, a reminder of your own past encounters with forces unseen. Though the authorities promise prosperity, you feel the currents of magic growing erratic, like the scattered raindrops before a storm. As the sun sets over the metropolis, you know tonight your vigilance and skill will be tested once more. Adventure calls.*
 
 
 ## How to Use This Guide
