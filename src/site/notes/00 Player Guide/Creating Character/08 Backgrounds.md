@@ -1,8 +1,4 @@
 ---
-dg-publish: true
-title: Backgrounds
-tags:
-  - CharacterCreation
-  - Primer
-note-icon: "1"
+{"dg-publish":true,"permalink":"/00-player-guide/creating-character/08-backgrounds/","title":"Backgrounds","tags":["CharacterCreation","Primer"],"noteIcon":"1"}
 ---
+
