@@ -94,27 +94,39 @@ More information about Ambrose and its inhabitant could be found in the later ch
 
 </div></div>
 
->[!column|flex 3]+ 简中预设卡下载
->> [!success] 新手推荐
->> - 战士 [Lv1](https://cowtransfer.com/s/9fc33aaea58442)  
->> - 游荡者 Lv1
->> - 牧师 [Lv1](https://cowtransfer.com/s/0ea920ca583647)
->> - 术士 Lv1
->> - 法师 Lv1
->> - 游侠 Lv1
->> - 野蛮人 Lv1
->
->> [!tip] 其余核心职业
->> - 吟游诗人 
->> - 武僧
->> - 德鲁伊
->> - 浪客
->> - 女巫 【不太推荐】
->> - 神卫
->
->> [!warning] 进阶/扩展职业
->> - 调查员 
->> - 召唤师 【不推荐】
->> - 炼金术士 【非常不推荐】
->> - 先知 【非常不推荐】 
+
+
+> [!kanban]+ 新版职业导览
+> - 物理
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#战士\|战士]] 
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#游荡者\|游荡者]] 
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|野蛮人]] 
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|浪客]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|枪手]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|调查员]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|发明家]] 
+> 	- >[!hint|bg-c-red]- [[2-Character-Creation-Guide-CN#非核心内容\|炼金术士]]
+> - 物法混合
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#游侠\|游侠]] 
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|魔战士]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|召唤师]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|武僧]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|神卫]]
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|奇术师]]
+> - 施法职业
+> 	- >[!hint|bg-c-green]- [[2-Character-Creation-Guide-CN#非核心内容\|术士]]
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#吟游诗人\|吟游诗人]] 
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#牧师\|牧师]] 
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#德鲁伊\|德鲁伊]] 
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#女巫\|女巫]] 
+> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#法师\|法师]] 
+> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|心灵者]]
+> 	- >[!hint|bg-c-red]- [[2-Character-Creation-Guide-CN#非核心内容\|先知]]
+
+> [!cards]
+> **[[Link\|Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+> 
+> **[[Link\|Link]]**
+> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
 
