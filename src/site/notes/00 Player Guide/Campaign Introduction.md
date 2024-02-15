@@ -18,12 +18,13 @@ Amidst this discordance grew organizations shadowed from public view—secret so
 
 The city streets already have enough to be worried about. A resurgence in abominations—entities born from corrupted spirits—and rogue mages seeking vengeance or power stoked fears across the nation. The once rare disturbances became ominously commonplace, spurring whispers that some agency beyond mere human error was at play. 
 
-> [!faq|left show-title]+ How "High Magic" is Erythea?
+> [!faq]+ How "High Magic" is Erythea?
 > it is important to note that Erythea is a **wide** magic setting rather than a high magic one. 
 > 
 > While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles in Erythea. Legendary wizards who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
 > 
 > Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/03 Magic & Faith\|Creating Character: Magic & Faith]]. 
+
 
 ### The Seekers of Thelios
 
