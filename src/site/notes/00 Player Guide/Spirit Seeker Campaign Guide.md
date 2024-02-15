@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
+{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
 
@@ -96,39 +96,18 @@ More information about Ambrose and its inhabitant could be found in the later ch
 
 
 
-> [!kanban]+ 新版职业导览
-> - 物理
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#战士\|战士]] 
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#游荡者\|游荡者]] 
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|野蛮人]] 
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|浪客]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|枪手]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|调查员]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|发明家]] 
-> 	- >[!hint|bg-c-red]- [[2-Character-Creation-Guide-CN#非核心内容\|炼金术士]]
-> - 物法混合
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#游侠\|游侠]] 
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|魔战士]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|召唤师]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|武僧]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|神卫]]
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|奇术师]]
-> - 施法职业
-> 	- >[!hint|bg-c-green]- [[2-Character-Creation-Guide-CN#非核心内容\|术士]]
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#吟游诗人\|吟游诗人]] 
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#牧师\|牧师]] 
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#德鲁伊\|德鲁伊]] 
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#女巫\|女巫]] 
-> 	- >[!hint|bg-c-blue]- [[2-Character-Creation-Guide-CN#法师\|法师]] 
-> 	- >[!hint|bg-c-gray]- [[2-Character-Creation-Guide-CN#非核心内容\|心灵者]]
-> 	- >[!hint|bg-c-red]- [[2-Character-Creation-Guide-CN#非核心内容\|先知]]
+| Image                                                                      | Column Name                                                         |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]** |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**             |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**                   |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]**     |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**                |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**                |
 
-> [!cards]
-> **[[Link\|Link]]**
-> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
-> 
-> **[[Link\|Link]]**
-> ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
+{ .block-language-dataview}
+
 
 >[!cards|dataview]
 > | Image                                                                      | Column Name                                                         |
@@ -143,14 +122,12 @@ More information about Ambrose and its inhabitant could be found in the later ch
 > 
 { .block-language-dataview}
 
->[!cards|dataview]
-> | Image                                                   | Column Name                                            |
-> | ------------------------------------------------------- | ------------------------------------------------------ |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Faith\|Faith]]**               |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/History\|History]]**           |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Magic\|Magic]]**               |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Occult\|Occult]]**             |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Organization\|Organization]]** |
+>[!column|dataview 3] Topics
+> - [[z_Glossary/Index/Faith\|Faith]]
+> - [[z_Glossary/Index/History\|History]]
+> - [[z_Glossary/Index/Magic\|Magic]]
+> - [[z_Glossary/Index/Occult\|Occult]]
+> - [[z_Glossary/Index/Organization\|Organization]]
 > 
 { .block-language-dataview}
 
