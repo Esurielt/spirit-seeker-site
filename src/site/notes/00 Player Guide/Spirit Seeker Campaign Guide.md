@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
+{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"embed-clean","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
 
@@ -37,13 +37,11 @@ An overview of the world of Erythea and City of Ambrose  - the metropolis that b
 Obviously, the worldbuilding site also comes with a growing codex full of knowledge that PC would have access to, if their character is interested. If you have any questions about a specific area in the campaign setting related to your character, please don’t hesitate to ask! 
 
 
-
-
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/00-player-guide/campaign-introduction/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
-# clean no-title
+# no-title
 
 </div>
 
@@ -95,7 +93,6 @@ More information about Ambrose and its inhabitant could be found in the later ch
 </div></div>
 
 
-
 | Image                                                                      | Column Name                                                         |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
@@ -109,7 +106,7 @@ More information about Ambrose and its inhabitant could be found in the later ch
 { .block-language-dataview}
 
 
->[!cards|dataview]
+>[!faq]
 > | Image                                                                      | Column Name                                                         |
 > | -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 > | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
