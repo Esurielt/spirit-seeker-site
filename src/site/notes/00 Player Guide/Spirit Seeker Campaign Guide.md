@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
+{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"dvl-c","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
 
