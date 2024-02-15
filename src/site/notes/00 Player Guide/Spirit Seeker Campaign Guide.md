@@ -130,3 +130,27 @@ More information about Ambrose and its inhabitant could be found in the later ch
 > **[[Link\|Link]]**
 > ![Image link|sban htiny ctr](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=1200)
 
+>[!cards|dataview]
+> | Image                                                                      | Column Name                                                         |
+> | -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]** |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**             |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**                   |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]**     |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**                |
+> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**                |
+> 
+{ .block-language-dataview}
+
+>[!cards|dataview]
+> | Image                                                   | Column Name                                            |
+> | ------------------------------------------------------- | ------------------------------------------------------ |
+> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Faith\|Faith]]**               |
+> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/History\|History]]**           |
+> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Magic\|Magic]]**               |
+> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Occult\|Occult]]**             |
+> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Organization\|Organization]]** |
+> 
+{ .block-language-dataview}
+
