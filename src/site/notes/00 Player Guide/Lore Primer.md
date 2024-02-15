@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/lore-primer/","title":"World of Erythea","tags":["Primer"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-player-guide/lore-primer/","title":"Ambrose, the Cerulean City","tags":["Primer"],"noteIcon":""}
 ---
 
 
