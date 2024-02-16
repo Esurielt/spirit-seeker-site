@@ -1,24 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/glossary/","title":"Glossary","contentClasses":"h-line hr-no-icon","dgShowInlineTitle":true,"noteIcon":null}
+{"dg-publish":true,"permalink":"/glossary/","title":"Glossary","contentClasses":"","dgShowInlineTitle":true,"noteIcon":null}
 ---
 
 ## Index
 #### Alphabetical
 | [[z_Glossary/A\|A]] | [[B\|B]] | [[z_Glossary/C\|C]] | [[D\|D]] | [[z_Glossary/E\|E]] | [[z_Glossary/F\|F]] | [[z_Glossary/G\|G]] | [[H\|H]] | [[I\|I]] | [[J\|J]] | [[K\|K]] | [[z_Glossary/L\|L]] | [[M\|M]] | [[N\|N]] | [[O\|O]] | [[P\|P]] | [[Q\|Q]] | [[R\|R]] | [[z_Glossary/S\|S]] | [[T\|T]] | [[U\|U]] | [[V\|V]] | [[W\|W]] | [[X\|X]] | [[Y\|Y]] | [[Z\|Z]] |
-#### Topics
->[!cards|dataview]
-> | Image                                                   | Column Name                                            |
-> | ------------------------------------------------------- | ------------------------------------------------------ |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Faith\|Faith]]**               |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/History\|History]]**           |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Magic\|Magic]]**               |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Occult\|Occult]]**             |
-> | ![\|sban cover hmicro](https://i.imgur.com/bxudo2j.png) | **[[z_Glossary/Index/Organization\|Organization]]** |
+
+>[!column|dataview 5] Topics
+> - [[z_Glossary/Index/Faith\|Faith]]
+> - [[z_Glossary/Index/History\|History]]
+> - [[z_Glossary/Index/Magic\|Magic]]
+> - [[z_Glossary/Index/Occult\|Occult]]
+> - [[z_Glossary/Index/Organization\|Organization]]
 > 
 { .block-language-dataview}
-
-
-
 
 ---
 
