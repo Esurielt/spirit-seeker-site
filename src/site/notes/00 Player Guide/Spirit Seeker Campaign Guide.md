@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"embed-clean","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
-# Player's Guide
-
 > [!cite] Night in Ambrose
 > *In a world where magic flows from the dreams of ancient spirits, you walk out of the bar to crowded streets and arcane-illuminated skies. The Age of Arcane has come, Magic cast not by attuning with the mystics of old, but by gleaming engines and clever artifice. Cerulite reactors now shape reality at the whims of an industrial few. Yet, as you walk the lamp-lit avenues with purpose in your step, you sense a deeper malaise plaguing this progress. Whispers speak of unrest among the outcast mages, of strange disappearances and eerie events in the darkest alleys. You clutch your amulet beneath your cloak, a reminder of your own past encounters with forces unseen. Though the authorities promise prosperity, you feel the currents of magic growing erratic, like the scattered raindrops before a storm. As the sun sets over the metropolis, you know tonight your vigilance and skill will be tested once more. Adventure calls.*
 
@@ -34,7 +32,7 @@ Guidance, practical advice, and specific tips for creating a 1st-level character
 [[00 Player Guide/Character Creation\|Link to Page]]
 
 ### Ambrose Gazetteer
-An overview of the world of Erythea and City of Ambrose  - the metropolis that birthed the Arcane Industrial Revolution, in which our story takes place.
+An overview of and City of Ambrose  - the metropolis that birthed the Arcane Industrial Revolution, in which our story takes place.
 [[00 Player Guide/Lore Primer\|Link to Page]]
 
 ### House Rules 
@@ -53,15 +51,15 @@ Obviously, the worldbuilding site also comes with a growing codex full of knowle
 
 ### A New Dawn of Magic
 
-In the heart of the empire of Klysiem, a new dawn of magic shine over the city of Ambrose. 
+In the heart of the empire of Pharousia, a new dawn of magic shine over the city of Ambrose. 
 
 From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by causing ripples in the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
 
-However, this delicate balance was shifted by an unprecedented event—the Arcane Revolution. In Thelios, arcane scholars discovered Cerulite—a mineral capable of being temporarily charged to act as a conduit for magical energies. By substituting a living mage with charged Cerulite, this newfound technology facilitated magic's transition from an artform practiced by individual mages to a mass-produced commodity available to all. Cerulite-powered trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless spells at a fingers' touch. 
+However, this delicate balance was shifted by an unprecedented event—the Arcane Revolution. In Pharousia, arcane scholars discovered Cerulite—a mineral capable of being temporarily charged to act as a conduit for magical energies. By substituting a living mage with charged Cerulite, this newfound technology facilitated magic's transition from an artform practiced by individual mages to a mass-produced commodity available to all. Cerulite-powered trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless spells at a fingers' touch. 
 
 While the advent of Cerulite brought about an era of unprecedented development, the structure of society warped under the strain of these changes. As magic became controlled by powerful figures who monopolized Cerulite-based industries, they enacted stringent restrictions on magic users and outlawed many spiritual magical practices. Traditional mages were forced to either join arcane factories as workers or face marginalization. Pushed toward the fringes of society, their timeless practices frowned upon and misunderstood, seen as backwards and barbaric. 
 
-Meanwhile, many Churches of the Great Spirits preach doom if the use of Cerulite continues at its current rate. Some maintain a Cold War with the government of Thelios claim divine rights in wielding their spirit magic; while others collaborate to be recognize as a national religion. 
+Meanwhile, many Churches of the Great Spirits preach doom if the use of Cerulite continues at its current rate. Some maintain a Cold War with the government of Pharousia claim divine rights in wielding their spirit magic; while others collaborate to be recognize as a national religion. 
 
 Amidst this discordance grew organizations shadowed from public view—secret societies like the Seekers aiming to preserve magics and ensure peace amidst chaos; dark cults of mysterious entities drawing disillusioned souls into their malevolent embrace. 
 
@@ -75,21 +73,21 @@ The city streets already have enough to be worried about. A resurgence in abomin
 > Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/02 Magic & Faith\|Creating Character: Magic & Faith]]. 
 
 
-### The Seekers of Thelios
+### The Seekers of Pharousia
 
-In the revolutionized Thelios, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but their chapter here fell from grace when magic was outlawed. 
+In the revolutionized Pharousia, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but their chapter here fell from grace when magic was outlawed. 
 
-Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Thelios. The unique background options in Chapter [[00 Player Guide/Creating Character/01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
+Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Pharousia. The unique background options in Chapter [[00 Player Guide/Creating Character/01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 The Seekers is an ancient order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
 
-You come to the Seekers' Thelios chapter in a time of change. Not long ago, Seekers were branded outlaws along with many other unofficial mages, in an effort to secure the means of magic by the Crown. Seekers’ ranks suffered severely. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Vault of Wonders, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
+You come to the Seekers' Pharousia chapter in a time of change. Not long ago, Seekers were branded outlaws along with many other unofficial mages, in an effort to secure the means of magic by the Crown. Seekers’ ranks suffered severely. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Vault of Wonders, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
 
 As a new Seeker pledge, you will train under the beautiful and capable Chapter Master Viola Whytebourn, said to have slain a thousand horrors in her time. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
 
 ### Ambrose
-The PCs begin this campaign in Ambrose, one of the most important city in Thelios. While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. The following provides a brief overview of the city and its culture. 
-More information about Ambrose and its inhabitant could be found in the later chapter of this guide in [[00 Player Guide/Lore Primer\|Ambrose and Thelios]], as well as on this site in the World of Erythea section. 
+The PCs begin this campaign in Ambrose, one of the most important city in Pharousia. While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. The following provides a brief overview of the city and its culture. 
+More information about Ambrose and its inhabitant could be found in the later chapter of this guide in [[00 Player Guide/Lore Primer\|Ambrose and Pharousia]], as well as on this site in the World of Erythea section. 
 
 
 
@@ -97,3 +95,55 @@ More information about Ambrose and its inhabitant could be found in the later ch
 </div></div>
 
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/00-player-guide/character-creation/#creating-character" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Creating Character 
+The city of Ambrose has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
+
+### Alignment 
+
+
+### Ancestries
+
+
+### Background
+
+
+### Classes 
+
+
+### Language 
+
+
+### Magic & Faith 
+
+
+### Skills & Feats
+
+
+### Archetypes 
+
+
+### Gears & Items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>
