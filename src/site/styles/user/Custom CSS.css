@@ -3,6 +3,11 @@ body.css-settings-manager {
     --hr-width: 50%;
 }
 
+body.css-settings-manager {
+    --hr-icon-font: its;
+    --hr-width: 50%;
+}
+
 body.theme-light.css-settings-manager {
     --soft-text: #4E79D0;
     --nav-item-color: #7F8BA4;
