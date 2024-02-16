@@ -32,7 +32,7 @@ An introductory article to player character creation in the world of Spirit Seek
 </div>
 </div>
 
->[!note|clean ttl-c no-i] [[00 Player Guide/Spirit Seeker Campaign Guide\|Player's Guide]] 
+>[!note|clean ttl-c no-i] [[00 Player Guide/Campaign Guide\|Player's Guide]] 
 
 
 
