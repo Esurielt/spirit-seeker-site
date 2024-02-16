@@ -3,9 +3,7 @@
 ---
 
 
-# Creating Character
-
-## Overview 
+## Creating Character 
 The city of Ambrose has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
 
 ### Alignment 
@@ -13,10 +11,26 @@ The city of Ambrose has seen people from all walks of life. You are free to make
 
 ### Ancestries
 
-### 
+
+### Background
 
 
+### Classes 
 
+
+### Language 
+
+
+### Magic & Faith 
+
+
+### Skills & Feats
+
+
+### Archetypes 
+
+
+### Gears & Items
 
 
 
