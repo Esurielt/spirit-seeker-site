@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"embed-clean","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
+{"dg-publish":true,"permalink":"/00-player-guide/campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"embed-clean hide-header-underline","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
 > [!cite] Night in Ambrose
@@ -70,14 +70,14 @@ The city streets already have enough to be worried about. A resurgence in abomin
 > 
 > While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles in Erythea. Legendary wizards who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
 > 
-> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/02 Magic & Faith\|Creating Character: Magic & Faith]]. 
+> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[02 Magic & Faith\|Creating Character: Magic & Faith]]. 
 
 
 ### The Seekers of Pharousia
 
 In the revolutionized Pharousia, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but their chapter here fell from grace when magic was outlawed. 
 
-Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Pharousia. The unique background options in Chapter [[00 Player Guide/Creating Character/01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
+Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Pharousia. The unique background options in Chapter [[01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 The Seekers is an ancient order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
 
