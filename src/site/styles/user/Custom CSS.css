@@ -1,11 +1,11 @@
 body.css-settings-manager {
     --hr-icon-font: its;
     --hr-width: 50%;
-}
+    --header-border-line-height: 0;
 
-body.css-settings-manager {
-    --hr-icon-font: its;
-    --hr-width: 50%;
+    --embed-padding: 0;
+    --embed-border-color: transparent;
+    --embed-title-padding: 0;
 }
 
 body.theme-light.css-settings-manager {
