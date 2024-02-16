@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Spirit Seeker: Home","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","title":"Spirit Seeker: Home","pinned":true,"contentClasses":"embed-clean dvl dvl-c","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ![vCKunH7GVWZM06a](https://i.imgur.com/bMFh1js.jpeg "Spirit")
@@ -35,16 +35,16 @@ An introductory article to player character creation in the world of Spirit Seek
 >[!note|clean ttl-c no-i] [[00 Player Guide/Spirit Seeker Campaign Guide\|Player's Guide]] 
 
 
->[!cards|dataview]
-> | Image                                                                      | Column Name                                                         |
-> | -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]** |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**             |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**                   |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]**     |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**                |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**                |
-> 
+
+| Image                                                                      | Column Name                                                         |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]** |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**             |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**                   |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]**     |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**                |
+| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**                |
+
 { .block-language-dataview}
 

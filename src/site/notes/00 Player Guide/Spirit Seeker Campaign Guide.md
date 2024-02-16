@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/00-player-guide/spirit-seeker-campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"embed-clean","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
+# Player's Guide
 
 > [!cite] Night in Ambrose
 > *In a world where magic flows from the dreams of ancient spirits, you walk out of the bar to crowded streets and arcane-illuminated skies. The Age of Arcane has come, Magic cast not by attuning with the mystics of old, but by gleaming engines and clever artifice. Cerulite reactors now shape reality at the whims of an industrial few. Yet, as you walk the lamp-lit avenues with purpose in your step, you sense a deeper malaise plaguing this progress. Whispers speak of unrest among the outcast mages, of strange disappearances and eerie events in the darkest alleys. You clutch your amulet beneath your cloak, a reminder of your own past encounters with forces unseen. Though the authorities promise prosperity, you feel the currents of magic growing erratic, like the scattered raindrops before a storm. As the sun sets over the metropolis, you know tonight your vigilance and skill will be tested once more. Adventure calls.*
@@ -22,28 +23,29 @@ In the Spirit Seekers campaign set for Pathfinder Second Edition Remaster, you w
 This guide will help you to prepare for a fantastical adventure in the world of Spirit Seeker, where your characters must band together to unravel a cosmic plot centuries in the making and determine the fate of a world you call home. It aims to provide you with an overview of the world of Erythea and city of Ambrose, followed by an introduction to the context of the story, then some campaign-appropriate character options for building your Seeker. 
 
 
-#### [[00 Player Guide/Campaign Introduction\|Coming Together]]
+## Table of Content
+
+### Coming Together
 A quick introduction to what to expect in the campaign as well as unique background, features, and inspiring lore to tailor your experience to the world. 
+[[00 Player Guide/Campaign Introduction\|Link to Page]]
 
-#### [[00 Player Guide/Creating Character/00 Character Creation Overview\|Creating Character]]
-Guidance, practical advice, and specific tips for creating a 1st-level character that fits seamlessly into this campaign.
+### Creating Character
+Guidance, practical advice, and specific tips for creating a 1st-level character that fits seamlessly into this campaign. 
+[[00 Player Guide/Character Creation\|Link to Page]]
 
-#### [[03 Rule Elements/House Rules\|House Rules]]
-Finally, some house rules references to adjust the experience specifically to our table. 
-
-#### [[00 Player Guide/Lore Primer\|Ambrose, the Cerulean City]]
+### Ambrose Gazetteer
 An overview of the world of Erythea and City of Ambrose  - the metropolis that birthed the Arcane Industrial Revolution, in which our story takes place.
+[[00 Player Guide/Lore Primer\|Link to Page]]
+
+### House Rules 
+Finally, some house rules references to adjust the experience specifically to our table. 
+[[03 Rule Elements/House Rules\|Link to Page]]
 
 Obviously, the worldbuilding site also comes with a growing codex full of knowledge that PC would have access to, if their character is interested. If you have any questions about a specific area in the campaign setting related to your character, please don’t hesitate to ask! 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/00-player-guide/campaign-introduction/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-# no-title
-
-</div>
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/00-player-guide/campaign-introduction/#coming-together" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -51,7 +53,9 @@ Obviously, the worldbuilding site also comes with a growing codex full of knowle
 
 ### A New Dawn of Magic
 
-Magic in Erythea meets a new dawn after a dramatic transformation. From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by causing ripples in the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
+In the heart of the empire of Klysiem, a new dawn of magic shine over the city of Ambrose. 
+
+From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by causing ripples in the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
 
 However, this delicate balance was shifted by an unprecedented event—the Arcane Revolution. In Thelios, arcane scholars discovered Cerulite—a mineral capable of being temporarily charged to act as a conduit for magical energies. By substituting a living mage with charged Cerulite, this newfound technology facilitated magic's transition from an artform practiced by individual mages to a mass-produced commodity available to all. Cerulite-powered trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless spells at a fingers' touch. 
 
@@ -68,14 +72,14 @@ The city streets already have enough to be worried about. A resurgence in abomin
 > 
 > While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles in Erythea. Legendary wizards who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
 > 
-> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/03 Magic & Faith\|Creating Character: Magic & Faith]]. 
+> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/02 Magic & Faith\|Creating Character: Magic & Faith]]. 
 
 
 ### The Seekers of Thelios
 
 In the revolutionized Thelios, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but their chapter here fell from grace when magic was outlawed. 
 
-Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Thelios. The unique background options in Chapter [[00 Player Guide/Creating Character/08 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
+Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Thelios. The unique background options in Chapter [[00 Player Guide/Creating Character/01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 The Seekers is an ancient order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
 
@@ -92,39 +96,4 @@ More information about Ambrose and its inhabitant could be found in the later ch
 
 </div></div>
 
-
-| Image                                                                      | Column Name                                                         |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]** |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**             |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**                   |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]**     |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**                |
-| ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**                |
-
-{ .block-language-dataview}
-
-
->[!faq]
-> | Image                                                                      | Column Name                                                         |
-> | -------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Atlas/Continents\|Continents]]**         |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]** |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History\|History]]**             |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic\|Magic]]**                   |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Magic/Magic-Arcane\|Magic-Arcane]]**     |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/Nature/Nature\|Nature]]**                |
-> | ![\|sban cover hmtiny](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/People/People\|People]]**                |
-> 
-{ .block-language-dataview}
-
->[!column|dataview 3] Topics
-> - [[z_Glossary/Index/Faith\|Faith]]
-> - [[z_Glossary/Index/History\|History]]
-> - [[z_Glossary/Index/Magic\|Magic]]
-> - [[z_Glossary/Index/Occult\|Occult]]
-> - [[z_Glossary/Index/Organization\|Organization]]
-> 
-{ .block-language-dataview}
 

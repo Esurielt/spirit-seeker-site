@@ -6,7 +6,9 @@
 
 ### A New Dawn of Magic
 
-Magic in Erythea meets a new dawn after a dramatic transformation. From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by causing ripples in the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
+In the heart of the empire of Klysiem, a new dawn of magic shine over the city of Ambrose. 
+
+From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by causing ripples in the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
 
 However, this delicate balance was shifted by an unprecedented event—the Arcane Revolution. In Thelios, arcane scholars discovered Cerulite—a mineral capable of being temporarily charged to act as a conduit for magical energies. By substituting a living mage with charged Cerulite, this newfound technology facilitated magic's transition from an artform practiced by individual mages to a mass-produced commodity available to all. Cerulite-powered trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless spells at a fingers' touch. 
 
@@ -23,14 +25,14 @@ The city streets already have enough to be worried about. A resurgence in abomin
 > 
 > While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles in Erythea. Legendary wizards who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
 > 
-> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/03 Magic & Faith\|Creating Character: Magic & Faith]]. 
+> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[00 Player Guide/Creating Character/02 Magic & Faith\|Creating Character: Magic & Faith]]. 
 
 
 ### The Seekers of Thelios
 
 In the revolutionized Thelios, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but their chapter here fell from grace when magic was outlawed. 
 
-Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Thelios. The unique background options in Chapter [[00 Player Guide/Creating Character/08 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
+Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Thelios. The unique background options in Chapter [[00 Player Guide/Creating Character/01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 The Seekers is an ancient order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
 
