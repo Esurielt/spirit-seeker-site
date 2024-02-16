@@ -3,7 +3,5 @@
 ---
 
 
-
-
-
+## Ambrose, the Cerulean City
 [[01 World of Erythea/People/Organizations/The Seekers\|The Seekers]] 
