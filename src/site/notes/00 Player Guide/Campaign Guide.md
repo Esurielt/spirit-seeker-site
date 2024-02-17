@@ -66,9 +66,9 @@ Amidst this discordance grew organizations shadowed from public view—secret so
 The city streets already have enough to be worried about. A resurgence in abominations—entities born from corrupted spirits—and rogue mages seeking vengeance or power stoked fears across the nation. The once rare disturbances became ominously commonplace, spurring whispers that some agency beyond mere human error was at play. 
 
 > [!faq]+ How "High Magic" is Erythea?
-> it is important to note that Erythea is a **wide** magic setting rather than a high magic one. 
+> It is important to note that Erythea is a **wide** magic setting rather than a high magic one. 
 > 
-> While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles in Erythea. Legendary wizards who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
+> While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles. Legendary wizards of national epics who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
 > 
 > Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[02 Magic & Faith\|Creating Character: Magic & Faith]]. 
 
@@ -83,7 +83,49 @@ The Seekers is an ancient order devoted to protecting the realm from rogue magic
 
 You come to the Seekers' Pharousia chapter in a time of change. Not long ago, Seekers were branded outlaws along with many other unofficial mages, in an effort to secure the means of magic by the Crown. Seekers’ ranks suffered severely. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Vault of Wonders, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
 
-As a new Seeker pledge, you will train under the beautiful and capable Chapter Master Viola Whytebourn, said to have slain a thousand horrors in her time. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
+As a new Seeker pledge, you will train under the beautiful and capable Chapter Master Viola Whytebourne, said to have slain a thousand horrors in her time. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
+
+<body>
+    <div class="pf2block" style="width: 100%; margin: 1rem auto">
+        <div class="d-flex">
+            <h1>The Seekers, Pharousia Chapter </h1>
+            <h2 class="ml-auto" style="color: grey">organization </h2>
+        </div>
+        <div style="background: transparent; height: 2px; margin: 0px 0px 0.2rem;"></div>
+        <div style="" class="pf-trait pf-trait-edge">&nbsp;</div>
+        <div class="pf-trait pf-trait-align">ng</div>
+        <div class="pf-trait pf-trait-size">small</div>
+        <div style="" class="pf-trait">intelligence</div>
+        <div style="" class="pf-trait">academic</div>
+        <div style="" class="pf-trait pf-trait-edge">&nbsp;</div>
+        <div class="text-pf">
+            <p class="hang"><strong>Scope and Influence</strong> local(Ambrose; moderate), national(Pharousia; weak)</p>
+            <p class="hang"><strong>Goals</strong> protect the civilians against supernatural threats by hunting
+                abominations and specters, cleaning up accidents, recovering misused magical artifacts, apprehending
+                rogue mages, as well as investigating unexplained phenomenons. </p>
+            <div style="background: transparent; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div>
+            <p class="hang"><strong>Headquarters</strong> Azure Quill, Ambrose (front operation as a news and private
+                eye agency)</p>
+            <p class="hang"><strong>Key Members</strong> Phrousia Chapter Master Viola Whytebourne, Field Captain Azarath al-Sayed,  Lorekeeper Uranus Ishkawa, Seeker Ebith Sereni, Quartermaster Quinn</p>
+            <p class="hang"><strong>Allies</strong> Emissaries of the Starkeeper, Phrousian Sovereign and Cerulean
+                Chamber, The Red Hart Tavern, local spiritmancers</p>
+            <p class="hang"><strong>Enemies</strong> Steel Syndicate, Ashen Circle, Churches and cults that use
+                abominations or specters for harm.</p>
+            <p class="hang"><strong>Assets</strong> sponsorship contract from the Sovereign, Azure Quill Newspaper and
+                Private Investigation, magic items in the Vault of Wonders (guardianship granted by the Sovereign),
+                training</p>
+            <p class="hang"><strong>Membership Requirements</strong> have previous supernatural experience, knows the
+                Seekers' existence, and pass the Initiation assignment</p>
+            <p class="hang"><strong>Values</strong> magical aptitude, decisive thinking, camaraderie, cooperation,
+                containing danger, secrecy, pragmatism, dedication</p>
+            <p class="hang"><strong>Anathema</strong> abandoning civilians in danger, cowardice, not improve one's
+                magical ability, let magical threat run wild, hurting the powerless</p>
+            <div style="background:transparent; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div>
+            <p><em>Abomination hunters who wield spells and sword to protect the realm from magical threats.</em></p>
+        </div>
+    </div>
+</body>
+
 
 ### Ambrose
 The PCs begin this campaign in Ambrose, one of the most important city in Pharousia. While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. The following provides a brief overview of the city and its culture. 
