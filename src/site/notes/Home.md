@@ -33,15 +33,15 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
     </div>
 
 >[!note|clean ttl-c no-i] [[00 Player Guide/Campaign Guide\|Player's Guide]] 
-| Topics                                                               | Pages                                                                         |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![\|sban banner](https://i.imgur.com/RryOWa4.jpeg)                   | **[[01 World of Erythea/Magic/Arcanetech Overview\|Arcanetech Overview]]** |
-| ![\|sban banner](https://i.imgur.com/MrEaDSM.jpeg)                   | **[[01 World of Erythea/People/People\|People]]**                          |
-| ![\|sban banner](https://i.imgur.com/sNADPD9.jpeg)                   | **[[01 World of Erythea/Nature/Nature Overview\|Nature Overview]]**        |
-| ![\|sban banner](https://i.imgur.com/B0MYkrt.png)                    | **[[01 World of Erythea/Magic/Magic Overview\|Magic Overview]]**           |
-| ![\|sban banner](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History Overview\|History Overview]]**     |
-| ![\|sban banner](https://i.imgur.com/jz09ltN.png)                    | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]**           |
-| ![\|sban banner](https://i.imgur.com/dHyaEnR.jpeg)                   | **[[01 World of Erythea/Atlas/Atlas\|Atlas]]**                             |
+| Topics                                                                     | Pages                                                                         |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| ![\|sban cover hmicro](https://i.imgur.com/RryOWa4.jpeg)                   | **[[01 World of Erythea/Magic/Arcanetech Overview\|Arcanetech Overview]]** |
+| ![\|sban cover hmicro](https://i.imgur.com/MrEaDSM.jpeg)                   | **[[01 World of Erythea/People/People\|People]]**                          |
+| ![\|sban cover hmicro](https://i.imgur.com/sNADPD9.jpeg)                   | **[[01 World of Erythea/Nature/Nature Overview\|Nature Overview]]**        |
+| ![\|sban cover hmicro](https://i.imgur.com/B0MYkrt.png)                    | **[[01 World of Erythea/Magic/Magic Overview\|Magic Overview]]**           |
+| ![\|sban cover hmicro](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History Overview\|History Overview]]**     |
+| ![\|sban cover hmicro](https://i.imgur.com/jz09ltN.png)                    | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]**           |
+| ![\|sban cover hmicro](https://i.imgur.com/dHyaEnR.jpeg)                   | **[[01 World of Erythea/Atlas/Atlas\|Atlas]]**                             |
 
 { .block-language-dataview}
 
