@@ -33,6 +33,9 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
     </div>
 
 >[!note|clean ttl-c no-i] [[00 Player Guide/Campaign Guide\|Player's Guide]] 
+
+
+
 | Topics                                                                     | Pages                                                                         |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | ![\|sban cover hmicro](https://i.imgur.com/RryOWa4.jpeg)                   | **[[01 World of Erythea/Magic/Arcanetech Overview\|Arcanetech Overview]]** |
