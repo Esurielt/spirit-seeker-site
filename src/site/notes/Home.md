@@ -8,7 +8,7 @@
 
 **Erythea**, a vibrant world blessed by the dream of the spirits. Magic pulse through the veins of the land long through its history, yet we found ourselves in the heart of a mechanical metropolis - illuminated by streetlamps and signs powered by the fruit of arcane research, the **City of Ambrose** is crowded with skyscrapers and houses with metal bridges and light trails zooming through the cracks between the buildings. We, are in the birthplace of the Golden Age of Arcane. 
 
-It's in this world where we meet our heroes, new found **Seekers** who swore to protect the civilians from dangers in the shadow and magic lost to fables. When faced with a vison of an ancient threat, could they sway the course of fate and save the world?
+It's in this world where we meet our heroes, new found **Seekers** who swore to protect the civilians from dangers in the shadow and magic lost to fables. When faced with a vison of an ancient threat, could you sway the course of fate and save the world?
 
 
 ## Welcome To Erythea
@@ -36,15 +36,16 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
 
 
 
-| Topics                                                                     | Pages                                                                         |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![\|sban cover hmicro](https://i.imgur.com/RryOWa4.jpeg)                   | **[[01 World of Erythea/Magic/Arcanetech Overview\|Arcanetech Overview]]** |
-| ![\|sban cover hmicro](https://i.imgur.com/MrEaDSM.jpeg)                   | **[[01 World of Erythea/People/People\|People]]**                          |
-| ![\|sban cover hmicro](https://i.imgur.com/sNADPD9.jpeg)                   | **[[01 World of Erythea/Nature/Nature Overview\|Nature Overview]]**        |
-| ![\|sban cover hmicro](https://i.imgur.com/B0MYkrt.png)                    | **[[01 World of Erythea/Magic/Magic Overview\|Magic Overview]]**           |
-| ![\|sban cover hmicro](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History Overview\|History Overview]]**     |
-| ![\|sban cover hmicro](https://i.imgur.com/jz09ltN.png)                    | **[[01 World of Erythea/Faith/Faith Overview\|Faith Overview]]**           |
-| ![\|sban cover hmicro](https://i.imgur.com/dHyaEnR.jpeg)                   | **[[01 World of Erythea/Atlas/Atlas\|Atlas]]**                             |
+| Topics                                                                     | Pages                                                                |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![\|sban cover hsmall](https://i.imgur.com/dHyaEnR.jpeg)                   | ### [[01 World of Erythea/Atlas/Atlas\|Atlas]]                    |
+| ![\|sban cover hsmall](https://i.imgur.com/jz09ltN.png)                    | ### [[01 World of Erythea/Faith/Faith Overview\|Faith]]           |
+| ![\|sban cover hsmall](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | ### [[01 World of Erythea/History/History Overview\|History]]     |
+| ![\|sban cover hsmall](https://i.imgur.com/B0MYkrt.png)                    | ### [[01 World of Erythea/Magic/Magic Overview\|Magic]]           |
+| ![\|sban cover hsmall](https://i.imgur.com/sNADPD9.jpeg)                   | ### [[01 World of Erythea/Nature/Nature Overview\|Nature]]        |
+| ![\|sban cover hsmall](https://i.imgur.com/MrEaDSM.jpeg)                   | ### [[01 World of Erythea/People/People\|People]]                 |
+| ![\|sban cover hsmall](https://i.imgur.com/RryOWa4.jpeg)                   | ### [[01 World of Erythea/Magic/Technology Overview\|Technology]] |
+| ![\|sban cover hsmall](https://i.imgur.com/bxudo2j.png)                    | ### [[z_Glossary\|Glossary]]                                      |
 
 { .block-language-dataview}
 
