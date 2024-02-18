@@ -18,4 +18,4 @@ Through Arcane scholars' research, they have discovered [[z_Glossary/Cerulite\|C
 [[z_Glossary/Index/Magic\|Magic]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
