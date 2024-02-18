@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/00-player-guide/campaign-guide/","title":"Player's Guide","pinned":true,"contentClasses":"embed-clean hide-header-underline","tags":["Primer"],"dgShowInlineTitle":true,"noteIcon":"scroll"}
 ---
 
-> [!cite] Night in Ambrose
-> *In a world where magic flows from the dreams of ancient spirits, you walk out of the bar to crowded streets and arcane-illuminated skies. The Age of Arcane has come, Magic cast not by attuning with the mystics of old, but by gleaming engines and clever artifice. Cerulite reactors now shape reality at the whims of an industrial few. Yet, as you walk the lamp-lit avenues with purpose in your step, you sense a deeper malaise plaguing this progress. Whispers speak of unrest among the outcast mages, of strange disappearances and eerie events in the darkest alleys. You clutch your amulet beneath your cloak, a reminder of your own past encounters with forces unseen. Though the authorities promise prosperity, you feel the currents of magic growing erratic, like the scattered raindrops before a storm. As the sun sets over the metropolis, you know tonight your vigilance and skill will be tested once more. Adventure calls.*
-
+> [!quote|no-title]
+> In a world where magic flows from the dreams of ancient Spirits, you walk out of the bar to crowded streets and arcane-illuminated skies. The Age of Arcane has come, Magic cast not by attuning with the mystics of old, but by gleaming engines and clever artifice. Cerulite reactors now shape reality at the whims of an industrial few. Yet, as you walk down the lamp-lit avenues with purpose in your steps, you sense a deeper malaise plaguing this progress. Whispers speak of unrest among the outcast mages, of strange disappearances and eerie events in the darkest alleys. You clutch your amulet beneath your cloak, a reminder of your own past encounters with forces unseen. Though the Sovereignty promises prosperity, you feel the currents of magic growing erratic, like the scattered raindrops before a storm. As the sun sets over the metropolis, you know tonight your vigilance and skill will be tested once more. Adventure calls.
 
 ## How to Use This Guide
+
 
 Welcome to the spellpunk streets of Ambrose, where arcane innovation lights up the night!
 
@@ -65,13 +65,17 @@ Amidst this discordance grew organizations shadowed from public view—secret so
 
 The city streets already have enough to be worried about. A resurgence in abominations—entities born from corrupted spirits—and rogue mages seeking vengeance or power stoked fears across the nation. The once rare disturbances became ominously commonplace, spurring whispers that some agency beyond mere human error was at play. 
 
-> [!faq]+ How "High Magic" is Erythea?
-> It is important to note that Erythea is a **wide** magic setting rather than a high magic one. 
+> [!pf2note|ttl-c] How "High Magic" is Erythea?
+> It is important to note that Erythea, much like some of her spellpunk cousins, is more of a **wide** magic setting than a high magic one. 
 > 
-> While magic that bring daily convenience is commonplace, extremely powerful spells—like planar and temporal travel—are almost impossible due to the intricate properties of reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles. Legendary wizards of national epics who said to command weather and call forth disasters are also incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical feats.
+> While magic that bring daily convenience is commonplace, extremely powerful spells—such as long-distance, planar, and temporal travel—are merely fairytales due to the intrinsic properties of magic and reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles. 
 > 
-> Mechanically, this means a few spells might not be legal for this campaign. You can find out more information in the chapter of [[02 Magic & Faith\|Creating Character: Magic & Faith]]. 
-
+> While village witches might know how to heal the sick, pray for rain, tell the fortune, they don't necessarily always get an definite response. Legendary wizards of national epics who said to command weather and call forth disasters are incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical effect.
+>  
+> ---
+> **What Does This Mean For Me?**
+> Mechanically, this means a few spells might not be legal or seen as incredibly Rare or Unique in this campaign. You can find out more information about magic options and rarity in the chapter of [[00 Player Guide/Character Creation#Magic & Faith\|Creating Character: Magic & Faith]]. 
+> ^faq-high-magic
 
 ### The Seekers of Pharousia
 
@@ -85,11 +89,16 @@ You come to the Seekers' Pharousia chapter in a time of change. Not long ago, Se
 
 As a new Seeker pledge, you will train under the beautiful and capable Chapter Master Viola Whytebourne, said to have slain a thousand horrors in her time. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-glossary/seeker/#statblock-seekers" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 <body>
     <div class="pf2block" style="width: 100%; margin: 1rem auto">
         <div class="d-flex">
-            <h1>The Seekers, Pharousia Chapter </h1>
-            <h2 class="ml-auto" style="color: grey">organization </h2>
+            <h1>The Seekers, Ambrose Chapter </h1>
+            <h2 class="ml-auto">organization  7</h2>
         </div>
         <div style="background: transparent; height: 2px; margin: 0px 0px 0.2rem;"></div>
         <div style="" class="pf-trait pf-trait-edge">&nbsp;</div>
@@ -103,33 +112,37 @@ As a new Seeker pledge, you will train under the beautiful and capable Chapter M
             <p class="hang"><strong>Goals</strong> protect the civilians against supernatural threats by hunting
                 abominations and specters, cleaning up accidents, recovering misused magical artifacts, apprehending
                 rogue mages, as well as investigating unexplained phenomenons. </p>
-            <div style="background: transparent; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div>
+            <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div>
             <p class="hang"><strong>Headquarters</strong> Azure Quill, Ambrose (front operation as a news and private
                 eye agency)</p>
-            <p class="hang"><strong>Key Members</strong> Phrousia Chapter Master Viola Whytebourne, Field Captain Azarath al-Sayed,  Lorekeeper Uranus Ishkawa, Seeker Ebith Sereni, Quartermaster Quinn</p>
+            <p class="hang"><strong>Key Members</strong> Phrousia Chapter Master Viola Whytebourne, Field Captain Azarath al-Sayed,  Lorekeeper Uranus Ishkawa, Seeker Ebith Sereni, Quartermaster Quinn Qulrudae </p>
             <p class="hang"><strong>Allies</strong> Emissaries of the Starkeeper, Phrousian Sovereign and Cerulean
                 Chamber, The Red Hart Tavern, local spiritmancers</p>
-            <p class="hang"><strong>Enemies</strong> Steel Syndicate, Ashen Circle, Churches and cults that use
+            <p class="hang"><strong>Enemies</strong> Steel Syndicate, Ashen Circle, Churches and cults that worship or use
                 abominations or specters for harm.</p>
-            <p class="hang"><strong>Assets</strong> sponsorship contract from the Sovereign, Azure Quill Newspaper and
+            <p class="hang"><strong>Assets</strong> sponsorship from the Sovereign, Azure Quill Newspaper and
                 Private Investigation, magic items in the Vault of Wonders (guardianship granted by the Sovereign),
                 training</p>
-            <p class="hang"><strong>Membership Requirements</strong> have previous supernatural experience, knows the
-                Seekers' existence, and pass the Initiation assignment</p>
+            <p class="hang"><strong>Membership Requirements</strong> have previous supernatural experience, know the existence of the Seekers, and pass the Rites of Initiation</p>
             <p class="hang"><strong>Values</strong> magical aptitude, decisive thinking, camaraderie, cooperation,
                 containing danger, secrecy, pragmatism, dedication</p>
             <p class="hang"><strong>Anathema</strong> abandoning civilians in danger, cowardice, not improve one's
-                magical ability, let magical threat run wild, hurting the powerless</p>
-            <div style="background:transparent; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div>
+                magical and combat ability, let magical threat run wild, hurting the powerless</p>
+            <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div>
             <p><em>Abomination hunters who wield spells and sword to protect the realm from magical threats.</em></p>
         </div>
     </div>
 </body>
 
+</div></div>
+
 
 ### Ambrose
-The PCs begin this campaign in Ambrose, one of the most important city in Pharousia. While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. The following provides a brief overview of the city and its culture. 
+The PCs begin this campaign in Ambrose, one of the important location to the discovery and industrialization of Cerulite technologies in the Sovereignty of Pharousia, by the coasts of north-eastern Elbon. 
+While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. 
 More information about Ambrose and its inhabitant could be found in the later chapter of this guide in [[00 Player Guide/Lore Primer\|Ambrose and Pharousia]], as well as on this site in the World of Erythea section. 
+
+- [ ] #task Insert Erythea world map here 
 
 
 
