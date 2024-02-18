@@ -8,4 +8,4 @@ The underlying energy that permeates the world and connects all living beings. I
 [[z_Glossary/Index/Faith\|Faith]],[[z_Glossary/Index/Magic\|Magic]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
