@@ -16,4 +16,4 @@ When an element counters another, the countered element usually turns more [[z_G
 [[z_Glossary/Index/Magic\|Magic]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
