@@ -12,4 +12,4 @@ A cluster of Aether could often be described as a soul or a [[z_Glossary/spirit\
 [[z_Glossary/Index/Magic\|Magic]],[[z_Glossary/Index/Faith\|Faith]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
