@@ -33,4 +33,4 @@ For example:
 [[z_Glossary/Index/Magic\|Magic]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
