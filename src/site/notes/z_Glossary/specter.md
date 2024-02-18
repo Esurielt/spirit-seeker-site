@@ -8,4 +8,4 @@ Specters refers to [[z_Glossary/aether\|aether]] energy that is stuck in the wor
 [[z_Glossary/Index/Occult\|Occult]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
