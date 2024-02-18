@@ -9,4 +9,4 @@ The powerful Spirits that has reached the mankind in dreams and have been guidin
 [[z_Glossary/Index/Faith\|Faith]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
