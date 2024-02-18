@@ -10,4 +10,4 @@ Great Spirits slumbering Azlantians sleeping in the Astral Realm. Spirits is the
 [[z_Glossary/Index/Faith\|Faith]],[[z_Glossary/Index/Magic\|Magic]],[[z_Glossary/Index/Occult\|Occult]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
