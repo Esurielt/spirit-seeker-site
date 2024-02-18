@@ -25,4 +25,4 @@ A human's bodily aether is composed of 6 part Water, 1 part Stone and Metal, 2 p
 [[z_Glossary/Index/Magic\|Magic]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
