@@ -14,4 +14,4 @@ By trapping the twisted essence of these beings, the [[z_Glossary/Emissaries of 
 [[z_Glossary/Index/Occult\|Occult]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
