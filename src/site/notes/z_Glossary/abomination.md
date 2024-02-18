@@ -12,4 +12,4 @@ Abominations and specters can be neutralized then captured using the [[z_Glossar
 [[z_Glossary/Index/Occult\|Occult]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
