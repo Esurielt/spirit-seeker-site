@@ -9,4 +9,4 @@
 [[z_Glossary/Index/Occult\|Occult]],[[z_Glossary/Index/Organization\|Organization]]
 
 
-[[Glossary\|BACK TO INDEX]]
+[[z_Glossary\|BACK TO INDEX]]
