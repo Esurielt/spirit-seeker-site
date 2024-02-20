@@ -1,8 +1,9 @@
+
 .wide-page {
     --file-line-width: 100%;
     --page-width: 100%;
 }
-.wide-page.markdown-source-view.mod-cm6 .cm-sizer, .wide-page .markdown-source-view.mod-cm6 .cm-scroller .cm-sizer, .wide-page .markdown-preview-sizer
+.wide-page.markdown-source-view.mod-cm6 .cm-sizer, .wide-page .markdown-source-view.mod-cm6 .cm-scroller .cm-sizer, .wide-page .markdown-preview-sizer, .content
 {
   max-width: var(--file-line-width);
   margin: auto;
