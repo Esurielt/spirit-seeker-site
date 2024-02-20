@@ -1,0 +1,1 @@
+`=unique(filter(this.file.inlinks + this.file.outlinks, (x) => all([contains(meta(x).path, "z_Glossary/"), none(contains(meta(x).path,"Index"))])))`
