@@ -1,17 +1,9 @@
-
-.wide-page {
-    --file-line-width: 100%;
-    --page-width: 100%;
-}
-.wide-page.markdown-source-view.mod-cm6 .cm-sizer, .wide-page .markdown-source-view.mod-cm6 .cm-scroller .cm-sizer, .wide-page .markdown-preview-sizer, .content
-{
-  max-width: var(--file-line-width);
-  margin: auto;
+.dataview ul > li:not(.task-list-item)::before {
+    margin-left: -0.5rem;
+    margin-right: 5px;
 }
 
 body.css-settings-manager {
-    --file-line-width: 800px;
-    --page-width: 800px;
     --hr-icon-font: its;
     --hr-width: 100%;
     --hr-thickness: 1px;
@@ -167,7 +159,7 @@ body.theme-dark.css-settings-manager {
     --accent2-lite: #AAA08C;
 }
 
-body{
+body {
     --h4-weight: 700;
     --h5-weight: 700;
     --font-text-override: 'Nunito';
@@ -175,12 +167,13 @@ body{
 }
 
 
-h4, .is-live-preview .HyperMD-header-4 {
+h4,
+.is-live-preview .HyperMD-header-4 {
     text-transform: uppercase;
 }
 
 
-.nav-folder.mod-root > .nav-folder-title::before{
+.nav-folder.mod-root>.nav-folder-title::before {
     align-self: baseline;
 }
 
@@ -201,7 +194,8 @@ h4, .is-live-preview .HyperMD-header-4 {
     overflow: hidden;
 }
 
-.bookcover .img,.bookcover img {
+.bookcover .img,
+.bookcover img {
     max-width: 100%;
     max-height: 100%;
     height: 100%;
@@ -222,9 +216,11 @@ h4, .is-live-preview .HyperMD-header-4 {
     color: black;
 }
 
-.bookcover a,.bookcover a:hover {
+.bookcover a,
+.bookcover a:hover {
     text-decoration: none
 }
+
 /* 
 .bookcover a:hover .booktitle {
     background-color: #962626;
@@ -258,9 +254,5 @@ h4, .is-live-preview .HyperMD-header-4 {
     background-color: transparent;
     -webkit-transition: all .5s;
     color: #e6c86e;
-    font-family: Taroca ;
+    font-family: Taroca;
 }
-
-
-
-
