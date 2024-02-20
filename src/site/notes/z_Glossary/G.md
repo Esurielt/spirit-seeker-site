@@ -4,8 +4,8 @@
 
 
 
-| Term                                         | Definition                                                                                                                             | Topic                                                   | Related                                                                                       |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[z_Glossary/Great Spirit\|Great Spirit]] | The powerful Spirits that has reached the mankind in dreams and have been guiding the tide of history as Gods and subjects of worship. | <ul><li>[[z_Glossary/Index/Faith.md\\|Faith]]</li></ul> | <ul><li>[[z_Glossary.md\\|BACK TO INDEX]]</li><li>[[z_Glossary/Athtar.md\\|Athtar]]</li></ul> |
+| Term                                         | Definition                                                                                                                             | Topic                                                   | Aliases                                           |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| [[z_Glossary/Great Spirit\|Great Spirit]] | The powerful Spirits that has reached the mankind in dreams and have been guiding the tide of history as Gods and subjects of worship. | <ul><li>[[z_Glossary/Index/Faith.md\\|Faith]]</li></ul> | God, Spirit, Deity, Holy Spirit, Divinity, Astral |
 
 { .block-language-dataview}
