@@ -1,4 +1,16 @@
+.wide-page {
+    --file-line-width: 100%;
+    --page-width: 100%;
+}
+.wide-page.markdown-source-view.mod-cm6 .cm-sizer, .wide-page .markdown-source-view.mod-cm6 .cm-scroller .cm-sizer, .wide-page .markdown-preview-sizer
+{
+  max-width: var(--file-line-width);
+  margin: auto;
+}
+
 body.css-settings-manager {
+    --file-line-width: 800px;
+    --page-width: 800px;
     --hr-icon-font: its;
     --hr-width: 100%;
     --hr-thickness: 1px;
