@@ -38,12 +38,12 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
 ## Topics
 | Topics                                                                     | Pages                                                                |
 | -------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![\|sban cover hsmall](https://i.imgur.com/MrEaDSM.jpeg)                   | **[[01 World of Erythea/People/0 People\|People]]**               |
 | ![\|sban cover hsmall](https://i.imgur.com/dHyaEnR.jpeg)                   | **[[01 World of Erythea/Atlas/Atlas\|Atlas]]**                    |
 | ![\|sban cover hsmall](https://i.imgur.com/jz09ltN.png)                    | **[[01 World of Erythea/Faith/Faith Overview\|Faith]]**           |
 | ![\|sban cover hsmall](https://i.imgur.com/84etCtd.jpeg "City of Assydia") | **[[01 World of Erythea/History/History Overview\|History]]**     |
 | ![\|sban cover hsmall](https://i.imgur.com/B0MYkrt.png)                    | **[[01 World of Erythea/Magic/Magic Overview\|Magic]]**           |
 | ![\|sban cover hsmall](https://i.imgur.com/sNADPD9.jpeg)                   | **[[01 World of Erythea/Nature/Nature Overview\|Nature]]**        |
-| ![\|sban cover hsmall](https://i.imgur.com/MrEaDSM.jpeg)                   | **[[01 World of Erythea/People/People\|People]]**                 |
 | ![\|sban cover hsmall](https://i.imgur.com/RryOWa4.jpeg)                   | **[[01 World of Erythea/Magic/Technology Overview\|Technology]]** |
 | ![\|sban cover hsmall](https://i.imgur.com/bxudo2j.png)                    | **[[z_Glossary\|Glossary]]**                                      |
 
@@ -53,5 +53,4 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
 ### WIP Task List
 
 ```tasks
-
 ```
