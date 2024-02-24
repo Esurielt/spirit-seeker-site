@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/03-rule-elements/house-rule-references/","title":"House Rules: Mechanical references","contentClasses":"hide-header-underline embed-clean","noteIcon":"dice"}
+title: "House Rules: Mechanical references"
+dg-publish: true
+dg-home: false
+dg-pinned: false
+dg-show-inline-title: false
+note-icon: dice
+tags: 
+aliases:
+  - Mechanic Reference
+cssclasses:
+  - hide-header-underline
+  - embed-clean
 ---
-
 ## Fun Mechanic References
 ### Rarity
 Rarity in my games demonstrates the level of impact this element has on the story world. According to PF2 rulebooks, the rare and uncommon options are NOT stronger options, only more specific and complicated.  
