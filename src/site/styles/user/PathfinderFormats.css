@@ -64,7 +64,7 @@ table{
 
 .callout-title{
     font-family: var(--h4-font);
-    font-size: 1.1em;
+    font-size: 1.14em;
 }
 
 .callout.callout.callout{
@@ -116,6 +116,7 @@ body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callou
 }
 .callout.callout[data-callout="pf2info"] > .callout-title{
     text-transform: uppercase;
+    gap: 0px;
 }
 
 .callout.callout[data-callout="pf2info"] > .callout-title .callout-icon{
@@ -135,6 +136,7 @@ body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callou
 }
 .callout.callout[data-callout="pf2note"] > .callout-title{
     text-transform: uppercase;
+    gap: 0px;
 }
 
 .callout.callout[data-callout="pf2note"] > .callout-title .callout-icon{
@@ -156,6 +158,10 @@ body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callou
 .callout.callout[data-callout="pf2rule"] > .callout-title .callout-icon{
     width: 0;
     height: 0;
+}
+
+.callout.callout[data-callout="pf2rule"] > .callout-title{
+    gap: 0px;
 }
 .callout.callout[data-callout="pf2rule"] > .callout-title .callout-fold .svg-icon{
     color: grey;
