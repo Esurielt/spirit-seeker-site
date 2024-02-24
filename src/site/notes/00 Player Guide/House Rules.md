@@ -50,19 +50,22 @@ This also means **No Joke Character** - the character can have a fun goal or fix
 ### Rarity
 Rarity in my games demonstrates the level of impact this element has on the story world. According to PF2 rulebooks, the rare and uncommon options are NOT stronger options, only more specific and complicated.  
 
-<span class="pf-trait pf-trait-common">Common</span>  
+<span class="pf-trait pf-trait-common"><a class = "pf-trait-common" href = "/03-Rule-Elements/House-Rule-References/#rarity-common">Common</a></span>  
 You need no explanation using this option. People probably know of or are related to some one who have this. 
-*(Any option that have no rarity trait labeled is Common)*
+*(Any option that have no rarity trait labeled is Common)* 
+^rarity-common
 
 <span class="pf-trait pf-trait-uncommon">Uncommon</span>  
 This is the highest rarity you can choose normally. This option should be integrated into your character's backstory and be an notable part of your character. Local people only heard of tales of this option, and might be taken aback with woe and wonder because of it. 
+^rarity-uncommon
 
 <span class="pf-trait pf-trait-rare">Rare</span> 
 You may not choose this option unless you are rewarded with a rare option or you have discussed with me, because this option not only would have large impact on your character, but possibly the world if it is on a PC. It is still legal, and might be awarded as story goes on as well. It is an opportunity for us to write the setting of the story together and create the specific fantasy you are looking for. 
+^rarity-rare
 
 <span class="pf-trait pf-trait-limited">Limited</span> 
 This option is illegal—well, *mostly*—unless you convince me otherwise. You have 10 minutes—now go!
-
+^rarity-limited
 
 ### Currency
 This campaign uses the RAW currency scaling of 1 pp = 10 gp = 100 sp = 1000 cp
