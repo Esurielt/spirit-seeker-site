@@ -23,8 +23,17 @@ More inspiration might be found in the [[00 Player Guide/Character Creation#Back
 ### Ancestries
 The [[01 World of Erythea/People/Ancestries\|Ancestries]] page has more detail about each Ancestries entries. The following are the ancestries and lineages you could find in the world of Erythea. 
 
-#### Second Age Ancestries 
+>[!pf2rule] TLDR 
+> Among the common ancestries, these following are [[03 Rule Elements/House Rule References#^rarity-rare\|Rare]]: Elf, Gnome, Leshy. Meaning, you cannot choose these ancestries without a rare option reward / discussion with GM. The lore of these ancestries could be found in the [[01 World of Erythea/People/Ancestries\|Ancestries]] page. 
+> Please refer to the list for availability on all other published ancestries. Note that [[03 Rule Elements/House Rule References#^rarity-uncommon\|Uncommon]] ancestries needs to be strongly incorporated into your character story, as they would invite development in the campaign. 
+
+#### Second Age Creations
 Common 
+>[!pf2rule|bg-c]- Human 
+>dfjslkajfadklsj
+
+
+
 Human
 Dwarf
 Goblin
@@ -47,6 +56,55 @@ Vishkanya
 Shoony 
 Beastkin 
 
+Rare 
+Anadi 
+
+#### Artificial Humanoids
+Uncommon 
+Automaton 
+Poppet 
+
+Rare 
+Andriod 
+Fleshwarp 
+Reflection 
+
+#### Dreamtouched 
+Uncommon 
+Nephilim 
+Changeling 
+Duskwalker 
+Ardande 
+Talos 
+Undine 
+Sylph 
+Oread 
+Suli 
+
+Rare 
+Dhampir 
+Fetchling 
+Ganzi
+
+#### First Age Creation 
+Uncommon 
+Aiuvarin (Half-Elf)  
+
+Rare 
+Elf
+Gnome 
+Leshy 
+Ifrit 
+Gnoll 
+Azarketi 
+Shisk 
+Strix 
+Kashrishi 
+Sprite 
+Goloma 
+
+#### Limited 
+Skeleton 
 
 ### Backgrounds
 
