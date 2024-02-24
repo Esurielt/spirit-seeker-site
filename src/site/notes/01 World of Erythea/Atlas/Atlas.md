@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-world-of-erythea/atlas/atlas/","title":"Atlas","pinned":true,"tags":["homepages"],"noteIcon":"scroll"}
+dg-publish: true
+dg-pinned: true
+title: Atlas
+note-icon: scroll
+tags:
+  - homepages
+image: https://i.imgur.com/dHyaEnR.jpeg
 ---
-
 # World Codex
 
 <iframe src="https://www.worldanvil.com/w/erythea-esurielt/map/f7062fca-79e4-49ad-8aad-f684554b9270" width="100%" height="600"></iframe>
