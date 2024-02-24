@@ -4,7 +4,7 @@
 
 
 ## Creating Character 
-The city of Ambrose has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
+The city of Azur-Aulihrun has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
 
 - [ ] #task Creating Character page 
 ### Alignment, Edict, & Anathema
@@ -21,6 +21,31 @@ Character who does not care to improve the life of the citizens and protect the 
 More inspiration might be found in the [[00 Player Guide/Character Creation#Backgrounds\|#Backgrounds]] section. 
 
 ### Ancestries
+The [[01 World of Erythea/People/Ancestries\|Ancestries]] page has more detail about each Ancestries entries. The following are the ancestries and lineages you could find in the world of Erythea. 
+
+#### Second Age Ancestries 
+Common 
+Human
+Dwarf
+Goblin
+Hobgoblin
+Halfling
+Felidae (Catfolk)
+Kitsune 
+Kobold 
+Tengu
+Lizardfolk 
+Orc / Half-Orc 
+Ratfolk 
+
+Uncommon
+Conrasu 
+Nagaji 
+Gripplis 
+Vanara 
+Vishkanya 
+Shoony 
+Beastkin 
 
 
 ### Backgrounds
