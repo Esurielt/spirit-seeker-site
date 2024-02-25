@@ -6,7 +6,7 @@
 
 ### A New Dawn of Magic
 
-In the heart of the empire of Pharousia, a new dawn of magic shine over the city of Azur-Aulihrun. 
+In the heart of the empire of Pharousia, a new dawn of magic shine over the city of Azulihrun. 
 
 From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by sympathizing with the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
 
@@ -30,7 +30,7 @@ The city streets already have enough to be worried about. A resurgence in abomin
 > 
 > Mechanically, this means a few spells might not be legal or seen as incredibly Rare or Unique in this campaign. You can find out more information about magic options and their rarity in the chapter of [[00 Player Guide/Character Creation#Magic & Faith\|Creating Character: Magic & Faith]].
 > 
-> It also means that the high-rank spellcasting rarely would be available to NPCs. For example, in a level 14 settlement like Azur-Aulihrun, you would only find spellcasting services up to 4th-rank spells (as supposed to 7th-rank spells according to PF2 RAW). 
+> It also means that the high-rank spellcasting rarely would be available to NPCs. For example, in a level 14 settlement like Azulihrun, you would only find spellcasting services up to 4th-rank spells (as supposed to 7th-rank spells according to PF2 RAW). 
 >
 { #faq-high-magic}
 
@@ -43,7 +43,7 @@ Toward the start of the campaign, you and your party members arrived at the the 
 
 In the revolutionized Pharousia, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but you come to the Seekers' Pharousia chapter in a time of change. 
 
-A few years ago, Seekers were branded outlaws along with many other unofficial mages, in an effort to secure the means of magic by the Crown. After some targeted sweep and a series of tragedy in the recent surge of abominations, Seekers’ ranks in Azur-Aulihrun suffered severely. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Reliquary Vault, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
+A few years ago, Seekers were branded outlaws along with many other unofficial mages, in an effort to secure the means of magic by the Crown. After some targeted sweep and a series of tragedy in the recent surge of abominations, Seekers’ ranks in Azulihrun suffered severely. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Reliquary Vault, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
 
 As a new Seeker pledge, you will train under the fair and capable Chapter Master Viola Whytebourne. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
 
@@ -52,21 +52,37 @@ As a new Seeker pledge, you will train under the fair and capable Chapter Master
 
 
 
->[!cite|clean]+ The Seekers, Azur-Aulihrun Chapter 
-><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>The Seekers, Azur-Aulihrun Chapter </h1> <h2 class="ml-auto">organization  7</h2> </div> <div style="background: transparent; height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ng</div> <div class="pf-trait pf-trait-size">small</div> <div style="" class="pf-trait">intelligence</div> <div style="" class="pf-trait">academic</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Scope and Influence</strong> local(Azur-Aulihrun; moderate), national(Pharousia; weak)</p> <p class="hang"><strong>Goals</strong> protect the civilians against supernatural threats by hunting abominations and specters, cleaning up accidents, recovering misused magical artifacts, apprehending rogue mages, as well as investigating unexplained phenomenons. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Headquarters</strong> Azure Quill, Azur-Aulihrun (front operation as a news and private eye agency)</p> <p class="hang"><strong>Key Members</strong> Phrousia Chapter Master Viola Whytebourne, Field Captain Azarath al-Sayed,  Lorekeeper Uranus Ishkawa, Seeker Ebith Sereni, Quartermaster Quinn Qulrudae </p> <p class="hang"><strong>Allies</strong> Emissaries of the Starkeeper, Phrousian Sovereign and Cerulean Chamber, The Red Hart Tavern, local spiritmancers</p> <p class="hang"><strong>Enemies</strong> Steel Syndicate, Ashen Circle, Churches and cults that worship or use abominations or specters for harm.</p> <p class="hang"><strong>Assets</strong> sponsorship from the Sovereign, Azure Quill Newspaper and Private Investigation, magic items in the Vault of Wonders (guardianship granted by the Sovereign), training</p> <p class="hang"><strong>Membership Requirements</strong> have previous supernatural experience, know the existence of the Seekers, and pass the Rites of Initiation</p> <p class="hang"><strong>Values</strong> magical aptitude, decisive thinking, camaraderie, cooperation, containing danger, secrecy, pragmatism, dedication</p> <p class="hang"><strong>Anathema</strong> abandoning civilians in danger, cowardice, not improve one's magical and combat ability, let magical threat run wild, hurting the powerless</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p><em>Abomination hunters who wield spells and sword to protect the realm from magical threats.</em></p> </div> </div>
+>[!cite|clean]+ The Seekers, Azulihrun Chapter 
+><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>The Seekers, Azulihrun Chapter </h1> <h2 class="ml-auto">organization  7</h2> </div> <div style="background: transparent; height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ng</div> <div class="pf-trait pf-trait-size">small</div> <div style="" class="pf-trait">intelligence</div> <div style="" class="pf-trait">academic</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Scope and Influence</strong> local(Azulihrun; moderate), national(Pharousia; weak)</p> <p class="hang"><strong>Goals</strong> protect the civilians against supernatural threats by hunting abominations and specters, cleaning up accidents, recovering misused magical artifacts, apprehending rogue mages, as well as investigating unexplained phenomenons. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Headquarters</strong> Azure Quill, Azulihrun (front operation as a news and private eye agency)</p> <p class="hang"><strong>Key Members</strong> Phrousia Chapter Master Viola Whytebourne, Field Captain Azarath al-Sayed,  Lorekeeper Uranus Ishkawa, Seeker Ebith Sereni, Quartermaster Quinn Qulrudae </p> <p class="hang"><strong>Allies</strong> Emissaries of the Starkeeper, Phrousian Sovereign and Cerulean Chamber, The Red Hart Tavern, local spiritmancers</p> <p class="hang"><strong>Enemies</strong> Steel Syndicate, Ashen Circle, Churches and cults that worship or use abominations or specters for harm.</p> <p class="hang"><strong>Assets</strong> sponsorship from the Sovereign, Azure Quill Newspaper and Private Investigation, magic items in the Vault of Wonders (guardianship granted by the Sovereign), training</p> <p class="hang"><strong>Membership Requirements</strong> have previous supernatural experience, know the existence of the Seekers, and pass the Rites of Initiation</p> <p class="hang"><strong>Values</strong> magical aptitude, decisive thinking, camaraderie, cooperation, containing danger, secrecy, pragmatism, dedication</p> <p class="hang"><strong>Anathema</strong> abandoning civilians in danger, cowardice, not improve one's magical and combat ability, let magical threat run wild, hurting the powerless</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p><em>Abomination hunters who wield spells and sword to protect the realm from magical threats.</em></p> </div> </div>
 
 </div></div>
 
 
-### Azur-Aulihrun at a Glance
-The PCs begin this campaign in Azur-Aulihrun, one of the important location to the industrialization of Cerulium technologies in the Sovereignty of Pharousia, by the north-eastern coasts of Elbon. 
-While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. Whether your character is Azur-Aulihrun-born, a first- or second-generation immigrant, or a total newcomer, it's worthwhile to master some of the basic nomenclature in the Cerulean City. 
+### Azulihrun at a Glance
+The PCs begin this campaign in Azulihrun, one of the important location to the industrialization of Cerulium technologies in the Sovereignty of Pharousia, by the north-eastern coasts of Elbon. 
+While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. Whether your character is Azulihrun-born, a first- or second-generation immigrant, or a total newcomer, it's worthwhile to master some of the basic nomenclature in the Cerulean City. 
 
-- [ ] #task Insert Erythea world map and Azur-Aulihrun region map.
+- [ ] #task Insert Erythea world map and Azulihrun region map.
 
-This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Eblon/Pharousia/Azur-Aulihrun\|Azur-Aulihrun, the Cerulean City]]. 
+This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
 
-#### Azur-Aulihrun Stats
+#### Azulihrun in Pharousia
+While Azulihrun is not the capital of Pharousia, it has always been the country's crown jewel of culture and trade. Azulihrun sits in the in the center of the Aurum Trail -  a bustling trade route stretching across various nations in Aerawan and Ebolon,  from Kadiya and Xia-Zhou, to Pharousia, Dorn, Nephara, and Qahalim. 
+
+Now with the Arcane revolution, the city has also become a industrial center of progress and innovation, and contributed greatly to the spread of Arcane Technology along the Aurum Trail. Following the various important Cerulium inventions, Silverthorn Arcane Institute of Azulihrun has since become one of the most prominent arcane academies in the world, surpassing even the Royal Conservatory in Vashem, the Capital of Pharousia. 
+
+To name a few inventions that was conceived in the Cerulean City - Cerulium carriage that levitates in the air with magical wheels, mechanical servants and companions that follows simple command, arcane telescope that sees far into the horizon and can track the trail of stars. Silverthorn also has the most authority on Cerulium transportation - such as trains and airship. 
+
+Other than being the center of Cerulium industry, Azulihrun is also the most cosmopolitan city in Pharousia, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Ebolon/Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Ebolon/Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia, and many of them now came to Azulihrun seeking a new life. 
+
+Azulihrun sits along the coast of Jade Sea and is divided by the roaring Morrowind River into the lower-middle class side of the city known as the Azul and the noble and wealthy side of Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
+
+#### Skyspire
+The Sovereign Emre Sarayli has recently initiated a national construction project called the Skyspires, a network of artificial towers built with the most advanced Cerulium technology. These towers will be capable of transmitting sensory magic, such as images and sound. 
+
+Azulihrun will be the site of the first tower of its kind, while subsequent towers are planned to be constructed across the continent. 
+
+#### Azulihrun Stats
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -75,7 +91,7 @@ This section will only cover important concept and terms that's connected to the
 
 
 
-## Azur-Aulihrun Gazetteer
+## Azulihrun Gazetteer
 ### Factions 
 
 ### Locations
@@ -118,7 +134,7 @@ Shipping heartland teeming with traders. The Grand Pavilion is also located at t
 **House of Scroll** - An old book store for rare text. 
 **Silk Castle** - A tailorshop. 
 **Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
-**Fardae Logos** - the largest library in Azur-Aulihrun 
+**Fardae Logos** - the largest library in Azulihrun 
 **Twin Anvil** - an artifact shop for tools, devices, and weapons alike. 
 **Turning Leaf** - A newly-fashioned Cerulium device shop. 
 (and many others)
@@ -155,40 +171,24 @@ Azur-
 
 #### Ayrinda Amaranthine
 
->[!cite|clean]+ Azur-Aulihrun
-><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azur-Aulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Ashur, Adonis, Enki, Isimud</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azur-Aulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azur-Aulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azur-Aulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Ashur. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Adonis in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azur-Aulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
+>[!cite|clean]+ Azulihrun
+><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Ashur, Adonis, Enki, Isimud</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Ashur. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Adonis in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
 
-^statblock-Azulrun
+^statblock-Azulihrun
 
 </div></div>
 
 
 #### Districts at a Glance
+##### Azul
 **Spirit's Rest** - Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Ashur is in the alleyways between the parks and a few residential buildings.
 **The Hearthward**  - Cozy Residential areas of middle-to-low-income housing. 
-**Verdant Court**  - Opulent estates and middle-to-upper-class adobes.  
-**The Crownswork** - Administrative district that houses the government buildings. The Skyspire is being constructed here. 
 **Scholar's Hamlet** - The Silverthorn Arcane Institute and its surrounding establishments.  
- Industrial district that houses most Cerulium factories. 
 **The Loom** - Manufacturing district crowded with factories and temp housings for the low-income workers.  
 **Morrowind Harbor** - Shipping heartland teeming with traders. The Grand Pavilion is also located at the edge of the district toward the center of the city, showcasing shops with both traditional wares and cutting edge Cerulium inventions.  
 
-( Read More: [[01 World of Erythea/Atlas/Eblon/Pharousia/Azur-Aulihrun\|Azur-Aulihrun, the Cerulean City]])
+##### Aulihrun 
+**Verdant Court**  - Opulent estates and middle-to-upper-class adobes.  
+**The Crownswork** - Administrative district that houses the government buildings. The Skyspire is being constructed here. 
 
-#### Azur-Aulihrun in Pharousia
-While Azur-Aulihrun is not the capital of Pharousia, it has since become the country's most important industrial center of progress and innovation. Following the various Cerulium inventions, Silverthorn Arcane Institute of Azur-Aulihrun has since become one of the most prominent arcane academies in the world, surpassing even the Emberon Royal Conservatory in Casdim, the Capital of Pharousia. 
-
-To name a few inventions that was conceived in the Cerulean City - Cerulium carriage that levitates in the air with magical wheels, mechanical servants and companions that follows simple command,  telescope that sees far into the horizon. Silverthorn also has the most authority on Cerulium transportation - such as trains and airship. 
-
-Other than being the center of Cerulium industry, Azur-Aulihrun has also become a cosmopolitan city since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from around the Pharousia and the greater region. The constant territorial conflicts between [[Novaheim\|Novaheim Empire]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia, and many of them now came to Azur-Aulihrun seeking a new life. 
-
-Azur-Aulihrun sits along the roaring Morrowind River. A network of canals feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, Cerulium ore, fish, and culture in the form of entertainment and art.
-
-#### Skyspire
-The Sovereign Illya Aulorian has recently started a national construction project called the Skyspires, a network of artifice towers built with the greatest fruits of Cerulium technology that could be used to transmit sensory information - like image and sound. (Yes, they are building cell towers. )  
-Azur-Aulihrun will see the first tower of its kind, while more subsequent towers will be built around the nation. 
-
-
-
-
-
+( Read More: [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
