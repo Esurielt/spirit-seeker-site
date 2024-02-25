@@ -4,7 +4,7 @@
 
 Headquarters for Pharousian chapter of Seekers disguised as a newspaper and private investigation agency.
 
-Azure Quill publish local news in Azur-Aulihrun and Pharousia, also takes on private investigation request that coincide with the paper's interest - paranormal and dangerous cases that in needs of attention or solutions. 
+Azure Quill publish local news in Azulihrun and Pharousia, also takes on private investigation request that coincide with the paper's interest - paranormal and dangerous cases that in needs of attention or solutions. 
 
 ##### Topics
 [[z_Glossary/Index/Organization\|Organization]]
