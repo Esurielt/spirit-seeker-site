@@ -6,7 +6,7 @@
 
 # Erythea, land of the Spirits 
 
-**Erythea**, a vibrant world blessed by the dream of the spirits. Magic pulse through the veins of the land long through its history, yet we found ourselves in the heart of a mechanical metropolis - illuminated by streetlamps and signs powered by the fruit of arcane research, the **City of Azur-Aulihrun** is crowded with skyscrapers and houses with metal bridges and light trails zooming through the cracks between the buildings. We, are in the birthplace of the Golden Age of Arcane. 
+**Erythea**, a vibrant world blessed by the dream of the spirits. Magic pulse through the veins of the land long through its history, yet we found ourselves in the heart of a mechanical metropolis - illuminated by streetlamps and signs powered by the fruit of arcane research, the **City of Azulihrun** is crowded with skyscrapers and houses with metal bridges and light trails zooming through the cracks between the buildings. We, are in the birthplace of the Golden Age of Arcane. 
 
 It's in this world where we meet our heroes, new found **Seekers** who swore to protect the civilians from dangers in the shadow and magic lost to fables. When faced with a vison of an ancient threat, could you sway the course of fate and save the world?
 
