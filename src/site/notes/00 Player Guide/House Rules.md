@@ -1,13 +1,7 @@
 ---
-dg-publish: true
-dg-pinned: true
-title: House Rules
-tags:
-  - Primer
-aliases: []
-cssclasses:
-  - embed-clean
+{"dg-publish":true,"permalink":"/00-player-guide/house-rules/","title":"House Rules","pinned":true,"contentClasses":"embed-clean","tags":["Primer"],"noteIcon":""}
 ---
+
 >[!column|flex no-title] 
 >> [!info|no-icon] [[00 Player Guide/House Rules#Table Etiquettes\|#Table Etiquettes]]
 >> - [[00 Player Guide/House Rules#Guidelines of Play\|#Guidelines of Play]]
