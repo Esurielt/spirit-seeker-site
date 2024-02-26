@@ -31,7 +31,8 @@ Erythea is a diverse world teeming with fascinating culture and ancestries. Coll
 > Please refer to the list for availability on all other published ancestries. Note that [[03 Rule Elements/House Rule References#^rarity-uncommon\|Uncommon]] ancestries needs to be strongly incorporated into your character story, as they would invite development in the campaign. 
 
 
-Common 
+#### Common
+
 >[!pf2rule]- Human - Driven Settlers of the World
 >Of all the mortal races, none are more numerous and driven than humans. Blessed with ambitious versatility yet cursed by fleeting lifespans, they chase their passions with fervent urgency. This volatile spirit allows humans to attune deeply with the impassioned essences of magic and spirits.
 >
@@ -56,58 +57,69 @@ Common
 >
 >In modern cities like Azulihrun, Felidae have integrated well thanks to their inherent cultural curiosity and charm. Yet many long for a return to feral roots, either joining cat-cults or seeking ancient Nepharan elemental powers to reclaim their primal spiritual connection.
 
-Halfling
-Kitsune 
-Kobold 
-Tengu
-Lizardfolk 
-Orc / Half-Orc 
-Ratfolk 
+>[!pf2rule]- Halfling - Joyful Shepherds of the Wasted North
+>As creations of the Great Spirits Ninkasi the Brewer and Adonis the Shepherd, halflings is an optimistic folk who find joy in life's simplest pleasure - a hearty feast, a rousing tale, an untrodden path. Their innate wanderlust drives them to roam distant vistas collecting exotic ingredients, experiences, and stories to enrich their legendary homebrews upon returning.
+>
+>Hailing from the northern realms of Valcour and Caelindor, traditional halfling communities thrived as idyllic agricultural villages surrounding breweries, inns, and cozy tavernsteads. Halflings possess a remarkable spiritual affinity, passing down humble "stovetop" magics woven into their brewing and cooking rituals to commune seamlessly with local nature spirits.
+>
+>However, the creep of the Mana Wastes caused by the magical warfares has decimated their homelands, uprooting halfling villages into nomadic diaspora or migrate into cities like Azulihrun. Within these nomadic tribes rose fierce halfling rangers and fighter. Despite all plights, halflings continue life's humble celebrations wherever their roads may roam.
 
-Uncommon
-Conrasu 
-Nagaji 
-Gripplis 
-Vanara 
-Vishkanya 
-Shoony 
-Beastkin 
+>[!pf2rule]- Kobold - Dragonkin Archivists of the Lush Caverns
+>Forged by Tiamat and Isimud from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in magnificent subterranean realms. Inheritors of draconic fire magics, their souls burn with Tiamat's blazing might.
+>
+>Yet kobolds are also historians without peer, with venerable elders as living libraries safeguarding primordial lore through intricate oral traditions. Their culture enshrines the excavation and preservation of relics from ancient civilizations as a sacred duty. Central to their way of life are the mystic bonds kobolds forge with beast companions from a young age through prehistoric rituals, each clan specializing in different animal kinships.
+>
+>With the Arcane Revolution's rise and Cerulium's proliferation, many kobold scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded kin roamed as rangers and handlers. Favoring cavernous dwellings, kobolds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
 
-Rare 
+>[!pf2rule]- Lizardfolk 
+> Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Nabu the Scribe and Isimud the Traveler. 
+
+##### Aerawan Ancestries
+>[!pf2rule]- Kitsune
+>Tengu are bird-like race native to the north-western coasts of Aerawan, created by Nabu the Scribe and Panzuzu the Trickster. 
+
+>[!pf2rule]- Tengu
+>Tengu are bird-like race native to the north-western coasts of Aerawan, created by Shamash the Guardian and Ninurta the Ranger. 
+
+>[!pf2rule]- Orc 
+> Orcs are from the Far Northern Aerawan, a hardworking and strong race of the frigid mountain created by Shamash the Valiant Guardian and Kirisha the Fair Mother. 
+
+#### Uncommon
+>[!kanban| no-title] 
+>>[!pf2rule] Second Age Creations
+>>Conrasu - Constructs or objects animated by lost spirits. 
+>>Ratfolk - Rat-like small humanoid from Aerawan. 
+>>Nagaji - Snake-headed humanoid from Aerawan. 
+>>Gripplis - Frog-headed humanoid from the Aerawan and the Southern Sea Isles, very uncommon in Ebolon due to the climate. 
+>>Vanara - Monkey-like huamnoid from Aerawan. 
+>>Vishkanya - Venomous people with slender frame and human appearances. 
+>>Shoony - Dog-like humanoid. 
+>>Beastkin- animalistic people who can transform into beast-shape. 
+>
+>>[!pf2rule] Dreamtouched
+>>Nephilim 
+>>Changeling 
+>>Duskwalker 
+>>Ardande 
+>>Talos 
+>>Undine 
+>>Sylph 
+>>Oread 
+>>Suli 
+
+>[!column|flex 3 no-title] 
+>>[!pf2rule] First Age Creation 
+>>Aiuvarin (Half-Elf)
+>
+>>[!pf2rule] Artificial 
+>>Automaton 
+>>Poppet 
+
+#### Rare 
+##### Second Age Creation
 Anadi 
 
-#### Artificial Humanoids
-Uncommon 
-Automaton 
-Poppet 
-
-Rare 
-Andriod 
-Fleshwarp 
-Reflection 
-
-#### Dreamtouched 
-Uncommon 
-Nephilim 
-Changeling 
-Duskwalker 
-Ardande 
-Talos 
-Undine 
-Sylph 
-Oread 
-Suli 
-
-Rare 
-Dhampir 
-Fetchling 
-Ganzi
-
-#### First Age Creation 
-Uncommon 
-Aiuvarin (Half-Elf)  
-
-Rare 
+##### First Age Creation 
 Elf
 Gnome 
 Leshy 
@@ -119,6 +131,17 @@ Strix
 Kashrishi 
 Sprite 
 Goloma 
+
+##### Dreamtouched 
+Dhampir 
+Fetchling 
+Ganzi
+
+##### Artificial
+Rare 
+Andriod 
+Fleshwarp 
+Reflection 
 
 #### Limited 
 Skeleton 
