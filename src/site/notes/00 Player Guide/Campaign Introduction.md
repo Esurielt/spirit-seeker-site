@@ -5,45 +5,43 @@
 ## Coming Together
 
 ### A New Dawn of Magic
+Amid the majestic metropolis of Azulihrun, the empire’s testament to progress, whispers of the ancient myths dance just beyond the reach of modern life. Many have never felt the benign call of the Great Spirits nor the intimate whispers of local spirits that once wove magic into the very fabric of Erythea. Yet, these are not mere fables, but remnants of a heritage eclipsed by the dazzling Arcane Revolution.
 
-In the heart of the empire of Pharousia, a new dawn of magic shine over the city of Azulihrun. 
+A century ago, magic was an tradition practiced in every corner of Erythea, from humble village folk to majestic royalty—a power harnessed by communion with the Great Spirits and natural spirits alike, conjuring remarkable effects through an emotional attunement to reality's subtle whispers. We would speak in reverent tones of villagers who could hum ancient songs to coax flame to life on a frigid night, or recount tales of court mages divining fate of nations and protecting realms with their magical might. This communion with spirits was an intimate art—personal, often unpredictable, but deeply woven into the various cultures in Erythea.
 
-From time immemorial, Erytheans have harnessed magic by attuning themselves to the Great Spirits or the spirits around them, conjuring remarkable effects by sympathizing with the fabric of reality itself. From rural villages to noble courts, anyone—regardless of lineage or class—could learn to master the art of spirit communication and spellcasting. Ancestral worship and stovetop magic formed the cultural backbone of communities. Villagers would offer prayers to local spirits to keep their hearth aflame during winter nights or seek protection against malevolent entities from benign witches. In contrast, court mages served royalty by providing magical services in warfare and divination, while arcane academics dedicated their lives to devising innovative spells and magical tools to boost national power.
+The world has been transformed by Cerulium—a magical mineral discovered some eighty years ago, marking the dawn of the Arcane Revolution. Cerulium charged with magical energies within carefully devised chambers can act as a conduit for consistent spellcasting. Today's arcane engineer does not coax or commune but instruct and command—weaving power inside ingeniously devised artifice and the reliable power stored within cyan-hued crystals. It replaced the need of a constant dialogue with factory pipelines and innovative machines. Now Arcane trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless effect at a fingers' touch. Arcane academies preach a new dogma—one shorn of spirit-bound traditions and steeped in scientific principles and Cerulium techniques. 
 
-However, this delicate balance was shifted by an unprecedented event—the Arcane Revolution. In Pharousia, arcane scholars discovered Cerulium—a mineral capable of being temporarily charged to act as a conduit for magical energies. By substituting a living mage with charged Cerulium, this newfound technology facilitated magic's transition from an artform practiced by individual mages to a mass-produced commodity available to all. Cerulium-powered trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless spells at a fingers' touch. 
+Innovators herald this age as one of rationality and progress; detractors mourn it as an era where magic is stripped of its soul. The truth is, many among the city dwellers have grown detached from these ancient practices that shaped our history. The new generation, uprooted by a rush for new opportunities in the cities, have been schooled by industrious peddlers in virtues synonymous with advancement—convenience, speed, control. To question this narrative is to be brushed aside as nostalgic at best or be derided as superstitious at worst. Yet still, whispers persist—myths and fables passed down by elders where spirits strode alongside mortals—of magic that defies explanation by any Cerulium device.
 
-While the advent of Cerulium brought about an era of unprecedented development, the structure of society warped under the strain of these changes. As magic became controlled by powerful figures who monopolized Cerulium-based industries, they enacted stringent restrictions on magic users and outlawed many spiritual magical practices. Traditional mages were forced to either join arcane factories as workers or face marginalization. Pushed toward the fringes of society, their timeless practices was frowned upon and misunderstood as backwards and barbaric. 
+Some churches dedicated to the Great Spirits issue dire warnings—proclaiming that unchecked Cerulium use spells doom for all. Secret societies operate in obscurity, preserving forbidden lore amidst chaotic times. And every so often, inexplicable phenomena challenge Arcane technology's promised dominion: rogue spells unleashing havoc, abominations prowl in shadowed alleys hinting at deeper unrest within reality itself.
 
-Meanwhile, many Churches of the Great Spirits preach doom if the use of Cerulium continues at its current rate. Some maintain a cold war with the government of Pharousia, claiming divine rights in wielding their spirit magic and foretell punishment by the gods; while others, such as Church of Ashur, collaborate to be recognize as a national religion and use it as an opportunity to weaken other churches and magic practitioners. 
+For those versed only in Arcane teachings—a universe where magic is neatly parsed and catalogued—these occurrences are anomalies defying logic and the consequences of barbaric magic practices; for others who remember or dare believe in older truths, they are proof that not all can be contained or explained by Cerulium’s gleam. 
 
-Amidst this discordance grew organizations shadowed from public view—secret societies like the Seekers aiming to preserve magics and ensure peace amidst chaos; dark cults of mysterious entities drawing disillusioned souls into their malevolent embrace. 
-
-The city streets already have enough to be worried about. A resurgence in abominations—entities born from corrupted spirits—and rogue mages seeking vengeance or power, stoke fears across the nation. The once rare disturbances became ominously commonplace, spurring whispers that some agency beyond mere human error was at play. 
 
 > [!pf2note|ttl-c] How "High Magic" is Erythea?
 > It is important to note that Erythea, much like some of her spellpunk cousins, is more of a **wide** magic setting than a high magic one. 
 > 
-> While magic that bring daily convenience is commonplace, extremely powerful spells—such as long-distance, planar, and temporal travel—are merely fairytales due to the intrinsic properties of magic and reality in Erythea. Similarly, while resurrection might be a familiar fantasy, it remains beyond reach even for the most experienced mages and oracles. 
+> While arcane artifacts that bring daily convenience is commonplace, people of this generation has largely forgotten the effect of spells weaved by powerful sorcerers. However, even among the traditional magic community, extremely powerful spells—such as long-distance, planar, and temporal travel, as well as true resurrection—remains beyond reach even for the most experienced mages and oracles. 
 > 
-> While village witches might know how to heal the sick, pray for rain, tell the fortune, they don't necessarily always get an definite response. Legendary wizards of national epics who said to command weather and call forth disasters are incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such high-level magical effect.
+> While village witches might know how to heal the sick, pray for rain, tell the fortune, they don't necessarily always get an definite response from the spirits. Legendary wizards of old epics who said to command weather and call forth disasters are incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such transformative magical effect.
 > <p style="align-content:center;font-weight:700;margin-top:2em">What Does This Mean For Me?</p>
 > 
-> Mechanically, this means a few spells might not be legal or seen as incredibly Rare or Unique in this campaign. You can find out more information about magic options and their rarity in the chapter of [[00 Player Guide/Character Creation#Magic & Faith\|Creating Character: Magic & Faith]].
+> Mechanically, this means a few spells might not be legal or seen as incredibly Rare or Unique in this campaign. You can find out more information about magic options and their rarity in the chapter of [[00 Player Guide/Character Creation#Magic & Faith\|Creating Character: Magic & Faith]]. However, most spells are still available to PCs as you continue to discover the secrets of Spirit Magic. 
 > 
-> It also means that the high-rank spellcasting rarely would be available to NPCs. For example, in a level 14 settlement like Azulihrun, you would only find spellcasting services up to 4th-rank spells (as supposed to 7th-rank spells according to PF2 RAW). 
+> It also means that the high-rank spellcasting would be less likely to be available among the NPCs, since they were not taught as commonly to just any magic student. For example, in a level 14 settlement like Azulihrun, you would only find spellcasting services up to 4th-rank spells (as supposed to 7th-rank spells according to PF2 RAW). 
 >
 { #faq-high-magic}
 
 
 ### The Seekers of Pharousia
 
-The Seekers is an ancient order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
+The Seekers is an ancient secret order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat in shadows. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
 
 Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Pharousia. The unique background options in Chapter [[01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 In the revolutionized Pharousia, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but you come to the Seekers' Pharousia chapter in a time of change. 
 
-A few years ago, Seekers were branded outlaws along with many other unofficial mages, in an effort to secure the means of magic by the Crown. After some targeted sweep and a series of tragedy in the recent surge of abominations, Seekers’ ranks in Azulihrun suffered severely. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Reliquary Vault, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
+A few decades ago, Seekers were branded outlaws along with many other traditional mages. After some targeted sweep, a series of tragedy with the recent surge of abominations, and continued derision toward the traditional magic, Seekers’ ranks in Azulihrun suffered greatly. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Reliquary Vault, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
 
 As a new Seeker pledge, you will train under the fair and capable Chapter Master Viola Whytebourne. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
 
@@ -66,21 +64,19 @@ While the adventures might lead you outside of the city, the majority of the fir
 
 This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
 
-#### Azulihrun in Pharousia
-While Azulihrun is not the capital of Pharousia, it has always been the country's crown jewel of culture and trade. Azulihrun sits in the in the center of the Aurum Trail -  a bustling trade route stretching across various nations in Aerawan and Ebolon,  from Kadiya and Xia-Zhou, to Pharousia, Dorn, Nephara, and Qahalim. 
+#### Azulihrun, the Cerulean Heart of Pharousia
+While Azulihrun may not the capital of Pharousia, this vibrant metropolis is renowned as a beacon of culture and trade. Azulihrun sits in the bustling crossroads of the Aurum Trail -  a trade route stretching across various nations in Aerawan and Ebolon. 
 
-Now with the Arcane revolution, the city has also become a industrial center of progress and innovation, and contributed greatly to the spread of Arcane Technology along the Aurum Trail. Following the various important Cerulium inventions, Silverthorn Arcane Institute of Azulihrun has since become one of the most prominent arcane academies in the world, surpassing even the Royal Conservatory in Vashem, the Capital of Pharousia. 
+With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation and progress. It played a pivotal role in propagating Arcane Technology along the Aurum Trail, contributing to advancements that have rippled across nations. Following a series of key Cerulium inventions, the Silverthorn Arcane Institute surpassed even the Royal Conservatory in Vashem, the Pharousian capital, as one of the most prominent arcane research center in the world. 
 
-To name a few inventions that was conceived in the Cerulean City - Cerulium carriage that levitates in the air with magical wheels, mechanical servants and companions that follows simple command, arcane telescope that sees far into the horizon and can track the trail of stars. Silverthorn also has the most authority on Cerulium transportation - such as trains and airship. 
+Notable Cerulium inventions from Azulihrun include Cerulium engines, levitating carriages, mechanical servants, and telescopic stargazing devices. The institute also holds significant authority over the study of Cerulium transportation like trains and airships.
 
-Other than being the center of Cerulium industry, Azulihrun is also the most cosmopolitan city in Pharousia, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Ebolon/Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Ebolon/Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia, and many of them now came to Azulihrun seeking a new life. 
+Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Ebolon/Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Ebolon/Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
 
-Azulihrun sits along the coast of Jade Sea and is divided by the roaring Morrowind River into the lower-middle class side of the city known as the Azul and the noble and wealthy side of Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
+Positioned along the Jade Sea's coastline with the roaring Morrowind River bisecting it, Azulihrun is split into two halves: the historical side housing the lower and middle class called the Azul, and the wealthy side next to the noble keep known as Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
 
-#### Skyspire
-The Sovereign Emre Sarayli has recently initiated a national construction project called the Skyspires, a network of artificial towers built with the most advanced Cerulium technology. These towers will be capable of transmitting sensory magic, such as images and sound. 
-
-Azulihrun will be the site of the first tower of its kind, while subsequent towers are planned to be constructed across the continent. 
+#### Skyspire Project
+The Sovereign Emre Sarayli has recently initiated a national construction project called the Skyspires. This ambitious endeavor involves constructing a network of towers using the most advanced Cerulium technology. These towers will be capable of transmitting sensory magic, such as images and sound. Azulihrun has been chosen as the site for the first tower of its kind, with plans to erect more across the continent.
 
 #### Azulihrun Stats
 
@@ -188,7 +184,7 @@ Azur-
 **Morrowind Harbor** - Shipping heartland teeming with traders. The Grand Pavilion is also located at the edge of the district toward the center of the city, showcasing shops with both traditional wares and cutting edge Cerulium inventions.  
 
 ##### Aulihrun 
-**Verdant Court**  - Opulent estates and middle-to-upper-class adobes.  
+**Verdant Court**  - Opulent estates and upper-class adobes for nobles and industrialists.  
 **The Crownswork** - Administrative district that houses the government buildings. The Skyspire is being constructed here. 
 
 ( Read More: [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
