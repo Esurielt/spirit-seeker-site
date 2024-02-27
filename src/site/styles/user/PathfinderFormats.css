@@ -66,6 +66,7 @@ table{
 .callout-title{
     font-family: var(--h4-font);
     font-size: 1.2em;
+    color: var(--callout-title-color)
 }
 
 
