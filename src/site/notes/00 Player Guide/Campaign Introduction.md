@@ -3,6 +3,8 @@
 ---
 
 ## Coming Together
+### Campaign Timeline
+
 
 ### A New Dawn of Magic
 Amid the majestic metropolis of Azulihrun, the empire’s testament to progress, whispers of the ancient myths dance just beyond the reach of modern life. Many have never felt the benign call of the Great Spirits nor the intimate whispers of local spirits that once wove magic into the very fabric of Erythea. Yet, these are not mere fables, but remnants of a heritage eclipsed by the dazzling Arcane Revolution.
@@ -188,3 +190,5 @@ Azur-
 **The Crownswork** - Administrative district that houses the government buildings. The Skyspire is being constructed here. 
 
 ( Read More: [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
+
+
