@@ -36,28 +36,28 @@ The point of the game is to roleplay interesting narratives. I ask us to practic
 This also means **No Joke Character** - the character can have a fun goal or fixation, but no Farty McFurryballs or Firehand the Fireballmancer. We can always play these characters in one-shots or short adventures.  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/03-rule-elements/house-rule-references/#fun-mechanic-references" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/03-rule-elements/rule-references/#house-rule-mechanic-references" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## Fun Mechanic References
+## House Rule Mechanic References
 ### Rarity
 Rarity in my games demonstrates the level of impact this element has on the story world. According to PF2 rulebooks, the rare and uncommon options are NOT stronger options, only more specific and complicated.  
 
-<span class="pf-trait pf-trait-common"><a class = "pf-trait-common" href = "/03-Rule-Elements/House-Rule-References/#rarity-common">Common</a></span>  
+<span class="pf-trait pf-trait-common"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-common">Common</a></span>  
 You need no explanation using this option. People probably know of or are related to some one who have this. 
 *(Any option that have no rarity trait labeled is Common)* 
 ^rarity-common
 
-<span class="pf-trait pf-trait-uncommon">Uncommon</span>  
+<span class="pf-trait pf-trait-uncommon"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-uncommon">Uncommon</a></span>  
 This is the highest rarity you can choose normally. This option should be integrated into your character's backstory and be an notable part of your character. Local people only heard of tales of this option, and might be taken aback with woe and wonder because of it. 
 ^rarity-uncommon
 
-<span class="pf-trait pf-trait-rare">Rare</span> 
+<span class="pf-trait pf-trait-rare"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-rare">Rare</a></span> 
 You may not choose this option unless you are rewarded with a rare option or you have discussed with me, because this option not only would have large impact on your character, but possibly the world if it is on a PC. It is still legal, and might be awarded as story goes on as well. It is an opportunity for us to write the setting of the story together and create the specific fantasy you are looking for. 
 ^rarity-rare
 
-<span class="pf-trait pf-trait-limited">Limited</span> 
+<span class="pf-trait pf-trait-limited"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-limited">Limited</a></span> 
 This option is illegal—well, *mostly*—unless you convince me otherwise. You have 10 minutes—now go!
 ^rarity-limited
 
