@@ -9,7 +9,7 @@
 
 ## [[Settlements\|Settlements]]
 
-### [[01 World of Erythea/Atlas/01 Ebolon\|01 Ebolon]]
+### [[01 World of Erythea/Atlas/01 Eblon\|Eblon]]
 
 ### [[01 World of Erythea/Atlas/02 Aerawan\|Aerawan - the Sun-Rose Land]]
 ##### [[01 World of Erythea/Atlas/Aerawan/Xia Zhou\|Xia Zhou]]
