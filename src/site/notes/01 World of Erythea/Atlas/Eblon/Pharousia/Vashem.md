@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-world-of-erythea/atlas/eblon/pharousia/vashem/","title":"Vashem, Sovereign's Reach","tags":["Location"],"noteIcon":"lamp"}
+{"dg-publish":true,"permalink":"/01-world-of-erythea/atlas/eblon/pharousia/vashem/","title":"Vashem, Sovereign's Reach","tags":["Location","WIP"],"noteIcon":"lamp"}
 ---
 
 
