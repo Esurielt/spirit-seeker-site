@@ -3,13 +3,15 @@
 ---
 
 ## Coming Together
+### Campaign Timeline
+
 
 ### A New Dawn of Magic
-Amid the majestic metropolis of Azulihrun, the empire’s testament to progress, whispers of the ancient myths dance just beyond the reach of modern life. Many have never felt the benign call of the Great Spirits nor the intimate whispers of local spirits that once wove magic into the very fabric of Erythea. Yet, these are not mere fables, but remnants of a heritage eclipsed by the dazzling Arcane Revolution.
+Amid the majestic metropolis of Azulihrun, the empire’s testament to progress, whispers of the ancient myths dance just beyond the modern life. Many have never felt the benign call of the Great Spirits nor the intimate whispers of local spirits that wove magic into the very fabric of reality. Yet, these are not mere fables, but remnants of a heritage eclipsed by the dazzling Arcane Revolution.
 
 A century ago, magic was an tradition practiced in every corner of Erythea, from humble village folk to majestic royalty—a power harnessed by communion with the Great Spirits and natural spirits alike, conjuring remarkable effects through an emotional attunement to reality's subtle whispers. We would speak in reverent tones of villagers who could hum ancient songs to coax flame to life on a frigid night, or recount tales of court mages divining fate of nations and protecting realms with their magical might. This communion with spirits was an intimate art—personal, often unpredictable, but deeply woven into the various cultures in Erythea.
 
-The world has been transformed by Cerulium—a magical mineral discovered some eighty years ago, marking the dawn of the Arcane Revolution. Cerulium charged with magical energies within carefully devised chambers can act as a conduit for consistent spellcasting. Today's arcane engineer does not coax or commune but instruct and command—weaving power inside ingeniously devised artifice and the reliable power stored within cyan-hued crystals. It replaced the need of a constant dialogue with factory pipelines and innovative machines. Now Arcane trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless effect at a fingers' touch. Arcane academies preach a new dogma—one shorn of spirit-bound traditions and steeped in scientific principles and Cerulium techniques. 
+The world has been transformed by Cerulium—a magical mineral discovered some eighty years ago, marking the dawn of the Arcane Revolution. Charged Cerulium stones can act as a conduit for consistent spellcasting. Today's arcane engineer does not coax or commune but instruct and command—weaving power inside ingeniously devised artifice through the reliable power stored within the cyan-hued crystals. It replaced the need of a constant dialogue with the spirits in spellcasting and turned it into factory pipelines and innovative machines. Now Arcane trains traverse vast territories, connecting cities and countries, while various gadgets proliferate daily life, executing harmless effect at a fingers' touch. Arcane academies preach a new dogma—one shorn of spirit-bound traditions and steeped in scientific principles and Cerulium techniques. 
 
 Innovators herald this age as one of rationality and progress; detractors mourn it as an era where magic is stripped of its soul. The truth is, many among the city dwellers have grown detached from these ancient practices that shaped our history. The new generation, uprooted by a rush for new opportunities in the cities, have been schooled by industrious peddlers in virtues synonymous with advancement—convenience, speed, control. To question this narrative is to be brushed aside as nostalgic at best or be derided as superstitious at worst. Yet still, whispers persist—myths and fables passed down by elders where spirits strode alongside mortals—of magic that defies explanation by any Cerulium device.
 
@@ -62,16 +64,16 @@ While the adventures might lead you outside of the city, the majority of the fir
 
 - [ ] #task Insert Erythea world map and Azulihrun region map.
 
-This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
+This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
 
 #### Azulihrun, the Cerulean Heart of Pharousia
-While Azulihrun may not the capital of Pharousia, this vibrant metropolis is renowned as a beacon of culture and trade. Azulihrun sits in the bustling crossroads of the Aurum Trail -  a trade route stretching across various nations in Aerawan and Ebolon. 
+While Azulihrun may not the capital of Pharousia, this vibrant metropolis is renowned as a beacon of culture and trade. Azulihrun sits in the bustling crossroads of the Aurum Trail -  a trade route stretching across various nations in Aerawan and Eblon. 
 
 With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation and progress. It played a pivotal role in propagating Arcane Technology along the Aurum Trail, contributing to advancements that have rippled across nations. Following a series of key Cerulium inventions, the Silverthorn Arcane Institute surpassed even the Royal Conservatory in Vashem, the Pharousian capital, as one of the most prominent arcane research center in the world. 
 
 Notable Cerulium inventions from Azulihrun include Cerulium engines, levitating carriages, mechanical servants, and telescopic stargazing devices. The institute also holds significant authority over the study of Cerulium transportation like trains and airships.
 
-Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Ebolon/Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Ebolon/Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
+Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Eblon/04 Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Eblon/04 Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
 
 Positioned along the Jade Sea's coastline with the roaring Morrowind River bisecting it, Azulihrun is split into two halves: the historical side housing the lower and middle class called the Azul, and the wealthy side next to the noble keep known as Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
 
@@ -80,12 +82,12 @@ The Sovereign Emre Sarayli has recently initiated a national construction projec
 
 #### Azulihrun Stats
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/atlas/ebolon/pharousia/azulihrun/#statblock-azulihrun" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/atlas/eblon/pharousia/azulihrun/#statblock-azulihrun" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-
+(This page is still WIP. No information on here is final. )
 
 ## Azulihrun Gazetteer
 ### Factions 
@@ -96,7 +98,7 @@ Administrative district that houses the government buildings. The Skyspire is be
 
 
 #### Spirit's Rest 
-Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Ashur is in the alleyways between the parks and a few residential buildings.
+Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
 
 
 #### The Hearthward
@@ -136,8 +138,8 @@ Shipping heartland teeming with traders. The Grand Pavilion is also located at t
 (and many others)
 
 ##### Temples and Academy 
-**Church of Ashur**
-**Temple of Adonis**
+**Church of Zefaelon**
+**Temple of Phaedras**
 
 ##### Industry and Governance
 
@@ -168,7 +170,7 @@ Azur-
 #### Ayrinda Amaranthine
 
 >[!cite|clean]+ Azulihrun
-><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Ashur, Adonis, Enki, Isimud</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Ashur. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Adonis in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
+><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Zefaelon, Phaedras, Eridius, Laramesis</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Zefaelon. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Phaedras in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
 
 ^statblock-Azulihrun
 
@@ -177,7 +179,7 @@ Azur-
 
 #### Districts at a Glance
 ##### Azul
-**Spirit's Rest** - Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Ashur is in the alleyways between the parks and a few residential buildings.
+**Spirit's Rest** - Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
 **The Hearthward**  - Cozy Residential areas of middle-to-low-income housing. 
 **Scholar's Hamlet** - The Silverthorn Arcane Institute and its surrounding establishments.  
 **The Loom** - Manufacturing district crowded with factories and temp housings for the low-income workers.  
@@ -187,4 +189,6 @@ Azur-
 **Verdant Court**  - Opulent estates and upper-class adobes for nobles and industrialists.  
 **The Crownswork** - Administrative district that houses the government buildings. The Skyspire is being constructed here. 
 
-( Read More: [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
+( Read More: [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
+
+

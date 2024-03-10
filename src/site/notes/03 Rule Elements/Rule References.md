@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rule-elements/rule-references/","title":"House Rules: Mechanical references","contentClasses":"hide-header-underline embed-clean","tags":["Rule/HouseRule"],"noteIcon":"dice"}
+{"dg-publish":true,"permalink":"/03-rule-elements/rule-references/","title":"House Rules References","contentClasses":"hide-header-underline embed-clean","tags":["Rule/HouseRule"],"noteIcon":"dice"}
 ---
 
 ## House Rule Mechanic References
