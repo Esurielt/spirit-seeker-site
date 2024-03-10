@@ -1,7 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/character-creation/","title":"Creating Character","pinned":true,"contentClasses":"embed-clean","tags":["CharacterCreation","Primer","WIP"],"noteIcon":""}
+dg-publish: true
+dg-pinned: true
+title: Creating Character
+tags:
+  - CharacterCreation
+  - Primer
+  - WIP
+aliases:
+  - Creating Character
+cssclasses:
+  - embed-clean
+dg-show-inline-title: false
 ---
-
 
 ## Creating Character 
 The city of Azulihrun has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
@@ -26,13 +36,13 @@ More inspiration might be found in the [[00 Player Guide/Character Creation#Back
 Erythea is a diverse world teeming with fascinating culture and ancestries. Collectively, the humanoid mortal inhabitants of the world are commonly referred to as the mankind. The [[01 World of Erythea/People/Ancestries\|Ancestries]] page collects more detail about each Ancestries entries. The following is a quick overview of all the ancestries and lineages you could find in the world of Erythea. 
 
 >[!pf2rule] TLDR 
-> Among the common ancestries, these following are [[03 Rule Elements/Rule References#^rarity-rare\|Rare]]: Elf, Gnome, Leshy. Meaning, you cannot choose these ancestries without a rare option reward / discussion with GM. The lore of these ancestries could be found in the [[01 World of Erythea/People/Ancestries\|Ancestries]] page. 
+> Among the common ancestries, these following are [[03 Rule Elements/House Rule References#^rarity-rare\|Rare]]: Elf, Gnome, Leshy. Meaning, you cannot choose these ancestries without a rare option reward / discussion with GM. The lore of these ancestries could be found in the [[01 World of Erythea/People/Ancestries\|Ancestries]] page. 
 > 
-> Please refer to the following list for availability on all other published ancestries. Note that [[03 Rule Elements/Rule References#^rarity-uncommon\|Uncommon]] ancestries needs to be strongly incorporated into your character story, as they would invite development in the campaign. 
+> Please refer to the following list for availability on all other published ancestries. Note that [[03 Rule Elements/House Rule References#^rarity-uncommon\|Uncommon]] ancestries needs to be strongly incorporated into your character story, as they would invite development in the campaign. 
 
 
 #### Common
-These section introduce the <span class="pf-trait pf-trait-common"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-common">Common</a></span> ancestries of Erythea. Most Heritages of these ancestries can be used out of the box with a few flavor tweaks. You can also create [[03 Rule Elements/PF2R Rule References#Mixed Heritage\|Mixed Heritage]] of any of these common ancestries, the mixed heritage is considered *[[03 Rule Elements/Rule References#^rarity-uncommon\|Uncommon]]*.  
+These section introduce the <span class="pf-trait pf-trait-common"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-common">Common</a></span> ancestries of Erythea. Most Heritages of these ancestries can be used out of the box with a few flavor tweaks. You can also create [[03 Rule Elements/PF2R Rule References#Mixed Heritage\|Mixed Heritage]] of any of these common ancestries, the mixed heritage is considered *[[03 Rule Elements/House Rule References#^rarity-uncommon\|Uncommon]]*.  
 ##### Eblon Ancestries
 >[!pf2rule]- Human - Driven Settlers of the World
 >Of all the mortal races, none are more numerous and driven than humans. Blessed with ambitious versatility yet cursed by fleeting lifespans, they chase their passions with fervent urgency. This volatile spirit allows humans to attune deeply with the impassioned essences of magic and spirits.
@@ -307,10 +317,10 @@ Undertaker
 
 #### Great Spirits  
 [[01 World of Erythea/Faith/Deities/Zefaelon\|Zefaelon]], the Lawbringer
-The Edifice Unshaken. Zefaelon is one of the patron deity of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and with a regal blue and gold robe. 
+The Edifice Unshaken. Zefaelon is one of the patron deity of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and in regal blue and gold robe. 
 
 [[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] the Dawn Shepherd
-The Soother of Sorrows and the Golden Rose. Phaedras is the god of Sun, Beauty, Love, and Art. He is often portrayed as an androgynous man dressed in Shepherd clothing with radiant eyes and beautiful features/ 
+The Soother of Sorrows and the Golden Rose. Phaedras is the god of Sun, Beauty, Love, and Art. He is often portrayed as an androgynous man dressed in red and white Shepherd clothing with radiant eyes and beautiful features. 
 
 Caelithra the Maelstrom 
 
