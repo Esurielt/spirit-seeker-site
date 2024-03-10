@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/01-world-of-erythea/atlas/eblon/pharousia/azulihrun/","title":"Azulihrun, the Cerulean City","tags":["Location"],"noteIcon":"lamp"}
+{"dg-publish":true,"permalink":"/01-world-of-erythea/atlas/eblon/pharousia/azulihrun/","title":"Azulihrun, the Cerulean City","tags":["Location","WIP"],"noteIcon":"lamp"}
 ---
 
-
+(This page is still WIP. No information on here is final. )
 
 ## Azulihrun Gazetteer
 ### Factions 
