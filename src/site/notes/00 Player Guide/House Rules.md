@@ -3,13 +3,13 @@
 ---
 
 >[!column|flex no-title] 
->> [!info|no-icon] [[00 Player Guide/House Rules#Table Etiquettes\|#Table Etiquettes]]
->> - [[00 Player Guide/House Rules#Guidelines of Play\|#Guidelines of Play]]
->> - [[00 Player Guide/House Rules#Intent of Play\|#Intent of Play]]
+>> [!info|no-icon] [[00 Player Guide/House Rules#Table Etiquettes\|Table Etiquettes]]
+>> - [[00 Player Guide/House Rules#Guidelines of Play\|Guidelines of Play]]
+>> - [[00 Player Guide/House Rules#Intent of Play\|Intent of Play]]
 >
->> [!info|no-icon] [[00 Player Guide/House Rules#Fun Mechanic References\|#Fun Mechanic References]]
->> - [[00 Player Guide/House Rules#Rarity\|#Rarity]]
->> - [[00 Player Guide/House Rules#Currency Scale\|#Currency Scale]]
+>> [!info|no-icon] [[00 Player Guide/House Rules#Mechanic References\|Mechanic References]]
+>> - [[00 Player Guide/House Rules#Rarity\|Rarity]]
+>> - [[00 Player Guide/House Rules#Currency Scale\|Currency]]
 
 ## Table Etiquettes
 By playing at the table, we should be bounded by the following social contract. If you have any questions or concerns regarding the etiquettes of play, please reach out at any time! 
