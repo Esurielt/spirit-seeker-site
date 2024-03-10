@@ -3,9 +3,9 @@
 ---
 
 #### Origin
-As creation of the Great Spirits Ninkasi the Brewer and Adonis the Shepherd, halflings are an upbeat, optimistic folk who find joy in life's simple pleasures—a hearty meal, a rousing tune, or a breathtaking view. Their natural wanderlust is seen as a spiritual calling, driving them to leave the comfort of their home and roam vast landscapes in search of tales untold, rare ingredients for their legendary brews, and experiences that will spark wonder in their retellings.
+As creation of the Great Spirits Halora the Brewer and Phaedras the Shepherd, halflings are an upbeat, optimistic folk who find joy in life's simple pleasures—a hearty meal, a rousing tune, or a breathtaking view. Their natural wanderlust is seen as a spiritual calling, driving them to leave the comfort of their home and roam vast landscapes in search of tales untold, rare ingredients for their legendary brews, and experiences that will spark wonder in their retellings.
 
-#### Idyll Communities of the Ebolon North
+#### Idyll Communities of the Eblon North
 Halflings hail from the northern regions of Erythea, primarily Valcour and Caelinor. Traditional halfling communities dot the rural landscapes as small, tight-knit agricultural villages centered around breweries, cozy taverns, and roadside inns. While halflings toil as diligent agrarians through sowing and reaping seasons, they balance the labor during the rest of the year to celebrate almost any occasion with joyous, unbridled revelry. Halfling districts within cities are home to high-spirited festivities. Burrowsteads shelter generations under one roof while functioning as community centers – many a city-dweller has found solace in their comforting alehouses or relished treats from their famed culinary stands.
 
 #### Spiritual Affinity
