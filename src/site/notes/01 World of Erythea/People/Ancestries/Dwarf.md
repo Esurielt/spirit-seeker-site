@@ -23,4 +23,4 @@ Heavenkeep is merely the foremost of many dwarven holds, with roads stretching d
 #### First Age Heritage
 As a First Age creation, Dwarves do not hold special relationship with one of the Great Spirits as they are not their creation. While they sometimes adopt the religion around Great Spirits that align with their calling, most Dwarves have the tradition of ancestral worship and praying to the spirits of the Mountains. 
 
-Among the Great Spirits, the most common worship are Enki–as the World Smith bless all that seek knowledge and perfection, Ereshkigal–for the Queen of the Underworld holds power of the cavern darkness and key to the ancestral sea, Seun the Scribe as well as Shamash the Guardian are commonly worshipped as well. 
+Among the Great Spirits, the most common worship are Eridius–as the World Smith bless all that seek knowledge and perfection, Thanatris–for the Queen of the Underworld holds power of the cavern darkness and key to the ancestral sea, Seun the Scribe as well as Aresmun the Guardian are commonly worshipped as well. 
