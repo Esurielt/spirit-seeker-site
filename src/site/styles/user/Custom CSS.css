@@ -9,7 +9,9 @@ body.css-settings-manager {
     --page-width: 800px;   
 }
 
-
+.content {
+    max-width: var(--file-line-width);
+}
 
 .embed-clean .markdown-embed-content {
     max-height: unset;
@@ -20,6 +22,10 @@ body {
     --h5-weight: 700;
     --font-text-override: 'Nunito';
     --p-spacing: 0.6em;
+}
+
+.callout-title :is(h1,h2,h3,h4,h5,h6)  {
+    margin-top: 0px;
 }
 
 .markdown-rendered div:has( > :is(p,pre,table,ul,ol)) + div > :is(h1,h2,h3,h4,h5,h6) {
