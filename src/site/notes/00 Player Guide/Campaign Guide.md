@@ -107,16 +107,16 @@ While the adventures might lead you outside of the city, the majority of the fir
 
 - [ ] #task Insert Erythea world map and Azulihrun region map.
 
-This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
+This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
 
 #### Azulihrun, the Cerulean Heart of Pharousia
-While Azulihrun may not the capital of Pharousia, this vibrant metropolis is renowned as a beacon of culture and trade. Azulihrun sits in the bustling crossroads of the Aurum Trail -  a trade route stretching across various nations in Aerawan and Ebolon. 
+While Azulihrun may not the capital of Pharousia, this vibrant metropolis is renowned as a beacon of culture and trade. Azulihrun sits in the bustling crossroads of the Aurum Trail -  a trade route stretching across various nations in Aerawan and Eblon. 
 
 With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation and progress. It played a pivotal role in propagating Arcane Technology along the Aurum Trail, contributing to advancements that have rippled across nations. Following a series of key Cerulium inventions, the Silverthorn Arcane Institute surpassed even the Royal Conservatory in Vashem, the Pharousian capital, as one of the most prominent arcane research center in the world. 
 
 Notable Cerulium inventions from Azulihrun include Cerulium engines, levitating carriages, mechanical servants, and telescopic stargazing devices. The institute also holds significant authority over the study of Cerulium transportation like trains and airships.
 
-Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Ebolon/Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Ebolon/Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
+Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Eblon/04 Caelindor\|04 Caelindor]], [[01 World of Erythea/Atlas/Eblon/04 Valcour\|04 Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
 
 Positioned along the Jade Sea's coastline with the roaring Morrowind River bisecting it, Azulihrun is split into two halves: the historical side housing the lower and middle class called the Azul, and the wealthy side next to the noble keep known as Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
 
@@ -125,7 +125,7 @@ The Sovereign Emre Sarayli has recently initiated a national construction projec
 
 #### Azulihrun Stats
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/atlas/ebolon/pharousia/azulihrun/#statblock-azulihrun" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/atlas/eblon/pharousia/azulihrun/#statblock-azulihrun" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -141,7 +141,7 @@ Administrative district that houses the government buildings. The Skyspire is be
 
 
 #### Spirit's Rest 
-Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Ashur is in the alleyways between the parks and a few residential buildings.
+Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
 
 
 #### The Hearthward
@@ -181,8 +181,8 @@ Shipping heartland teeming with traders. The Grand Pavilion is also located at t
 (and many others)
 
 ##### Temples and Academy 
-**Church of Ashur**
-**Temple of Adonis**
+**Church of Zefaelon**
+**Temple of Phaedras**
 
 ##### Industry and Governance
 
@@ -213,7 +213,7 @@ Azur-
 #### Ayrinda Amaranthine
 
 >[!cite|clean]+ Azulihrun
-><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Ashur, Adonis, Enki, Isimud</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Ashur. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Adonis in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
+><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Zefaelon, Phaedras, Eridius, Laramesis</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Zefaelon. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Phaedras in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
 
 ^statblock-Azulihrun
 
@@ -222,7 +222,7 @@ Azur-
 
 #### Districts at a Glance
 ##### Azul
-**Spirit's Rest** - Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Ashur is in the alleyways between the parks and a few residential buildings.
+**Spirit's Rest** - Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
 **The Hearthward**  - Cozy Residential areas of middle-to-low-income housing. 
 **Scholar's Hamlet** - The Silverthorn Arcane Institute and its surrounding establishments.  
 **The Loom** - Manufacturing district crowded with factories and temp housings for the low-income workers.  
@@ -232,7 +232,7 @@ Azur-
 **Verdant Court**  - Opulent estates and upper-class adobes for nobles and industrialists.  
 **The Crownswork** - Administrative district that houses the government buildings. The Skyspire is being constructed here. 
 
-( Read More: [[01 World of Erythea/Atlas/Ebolon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
+( Read More: [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]])
 
 
 
@@ -275,11 +275,11 @@ Erythea is a diverse world teeming with fascinating culture and ancestries. Coll
 
 #### Common
 These section introduce the <span class="pf-trait pf-trait-common"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-common">Common</a></span> ancestries of Erythea. Most Heritages of these ancestries can be used out of the box with a few flavor tweaks. You can also create [[03 Rule Elements/PF2R Rule References#Mixed Heritage\|Mixed Heritage]] of any of these common ancestries, the mixed heritage is considered *[[03 Rule Elements/Rule References#^rarity-uncommon\|Uncommon]]*.  
-##### Ebolon Ancestries
+##### Eblon Ancestries
 >[!pf2rule]- Human - Driven Settlers of the World
 >Of all the mortal races, none are more numerous and driven than humans. Blessed with ambitious versatility yet cursed by fleeting lifespans, they chase their passions with fervent urgency. This volatile spirit allows humans to attune deeply with the impassioned essences of magic and spirits.
 >
->Humans revere Ashur, the Great Spirit of Cities and Law, as patron of their monumental civilizations like Pharousia, Caelindor, Valcour, and Qahilim. It was human industry that triggered the Arcane Revolution, with cities like Azulihrun now towering as wondrous cerulium-powered metropolises.
+>Humans revere Zefaelon, the Great Spirit of Cities and Law, as patron of their monumental civilizations like Pharousia, Caelindor, Valcour, and Qahilim. It was human industry that triggered the Arcane Revolution, with cities like Azulihrun now towering as wondrous cerulium-powered metropolises.
 
 >[!pf2rule]- Dwarf - Ancient Builders from the Depth
 > Ever since the First Age, dwarves–masters of stonecraft and metalwork–inhabited vast underground kingdoms in the subterranean world known as the Umbral Realm. Then the wandering fey refugees, fleeing the terrible devastation of the Fey Reckoning, brought tales of the wondrous surface realms. Inspired, King Volkarr led the an expedition and established the Kingdom of Dorn, constructing the grand citadel of Heavenkeep on Mount Elderspine as their first surface holding.
@@ -287,45 +287,45 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 > With the Arcane Revolution and discovery of cerulium, dwarven artifice achieved new heights. Their innovative arcane alloys, mechanizations and expertly crafted goods spread across Erythea, including to cities like Azulihrun where many dwarves has immigrated. However, dwarves never lost reverence for their ancestral dwelings in the Umbral Realm like Mor Kadin and the fabled Umbralforge of Ignara. 
 
 >[!pf2rule]- Goblin / Hobgoblins - Ingenious Anarchists of the Elderspine
->Birthed from the dreams of Tiamat the Primordial Serpent and Panzuzu the Cunning Trickster, goblins thrive in an anarchic meritocracy below the Elderspine Mountains. No hereditary rulers, only a ceaseless creative upheaval where cunning tinkers, daring arcanists, and skilled con-artists temporarily rise as "big bosses" through their innovative crafts and trickster exploits. Raucous marketplaces overflow with riotous tales spun by hobgoblin bards and intricate contraptions that is impossible to find a pair, as bargains, favors, and debts fuel a barter-based economy operating on sense of honor and responsibility.
+>Birthed from the dreams of Caelithra the Primordial Serpent and Eoluxe the Cunning Trickster, goblins thrive in an anarchic meritocracy below the Elderspine Mountains. No hereditary rulers, only a ceaseless creative upheaval where cunning tinkers, daring arcanists, and skilled con-artists temporarily rise as "big bosses" through their innovative crafts and trickster exploits. Raucous marketplaces overflow with riotous tales spun by hobgoblin bards and intricate contraptions that is impossible to find a pair, as bargains, favors, and debts fuel a barter-based economy operating on sense of honor and responsibility.
 >
 > Goblin’s lingering distrust of "tall races" like humans stems from fresh injustices - enslaved for their cerulium mines, their lands razed by Valcour and Caelindor. Only through dwarven allies could the goblin persevere their culture, though many became refugees at the fringes of foreign cities, seeking to rebuild their meritocratic traditions and vibrant culture of chaotic ingenuity.
 
 >[!pf2rule]- Felidae - Feline Hunters of Deserts and Forests
->Catfolks, or Felidae, renowned for their grace, sociability, and inquisitiveness, were created by Ninurta the Ranger and Ninkasi the Brewer in the Second Age. Imbued with feline grace, curiosity, and wanderlust, the catfolk quickly spread across savannas and woodlands.
+>Catfolks, or Felidae, renowned for their grace, sociability, and inquisitiveness, were created by Sylvanor the Ranger and Halora the Brewer in the Second Age. Imbued with feline grace, curiosity, and wanderlust, the catfolk quickly spread across savannas and woodlands.
 >
 >In the harsh deserts of Nebet, Felidae tribes banding together with lizardfolk and other beast-kin, establishing the nomadic Nephara civilization. Nepharan warriors became renowned for their litheness and fearlessness in battle, protecting traders and dwellers of the oasis cities. 
 >
->Not all Felidae are in the deserts. Many adapted as hunters and rangers in the forests of Ebolon and Aerawan, offering skills to other civilizations. In the wild, they shelter in hidden aeries, protecting the ancient Secret Paths only they know.
+>Not all Felidae are in the deserts. Many adapted as hunters and rangers in the forests of Eblon and Aerawan, offering skills to other civilizations. In the wild, they shelter in hidden aeries, protecting the ancient Secret Paths only they know.
 >
 >In modern cities like Azulihrun, immigrants Felidae from the desert and forest alike serves as great fighters and explorers. Some are roaming traders or industrious small businesses living harmoniously among their long-time human neighbors.
 
 >[!pf2rule]- Halfling - Joyful Shepherds of the Wasted North
->As creations of the Great Spirits Ninkasi the Brewer and Adonis the Shepherd, halflings is an optimistic folk who find joy in life's simplest pleasure - a hearty feast, a rousing tale, an untrodden path. Their innate wanderlust drives them to roam distant vistas collecting exotic ingredients, experiences, and stories to enrich their legendary homebrews upon returning.
+>As creations of the Great Spirits Halora the Brewer and Phaedras the Shepherd, halflings is an optimistic folk who find joy in life's simplest pleasure - a hearty feast, a rousing tale, an untrodden path. Their innate wanderlust drives them to roam distant vistas collecting exotic ingredients, experiences, and stories to enrich their legendary homebrews upon returning.
 >
 >Hailing from the northern realms of Valcour and Caelindor, traditional halfling communities thrived as idyllic agricultural villages surrounding breweries, inns, and cozy tavernsteads. Halflings possess a remarkable spiritual affinity, passing down humble "stovetop" magics woven into their brewing and cooking rituals to commune seamlessly with local nature spirits.
 >
 >However, the creep of the Mana Wastes caused by the magical warfares has decimated their homelands, uprooting halfling villages into nomadic diaspora or migrate into cities like Azulihrun. Within these nomadic tribes rose fierce halfling rangers and fighter. Despite all plights, halflings continue life's humble celebrations wherever their roads may roam.
 
 >[!pf2rule]- Kobold - Dragonkin Archivists of the Lush Caverns
->Forged by Tiamat and Isimud from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in magnificent subterranean realms. Inheritors of draconic fire magics, their souls burn with Tiamat's blazing might.
+>Forged by Caelithra and Laramesis from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in magnificent subterranean realms. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
 >
 >Yet kobolds are also natural historians, with venerable elders as living libraries safeguarding primordial lore through oral traditions. Their culture treasures the excavation and preservation of relics from the first-age civilizations as a sacred duty. Central to their way of life are the mystic bonds kobolds forge with beast companions from a young age through prehistoric rituals, each clan specializing in different animal kinships.
 >
 >With the Arcane Revolution's rise and Cerulium's proliferation, many kobold scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded kin roamed as rangers and handlers. Favoring cavernous dwellings, kobolds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
 
 >[!pf2rule]- Lizardfolk - Desert Walkers
-> Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Nabu the Scribe and Isimud the Traveler. 
+> Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Thothmer the Scribe and Laramesis the Traveler. 
 
 ##### Aerawan Ancestries
 >[!pf2rule]- Kitsune - Cunning Traders
->Kitsune are fox-like race native to the north-western coasts of Aerawan, created by Nabu the Scribe and Panzuzu the Trickster. 
+>Kitsune are fox-like race native to the north-western coasts of Aerawan, created by Thothmer the Scribe and Eoluxe the Trickster. 
 
 >[!pf2rule]- Tengu - Martial Masters
->Tengu are bird-like race native to the north-western coasts of Aerawan, created by Shamash the Guardian and Ninurta the Ranger. 
+>Tengu are bird-like race native to the north-western coasts of Aerawan, created by Aresmun the Guardian and Sylvanor the Ranger. 
 
 >[!pf2rule]- Orc 
-> Orcs are from the Far Northern Aerawan, a hardworking and strong race of the frigid mountain created by Shamash the Valiant Guardian and Kirisha the Fair Mother. 
+> Orcs are from the Far Northern Aerawan, a hardworking and strong race of the frigid mountain created by Aresmun the Valiant Guardian and Zemyra the Fair Mother. 
 
 
 #### Uncommon 
@@ -343,7 +343,7 @@ Dreamtouched are those whose lives are intertwined with the ethereal realms of t
 > > Children of the Hags—a kind of twisted fallen Fey spirit living in the wilderness and in the shadows of civilizations. The birth of Changelings was often involuntary or out of deceit. They were born with an urge to join and serve their malevolent ethereal parent.     
 > 
 > >[!pf2rule]- Duskwalker 
-> > Reincarnated soul who were bound to serve the will of Great Spirits, often servants of Ereshkigal to hunt the undead abomination whenever their goddess calls. 
+> > Reincarnated soul who were bound to serve the will of Great Spirits, often servants of Thanatris to hunt the undead abomination whenever their goddess calls. 
 > 
 > >[!pf2rule]- Ardande 
 > > People with strong Wood-aligned aether influences. 
@@ -391,7 +391,7 @@ Dreamtouched are those whose lives are intertwined with the ethereal realms of t
 > >Snake-headed humanoid from Aerawan. 
 > 
 > >[!pf2rule]- Gripplis 
-> >Frog-headed humanoid from the Aerawan and the Southern Sea Isles, very uncommon in Ebolon due to the climate. 
+> >Frog-headed humanoid from the Aerawan and the Southern Sea Isles, very uncommon in Eblon due to the climate. 
 > 
 > >[!pf2rule]- Vanara 
 > >Monkey-like huamnoid from Aerawan. 
@@ -456,13 +456,86 @@ Skeleton
 Reflection (Heritage)
 
 ### Backgrounds
+These following backgrounds provide some inspirations to where you might find a character in Azulihrun and how they might be related to the Seekers. You can choose any of the campaign background, the recommended published backgrounds, or any other non-region specific background that might serve well for the concept of your character. 
+
+If more than one background resonates with your character, you may use any of the backgrounds as inspiration to your character story but choose a different background for rule purposes. 
+
 #### Campaign Backgrounds
-Campaign-specific backgrounds. 
+
+> [!pf2rule]+ ABERRANT AVENGER
+> As a child, you survived a close encounter with an Abomination—it might be an attack that decimated your community, a tragedy born from the hubris of arcane scientists, or an accident that cut too close. This traumatic experience left you with an intimate understanding of the fine line between wonder and horror that magic can represent. Now, you seek to prevent such calamities and help others who might have been affected by the unseen forces, or seek vengeance or closure for the pain you have endured. 
+> Choose two attribute boost: one must be Wisdom, and one is a free attribute boost. 
+> You have dedicated your life to study the Abominations and the local outbreaks, you also learned about the common folk way to deal with evil spirits and abominations. You are trained in Occultism and Abomination Events Lore. You gain the [Root Magic](https://2e.aonprd.com/Feats.aspx?ID=2147) Feat. 
+
+
+> [!pf2rule]+ SCHOLAR OF TWO WORLDS
+> You are a renowned scholar of arcane science, a prominent professor in the Silverthorn Arcane Institute. Your lectures on magical theory draw eager students, but your open-mindedness about traditional magics seen as primitive by academic dogma has made powerful enemies. Even though the Institute incentivizes research of arcane inventions, you cannot help but felt drawn to unraveling the mystery of the  folk magic to strengthen your magic principles and yearn to understand the world’s hidden spiritual heritage first-hand. 
+> Choose two attribute boosts: one must be Intelligence or Wisdom, and one is a free attribute boost. 
+> You are trained in Arcana and Arcane Magic Lore skill. You gain the [Arcane Sense](https://pf2easy.com/?id=2135) feat. 
+
+
+> [!pf2rule]+ CERULIUM REFORMER
+> Once an arcane engineer deeply involved in the Arcane Revolution, you have grown disillusioned by the cold pragmatism of your peers and the government's ruthless exploitation of Cerulium. For whatever reason, you left behind a promising career to embrace the more spiritual, traditional aspect of magic. You might passionately advocate for reformation and responsible innovation, or step on a journey to chase the history of the lost traditions. You might have joined the Seekers to learn the lost secrets of traditional magic through the Seeker's library and sages, or to provide technical expertise on Cerulium in difficult cases. 
+> Choose two attribute boosts: one must be Intelligence, and one is a free attribute boost. 
+> You are trained in Crafting and Cerulium Technology Lore Skill. You gain the [Crafter’s Appraisal](https://pf2easy.com/?id=8437) feat. 
+
+> [!pf2rule]+ ANTI-CERULIUM REBEL
+> Born and reared in the underbelly of a society enamored with Cerulium technology, you witnessed firsthand the ravages of unchecked arcane progress. As a member of the improvised community, you might be working in the community centers to provide for those in need, or secretly spreading information of liberation and unionization. When you advocate and fight for the right of the underprivileged, you are not afraid to resort to violence and sabotage. 
+> Ever since the surge of abominations in the Azulihrun in the last few years, the Seeker recruited capable people from the slums, such as you, to learn the means to defend the common folks against the spectral threats. However, you might be deeply disapproved of Seekers’ recent collaboration with the industrialist-allied Crown. 
+> Choose two attribute boosts: one must be Charisma, and one is a free attribute boost. 
+> You are trained in Intimidation and Azulihrun City lore. You gain the [Streetwise](https://pf2easy.com/?id=2227) feat. 
+
+
+> [!pf2rule]+ THE SPIRIT WHISPERER (WIP)
+> With ancestors deeply attuned to the local spirits within rural Erythea, you grew up surrounded by tales and practices now dismissed by urban society as mere folklore. you possess a rare talent to commune with spirits, interpret their desires, and appease them—an invaluable skill set when facing supernatural phenomena that defy Cerulium's logic. 
+
+> [!pf2rule]+ THE EX-CULTIST
+> Raised within one of the many cults worshipping abominations or malevolent spirits, you broke free from the indoctrination and seeks redemption for past actions carried out under cult influence. The cult might have taken something from you that you swore to take back; or you might have went across the line and start to see the horror of your past. The Seeker might have saved you, caught you, or deprogrammed you. As an ex-cultiest, you bring insider knowledge about dark rituals and cultist activities. You might have a personal vendetta to dismantle such groups, or aid the Seekers in combating threats that you have created yourself.
+> Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
+> You learnt the Religion and Occult Religion lore. You also gain the [Schooled in Secrets](https://2e.aonprd.com/Feats.aspx?ID=2148) feat. 
+
+> [!pf2rule]+ THE SCOURGE SCHOLAR
+> You are obsessed with the Abominations—your personal experience with the monstrous causes an undeniable fascination. You might have lost loved ones to the blight, or perhaps even bearing strange marks of the daemons yourself without succumbing to it fully, or even psychologically fascinated by their presences. Either way, you have come close enough to the Abominations to question the origin of their existence. You have dedicated your life to study the phantom phenomena, chasing the cases, conducting experiments, and developing theories that could help save countless lives and uncover the mysteries of these magical threats. In your study you crossed path with the Seekers, who recognize the value in your research and hope it could lead to a breakthrough in combating the bizarre forces.
+> Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
+> You are trained in Occultism and Abomination Lore skill. You gain the [Oddity Identification](https://pf2easy.com/?id=2198) feat. 
+
+>THE ARCANE INQUISITOR
+>  Trained as an arbiter specializing in enforcing magic laws within urban environments, you have witnessed the rifts in society caused by the mandates to control magic and the government's failure to address arcane transgressions effectively. Disenchanted with bureaucracy and corruption, you choose to offer your detective prowess to the Seekers. Perhaps you requested specifically to be transferred into working with the Seekers, or secretly collaborating with the order, regardless you seek justice for those harmed by magical means and have fallen through the cracks of society. 
+>  Choose two attribute boosts: one must be Constitution, and one is a free attribute boost. 
+>  You are trained in Intimidation as well as Legal lore skill. You gain the [Quick Coercion](https://pf2easy.com/index.php?id=2203) feat. 
+ 
+
+> [!pf2rule]+ THE TAINTED WEAPON
+> Subjected to arcane or occult experimentation aiming at harnessing the Abomination power for weaponization, you miraculously retained your selfhood while harboring powers tied to monstrous itself. Torn between fear of what they've become and hope for redemption through control of their tainted abilities, they bring to the Seekers both a warning and a weapon against unfathomable threats. 
+> Choose two attribute boosts: one must be Constitution, and one is a free attribute boost. 
+> You are trained in Occultism and Abomination lore skill. You also gain the following feat:
+> Sheer Will 
+> You constant battle with the monstrous within has trained you to make do in the most trying time rather than succumbed to weakness,  As long as your current Hit Points are less than half your maximum Hit Points, you gain a +1 circumstance bonus to Athletics and Stealth checks. If your current Hit Points are less than a quarter your maximum Hit Points, the circumstance bonus is +2 instead.
+
+> [!pf2rule]+ THE FEYWARDEN DESCENDANT
+> Descended from Feys who survived the Fey Reckoning, you carry the legacy of fey history and guardianship over natural order and balance. Your family might be a part of a hidden enclave or the worshipper of a Fey spirit. You learnt to weave ancient elven magic with combat skills refined over generations, preparing for possible confrontation with the other mortals who worship Zefaelon, or similar calamities. 
+> Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
+> You are trained in Religion and Fey lore skill. You gain the [Trick Magic Item](https://pf2easy.com/?id=2238) feat. 
+
+> [!pf2rule]+ THE  CELESTIAL ALCHEMIST 
+> Once a respected medical alchemist serving the Xia-zhou Court, you travel to Pharousia as a matter of fate: perhaps you have turn fugitive after speaking against the court or fall in love with the wrong lady, or perhaps it’s out of personal quest or curiosity. You bring your foreign knowledge of medicine and magic to Azulihrun, serving the affluent upper-class or the common folks. 
+> You receive two attributes boosts: one must be Wisdom, and one is a free attribute boost. 
+> You are trained in Medicine and Xia-Zhou lore skill. You gain the [Medicine Researcher](https://pf2easy.com/index.php?id=10006) feat (You don’t need Alchemical Crafting to be able to craft medicine. ) 
+
+> [!pf2rule]+ THE OFTEN-POSSESSED
+> Since childhood you've struggled with what clerics called "weakness of spirit" - susceptibility to possession by spirits. Over the years you learned to accept the intermittent squatting in your mind. When a particularly nasty entity took hold and unleashed havoc, the Seekers intervened. They helped exorcise the threat, then recruited you, hoping your unique experience could provide insights when confronting incorporeal entities.
+> You gain two attributes boosts, one must be Wisdom, and one is a free attribute boost. 
+> You are trained in Religion through the dialogue with Spirits, as well as Spirit Lore skill. You gain the [Read Psychometric Resonance](https://pf2easy.com/?id=21769) feat. 
 
 
 #### Recommanded Backgrounds
 Published backgrounds that might be particularly appropriate to the campaign.
-
+Mana waste Refugee
+Magical Misfit
+Mechanic Symbiosis (Uncommon or Rare)
+Once Bitten (a shitty version of Aberrant Survivor)
+Undertaker
+…
 
 ### Classes 
 
@@ -471,6 +544,8 @@ Published backgrounds that might be particularly appropriate to the campaign.
 
 
 ### Magic & Faith 
+Sky Lord 
+The Maelstrom 
 
 
 ### Skills & Feats
