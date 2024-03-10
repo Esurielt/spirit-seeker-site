@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-player-guide/character-creation/","title":"Creating Character","pinned":true,"contentClasses":"embed-clean","tags":["CharacterCreation","Primer"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-player-guide/character-creation/","title":"Creating Character","pinned":true,"contentClasses":"embed-clean","tags":["CharacterCreation","Primer","WIP"],"noteIcon":""}
 ---
 
 
@@ -20,7 +20,7 @@ Since the story is focused on the Seekers and protecting the civilians from magi
 **Anathemas** abandoning civilians in danger, cowardice, not improve one's magical and combat ability, let magical threat run wild, hurting the powerless
 
 Character who does not care to improve the life of the citizens and protect the powerless can still take up their blade against the abominations. They could be chasing the thrill of combat, have a fascination for occult mystery, have a personal vendetta that happen to coincide with the Seekers, or simple needs money after your old practices were outlawed. 
-More inspiration might be found in the [[00 Player Guide/Character Creation#Backgrounds\|#Backgrounds]] section. 
+More inspiration might be found in the [[00 Player Guide/Character Creation#Backgrounds\|Backgrounds]] section. 
 
 ### Ancestries
 Erythea is a diverse world teeming with fascinating culture and ancestries. Collectively, the humanoid mortal inhabitants of the world are commonly referred to as the mankind. The [[01 World of Erythea/People/Ancestries\|Ancestries]] page collects more detail about each Ancestries entries. The following is a quick overview of all the ancestries and lineages you could find in the world of Erythea. 
@@ -28,7 +28,7 @@ Erythea is a diverse world teeming with fascinating culture and ancestries. Coll
 >[!pf2rule] TLDR 
 > Among the common ancestries, these following are [[03 Rule Elements/Rule References#^rarity-rare\|Rare]]: Elf, Gnome, Leshy. Meaning, you cannot choose these ancestries without a rare option reward / discussion with GM. The lore of these ancestries could be found in the [[01 World of Erythea/People/Ancestries\|Ancestries]] page. 
 > 
-> Please refer to the list for availability on all other published ancestries. Note that [[03 Rule Elements/Rule References#^rarity-uncommon\|Uncommon]] ancestries needs to be strongly incorporated into your character story, as they would invite development in the campaign. 
+> Please refer to the following list for availability on all other published ancestries. Note that [[03 Rule Elements/Rule References#^rarity-uncommon\|Uncommon]] ancestries needs to be strongly incorporated into your character story, as they would invite development in the campaign. 
 
 
 #### Common
@@ -37,7 +37,7 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 >[!pf2rule]- Human - Driven Settlers of the World
 >Of all the mortal races, none are more numerous and driven than humans. Blessed with ambitious versatility yet cursed by fleeting lifespans, they chase their passions with fervent urgency. This volatile spirit allows humans to attune deeply with the impassioned essences of magic and spirits.
 >
->Humans revere Zefaelon, the Great Spirit of Cities and Law, as patron of their monumental civilizations like Pharousia, Caelindor, Valcour, and Qahilim. It was human industry that triggered the Arcane Revolution, with cities like Azulihrun now towering as wondrous cerulium-powered metropolises.
+>Humans revere Zefaelon, the Great Spirit of Cities and Law, as patron of their monumental civilizations like Pharousia, Caelindor, Valcour, and Qahilim. They also worships Aresmun, the Valiant Shield for protection of their realms and in time of war. It was human industry that triggered the Arcane Revolution, with cities like Azulihrun now towering as wondrous cerulium-powered metropolises.
 
 >[!pf2rule]- Dwarf - Ancient Builders from the Depth
 > Ever since the First Age, dwarves–masters of stonecraft and metalwork–inhabited vast underground kingdoms in the subterranean world known as the Umbral Realm. Then the wandering fey refugees, fleeing the terrible devastation of the Fey Reckoning, brought tales of the wondrous surface realms. Inspired, King Volkarr led the an expedition and established the Kingdom of Dorn, constructing the grand citadel of Heavenkeep on Mount Elderspine as their first surface holding.
@@ -45,12 +45,12 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 > With the Arcane Revolution and discovery of cerulium, dwarven artifice achieved new heights. Their innovative arcane alloys, mechanizations and expertly crafted goods spread across Erythea, including to cities like Azulihrun where many dwarves has immigrated. However, dwarves never lost reverence for their ancestral dwelings in the Umbral Realm like Mor Kadin and the fabled Umbralforge of Ignara. 
 
 >[!pf2rule]- Goblin / Hobgoblins - Ingenious Anarchists of the Elderspine
->Birthed from the dreams of Caelithra the Primordial Serpent and Eoluxe the Cunning Trickster, goblins thrive in an anarchic meritocracy below the Elderspine Mountains. No hereditary rulers, only a ceaseless creative upheaval where cunning tinkers, daring arcanists, and skilled con-artists temporarily rise as "big bosses" through their innovative crafts and trickster exploits. Raucous marketplaces overflow with riotous tales spun by hobgoblin bards and intricate contraptions that is impossible to find a pair, as bargains, favors, and debts fuel a barter-based economy operating on sense of honor and responsibility.
+>Birthed from the dreams of Caelithra the Primordial Serpent and Eoluxe the Defying Trickster, goblins thrive in an anarchic meritocracy below the Elderspine Mountains. No hereditary rulers, only a ceaseless creative upheaval where cunning tinkers, daring arcanists, and skilled con-artists temporarily rise as "big bosses" through their innovative crafts and trickster exploits. Raucous marketplaces overflow with riotous tales spun by hobgoblin bards and intricate contraptions that is impossible to find a pair, as bargains, favors, and debts fuel a barter-based economy operating on sense of honor and responsibility.
 >
 > Goblin’s lingering distrust of "tall races" like humans stems from fresh injustices - enslaved for their cerulium mines, their lands razed by Valcour and Caelindor. Only through dwarven allies could the goblin persevere their culture, though many became refugees at the fringes of foreign cities, seeking to rebuild their meritocratic traditions and vibrant culture of chaotic ingenuity.
 
 >[!pf2rule]- Felidae - Feline Hunters of Deserts and Forests
->Catfolks, or Felidae, renowned for their grace, sociability, and inquisitiveness, were created by Sylvanor the Ranger and Halora the Brewer in the Second Age. Imbued with feline grace, curiosity, and wanderlust, the catfolk quickly spread across savannas and woodlands.
+>Catfolks, or Felidae, renowned for their grace, sociability, and inquisitiveness, were created by Sylvanor the Wild Warden and Halora the Jubilant in the Second Age. Imbued with feline grace, curiosity, and wanderlust, the catfolk quickly spread across savannas and woodlands.
 >
 >In the harsh deserts of Nebet, Felidae tribes banding together with lizardfolk and other beast-kin, establishing the nomadic Nephara civilization. Nepharan warriors became renowned for their litheness and fearlessness in battle, protecting traders and dwellers of the oasis cities. 
 >
@@ -59,18 +59,18 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 >In modern cities like Azulihrun, immigrants Felidae from the desert and forest alike serves as great fighters and explorers. Some are roaming traders or industrious small businesses living harmoniously among their long-time human neighbors.
 
 >[!pf2rule]- Halfling - Joyful Shepherds of the Wasted North
->As creations of the Great Spirits Halora the Brewer and Phaedras the Shepherd, halflings is an optimistic folk who find joy in life's simplest pleasure - a hearty feast, a rousing tale, an untrodden path. Their innate wanderlust drives them to roam distant vistas collecting exotic ingredients, experiences, and stories to enrich their legendary homebrews upon returning.
+>As creations of the Great Spirits Halora the Jubilant and Phaedras the Dawn Shepherd, halflings is an optimistic folk who find joy in life's simplest pleasure - a hearty feast, a rousing tale, an untrodden path. Their innate wanderlust drives them to roam distant vistas collecting exotic ingredients, experiences, and stories to enrich their legendary homebrews upon returning.
 >
 >Hailing from the northern realms of Valcour and Caelindor, traditional halfling communities thrived as idyllic agricultural villages surrounding breweries, inns, and cozy tavernsteads. Halflings possess a remarkable spiritual affinity, passing down humble "stovetop" magics woven into their brewing and cooking rituals to commune seamlessly with local nature spirits.
 >
 >However, the creep of the Mana Wastes caused by the magical warfares has decimated their homelands, uprooting halfling villages into nomadic diaspora or migrate into cities like Azulihrun. Within these nomadic tribes rose fierce halfling rangers and fighter. Despite all plights, halflings continue life's humble celebrations wherever their roads may roam.
 
 >[!pf2rule]- Kobold - Dragonkin Archivists of the Lush Caverns
->Forged by Caelithra and Laramesis from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in magnificent subterranean realms. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
+>Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
 >
->Yet kobolds are also natural historians, with venerable elders as living libraries safeguarding primordial lore through oral traditions. Their culture treasures the excavation and preservation of relics from the first-age civilizations as a sacred duty. Central to their way of life are the mystic bonds kobolds forge with beast companions from a young age through prehistoric rituals, each clan specializing in different animal kinships.
+>Many kobolds are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some kobold tribes, central to their way of life are the mystic bonds kobolds forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
 >
->With the Arcane Revolution's rise and Cerulium's proliferation, many kobold scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded kin roamed as rangers and handlers. Favoring cavernous dwellings, kobolds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
+>With the Arcane Revolution's rise and Cerulium's proliferation, many kobold scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded kobolds roamed as rangers and handlers. Still favoring cavernous dwellings, kobolds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
 
 >[!pf2rule]- Lizardfolk - Desert Walkers
 > Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Thothmer the Scribe and Laramesis the Traveler. 
@@ -250,14 +250,14 @@ If more than one background resonates with your character, you may use any of th
 > [!pf2rule]+ THE EX-CULTIST
 > Raised within one of the many cults worshipping abominations or malevolent spirits, you broke free from the indoctrination and seeks redemption for past actions carried out under cult influence. The cult might have taken something from you that you swore to take back; or you might have went across the line and start to see the horror of your past. The Seeker might have saved you, caught you, or deprogrammed you. As an ex-cultiest, you bring insider knowledge about dark rituals and cultist activities. You might have a personal vendetta to dismantle such groups, or aid the Seekers in combating threats that you have created yourself.
 > Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
-> You learnt the Religion and Occult Religion lore. You also gain the [Schooled in Secrets](https://2e.aonprd.com/Feats.aspx?ID=2148) feat. 
+> You learnt the Religion and Occult Religion Lore skill. You also gain the [Schooled in Secrets](https://2e.aonprd.com/Feats.aspx?ID=2148) feat. 
 
 > [!pf2rule]+ THE SCOURGE SCHOLAR
 > You are obsessed with the Abominations—your personal experience with the monstrous causes an undeniable fascination. You might have lost loved ones to the blight, or perhaps even bearing strange marks of the daemons yourself without succumbing to it fully, or even psychologically fascinated by their presences. Either way, you have come close enough to the Abominations to question the origin of their existence. You have dedicated your life to study the phantom phenomena, chasing the cases, conducting experiments, and developing theories that could help save countless lives and uncover the mysteries of these magical threats. In your study you crossed path with the Seekers, who recognize the value in your research and hope it could lead to a breakthrough in combating the bizarre forces.
 > Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
 > You are trained in Occultism and Abomination Lore skill. You gain the [Oddity Identification](https://pf2easy.com/?id=2198) feat. 
 
->THE ARCANE INQUISITOR
+>[!pf2rule]+ THE ARCANE INQUISITOR
 >  Trained as an arbiter specializing in enforcing magic laws within urban environments, you have witnessed the rifts in society caused by the mandates to control magic and the government's failure to address arcane transgressions effectively. Disenchanted with bureaucracy and corruption, you choose to offer your detective prowess to the Seekers. Perhaps you requested specifically to be transferred into working with the Seekers, or secretly collaborating with the order, regardless you seek justice for those harmed by magical means and have fallen through the cracks of society. 
 >  Choose two attribute boosts: one must be Constitution, and one is a free attribute boost. 
 >  You are trained in Intimidation as well as Legal lore skill. You gain the [Quick Coercion](https://pf2easy.com/index.php?id=2203) feat. 
@@ -267,8 +267,9 @@ If more than one background resonates with your character, you may use any of th
 > Subjected to arcane or occult experimentation aiming at harnessing the Abomination power for weaponization, you miraculously retained your selfhood while harboring powers tied to monstrous itself. Torn between fear of what they've become and hope for redemption through control of their tainted abilities, they bring to the Seekers both a warning and a weapon against unfathomable threats. 
 > Choose two attribute boosts: one must be Constitution, and one is a free attribute boost. 
 > You are trained in Occultism and Abomination lore skill. You also gain the following feat:
-> Sheer Will 
-> You constant battle with the monstrous within has trained you to make do in the most trying time rather than succumbed to weakness,  As long as your current Hit Points are less than half your maximum Hit Points, you gain a +1 circumstance bonus to Athletics and Stealth checks. If your current Hit Points are less than a quarter your maximum Hit Points, the circumstance bonus is +2 instead.
+> 
+> >[!pf2rule] Sheer Will 
+> >You constant battle with the monstrous within has trained you to make do in the most trying time rather than succumbed to weakness,  As long as your current Hit Points are less than half your maximum Hit Points, you gain a +1 circumstance bonus to Athletics and Stealth checks. If your current Hit Points are less than a quarter your maximum Hit Points, the circumstance bonus is +2 instead.
 
 > [!pf2rule]+ THE FEYWARDEN DESCENDANT
 > Descended from Feys who survived the Fey Reckoning, you carry the legacy of fey history and guardianship over natural order and balance. Your family might be a part of a hidden enclave or the worshipper of a Fey spirit. You learnt to weave ancient elven magic with combat skills refined over generations, preparing for possible confrontation with the other mortals who worship Zefaelon, or similar calamities. 
@@ -285,10 +286,11 @@ If more than one background resonates with your character, you may use any of th
 > You gain two attributes boosts, one must be Wisdom, and one is a free attribute boost. 
 > You are trained in Religion through the dialogue with Spirits, as well as Spirit Lore skill. You gain the [Read Psychometric Resonance](https://pf2easy.com/?id=21769) feat. 
 
+[…More to come?]
 
 #### Recommanded Backgrounds
 Published backgrounds that might be particularly appropriate to the campaign.
-Mana waste Refugee
+Mana Waste Refugee
 Magical Misfit
 Mechanic Symbiosis (Uncommon or Rare)
 Once Bitten (a shitty version of Aberrant Survivor)
@@ -302,8 +304,35 @@ Undertaker
 
 
 ### Magic & Faith 
-Sky Lord 
-The Maelstrom 
+
+#### Great Spirits  
+[[01 World of Erythea/Faith/Deities/Zefaelon\|Zefaelon]], the Lawbringer
+The Edifice Unshaken. Zefaelon is one of the patron deity of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and with a regal blue and gold robe. 
+
+[[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] the Dawn Shepherd
+The Soother of Sorrows and the Golden Rose. Phaedras is the god of Sun, Beauty, Love, and Art. He is often portrayed as an androgynous man dressed in Shepherd clothing with radiant eyes and beautiful features/ 
+
+Caelithra the Maelstrom 
+
+Halora the Jubilant Hearthkeeper 
+
+Eridius the World Smith 
+
+Sylvanor the Wild Warden 
+
+Laramesis the Twin-faced Messenger 
+
+Khaletaleia the Mistress of Slumber 
+
+Thothemer the Vault Keeper 
+
+Eoluxe the Defying Trickster 
+
+Zemyra the Fair Mother 
+
+Aresmun the Valiant Guardian
+
+
 
 
 ### Skills & Feats
