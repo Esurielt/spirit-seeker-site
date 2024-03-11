@@ -1,23 +1,13 @@
 ---
-dg-publish: true
-dg-pinned: true
-title: Creating Character
-tags:
-  - CharacterCreation
-  - Primer
-  - WIP
-aliases:
-  - Creating Character
-cssclasses:
-  - embed-clean
-dg-show-inline-title: false
+{"dg-publish":true,"permalink":"/00-player-guide/character-creation/","title":"Creating Character","pinned":true,"contentClasses":"embed-clean","tags":["CharacterCreation","Primer","WIP"],"noteIcon":""}
 ---
+
 
 ## Creating Character 
 The city of Azulihrun has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
 
 - [ ] #task List of Great Spirits, just fucking do it
-- [ ] #task Magic overview 
+- [ ] #task Magic overview  
 
 ### Alignment, Edict, & Anathema
 Pathfinder 2e Remaster has removed alignment as a concept and replaced with the more personal and nuanced character detail - Edict and Anathema. There's no restriction on character alignment. 
