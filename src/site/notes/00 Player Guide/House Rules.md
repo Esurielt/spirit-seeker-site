@@ -18,9 +18,11 @@ By playing at the table, we should be bounded by the following social contract. 
 ##### Common Courtesy and Respect
 this should go without saying, be mindful, respectful, and inquisitive. 
 
-##### Safewords and Boundray
+##### Safewords and Boundary
 If anything or anyone makes you uncomfortable, including the GM, invoke the magic word of "Banana Juice" in a private message or the public chat. People should simply move on from current topic without the needs of explanation and curiosity. Please don't use this key phrase for other reasons. 
 If there's any particular topics of sensitivity, please immediately inform the GM!
+###### Topics of Sensitivity
+- No background children character
 
 ### Intent of Play
 The following are the intended experience of the table! When encountering creative differences and frustration, we can use these as the foundation to build our play.  
