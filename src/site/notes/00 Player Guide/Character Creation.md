@@ -223,7 +223,7 @@ If more than one background resonates with your character, you may use any of th
 > [!pf2rule]+ ABERRANT AVENGER
 > As a child, you survived a close encounter with an Abomination—it might be an attack that decimated your community, a tragedy born from the hubris of arcane scientists, or an accident that cut too close. This traumatic experience left you with an intimate understanding of the fine line between wonder and horror that magic can represent. Now, you seek to prevent such calamities and help others who might have been affected by the unseen forces, or seek vengeance or closure for the pain you have endured. 
 > Choose two attribute boost: one must be Wisdom, and one is a free attribute boost. 
-> You have dedicated your life to study the Abominations and the local outbreaks, you also learned about the common folk way to deal with evil spirits and abominations. You are trained in Occultism and Abomination Events Lore. You gain the [Root Magic](https://2e.aonprd.com/Feats.aspx?ID=2147) Feat. 
+> You have dedicated your life to study the Abominations and the local outbreaks, you also learned about the common folk way to deal with evil spirits and abominations. You are trained in Occultism and Abomination Protection Lore. You gain the [Root Magic](https://2e.aonprd.com/Feats.aspx?ID=2147) Feat. 
 
 
 > [!pf2rule]+ SCHOLAR OF TWO WORLDS
@@ -292,9 +292,12 @@ If more than one background resonates with your character, you may use any of th
 Published backgrounds that might be particularly appropriate to the campaign.
 Mana Waste Refugee
 Magical Misfit
-Mechanic Symbiosis (Uncommon or Rare)
+Mechanic Symbiosis (Uncommon)
 Once Bitten (a shitty version of Aberrant Survivor)
 Undertaker
+Insurgent
+Mechanic
+Medicinal Clocksmith
 …
 
 ### Classes 
@@ -322,11 +325,11 @@ Sylvanor the Wild Warden
 
 Laramesis the Twin-faced Messenger 
 
-Khaletaleia the Mistress of Slumber 
+Kha-taleia the Mistress of Slumber 
 
 Thothemer the Vault Keeper 
 
-Eoluxe the Defying Trickster 
+Eolux the Defying Trickster 
 
 Zemyra the Fair Mother 
 
