@@ -3,7 +3,7 @@
 ---
 
 >[!pf2rule]+ Aresmun the Valiant Guardian
->The Shield of the Firmament, Aresmun is the god of War and Valor, but also the god of healing and protection. He is often portrayed as a veteran warrior in golden armor and silver chain shirt, holding a shield in one hand and a bowl of clean water in the other.
+>The Shield of the Firmament, Aresmun is the god of War and Valor, but also the god of healing and protection. He is often portrayed as a veteran warrior in golden armor and silver chain shirt, holding a shield in one hand and a bowl of clean water in the other. He is often worshipped among soldiers and doctors.
 > 
 > **Titles**  The Shield of the Firmament,The Divine Guardian,The Arbitrator of Atonement
 > **Areas of Concern**  war, strategy, defense, physical prowess, healing
