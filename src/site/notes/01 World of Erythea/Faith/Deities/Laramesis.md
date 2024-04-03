@@ -10,7 +10,9 @@
 > **Edicts**  Travel and enrich ones experiences, strive to seek different perspectives
 > **Anathema**  Believe in hard truth, resist new experiences
 > **Divine Attribute**  Dexterity or Constitution
+> 
 > ---
+> 
 > **Cleric Spells** 1st: [fleet step](https://pf2easy.com/index.php?id=1336&name=fleet_step),3rd: [haste](https://pf2easy.com/index.php?id=1361&name=haste),6th: [mislead](https://pf2easy.com/index.php?id=1413&name=mislead)
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
