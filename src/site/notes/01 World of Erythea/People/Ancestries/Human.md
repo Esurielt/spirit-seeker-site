@@ -3,7 +3,7 @@
 ---
 
 #### The Driven Inheritors
-Humans are the most prolific and ambitious of the mortal races inhabiting Erythea. As the shortest-lived of ancestries, they have an innate sense of urgency that drives their endeavors - whether chasing dreams of glory, building towering civilizations, or wallowing in melancholy. This volatile nature allows humans to deeply attune with the impassioned essences of spirits and magic.
+Created by Zefaelon the Lawbringer and Eridius the World Smith, Humans are the most prolific and ambitious of the mortal races inhabiting Erythea. As the shortest-lived of ancestries, they have an innate sense of urgency that drives their endeavors - whether chasing dreams of glory, building towering civilizations, or wallowing in melancholy. This volatile nature allows humans to deeply attune with the impassioned essences of spirits and magic. 
 
 #### Pantheon of Civilization
 Chief among the human deities is Zefaelon, the Great Spirit of Cities and Law. He is revered as the patron of humanity's monumental nation-building across Erythea. On the continent of Eblon, the mighty empires of Caelindor, Valcour, Pharousia, and Qahilim arose under Zefaelon's divine guidance, their ziggurats and citadels crafted in his name.
