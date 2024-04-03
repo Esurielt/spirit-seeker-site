@@ -221,51 +221,52 @@ If more than one background resonates with your character, you may use any of th
 #### Campaign Backgrounds
 
 > [!pf2rule]+ ABERRANT AVENGER
-> As a child, you survived a close encounter with an Abomination—it might be an attack that decimated your community, a tragedy born from the hubris of arcane scientists, or an accident that cut too close. This traumatic experience left you with an intimate understanding of the fine line between wonder and horror that magic can represent. Now, you seek to prevent such calamities and help others who might have been affected by the unseen forces, or seek vengeance or closure for the pain you have endured. 
-> Choose two attribute boost: one must be Wisdom, and one is a free attribute boost. 
-> You have dedicated your life to study the Abominations and the local outbreaks, you also learned about the common folk way to deal with evil spirits and abominations. You are trained in Occultism and Abomination Protection Lore. You gain the [Root Magic](https://2e.aonprd.com/Feats.aspx?ID=2147) Feat. 
+> As a child, you survived a close encounter with an Abomination—it might be an attack that decimated your community, a tragedy born from the hubris of arcane scientists, or an accident that cut too close. This traumatic experience left you with an intimate understanding of the fine line between wonder and horror that magic can represent. Now, you seek to prevent such calamities and help others who might have been affected by the unseen forces, or seek vengeance or closure for the pain you have endured. You have dedicated your life to study the Abominations and the local outbreaks, you also learned about the common folk way to deal with evil spirits and abominations. 
+> 
+> Choose two attribute boost: one must be Wisdom or Constitution, and one is a free attribute boost. 
+> 
+> You are trained in Occultism and Lore about a specific category of Abomination(e.g. Ghost, Wraith, Fey, Daemon, Ghoul, Zombie, Vampires, Mana Waste Mutants, Specter). You gain the [Assurance](https://pf2easy.com/index.php?id=2137) Feat. 
 
 
 > [!pf2rule]+ SCHOLAR OF TWO WORLDS
 > You are a renowned scholar of arcane science, a prominent professor in the Silverthorn Arcane Institute. Your lectures on magical theory draw eager students, but your open-mindedness about traditional magics seen as primitive by academic dogma has made powerful enemies. Even though the Institute incentivizes research of arcane inventions, you cannot help but felt drawn to unraveling the mystery of the  folk magic to strengthen your magic principles and yearn to understand the world’s hidden spiritual heritage first-hand. 
 > Choose two attribute boosts: one must be Intelligence or Wisdom, and one is a free attribute boost. 
-> You are trained in Arcana and Arcane Magic Lore skill. You gain the [Arcane Sense](https://pf2easy.com/?id=2135) feat. 
+> You are trained in Arcana and Academia Lore skill. You gain the [Arcane Sense](https://pf2easy.com/?id=2135) feat. 
 
 
 > [!pf2rule]+ CERULIUM REFORMER
 > Once an arcane engineer deeply involved in the Arcane Revolution, you have grown disillusioned by the cold pragmatism of your peers and the government's ruthless exploitation of Cerulium. For whatever reason, you left behind a promising career to embrace the more spiritual, traditional aspect of magic. You might passionately advocate for reformation and responsible innovation, or step on a journey to chase the history of the lost traditions. You might have joined the Seekers to learn the lost secrets of traditional magic through the Seeker's library and sages, or to provide technical expertise on Cerulium in difficult cases. 
-> Choose two attribute boosts: one must be Intelligence, and one is a free attribute boost. 
-> You are trained in Crafting and Cerulium Technology Lore Skill. You gain the [Crafter’s Appraisal](https://pf2easy.com/?id=8437) feat. 
+> Choose two attribute boosts: one must be Intelligence or Charisma, and one is a free attribute boost. 
+> You are trained in Crafting and Cerulium Engineering Lore Skill. You gain the [Crafter’s Appraisal](https://pf2easy.com/?id=8437) feat. 
 
 > [!pf2rule]+ ANTI-CERULIUM REBEL
 > Born and reared in the underbelly of a society enamored with Cerulium technology, you witnessed firsthand the ravages of unchecked arcane progress. As a member of the improvised community, you might be working in the community centers to provide for those in need, or secretly spreading information of liberation and unionization. When you advocate and fight for the right of the underprivileged, you are not afraid to resort to violence and sabotage. 
 > Ever since the surge of abominations in the Azulihrun in the last few years, the Seeker recruited capable people from the slums, such as you, to learn the means to defend the common folks against the spectral threats. However, you might be deeply disapproved of Seekers’ recent collaboration with the industrialist-allied Crown. 
-> Choose two attribute boosts: one must be Charisma, and one is a free attribute boost. 
+> Choose two attribute boosts: one must be Charisma or Constitution, and one is a free attribute boost. 
 > You are trained in Intimidation and Azulihrun City lore. You gain the [Streetwise](https://pf2easy.com/?id=2227) feat. 
 
-
-> [!pf2rule]+ THE SPIRIT WHISPERER (WIP)
-> With ancestors deeply attuned to the local spirits within rural Erythea, you grew up surrounded by tales and practices now dismissed by urban society as mere folklore. you possess a rare talent to commune with spirits, interpret their desires, and appease them—an invaluable skill set when facing supernatural phenomena that defy Cerulium's logic. 
+> [!pf2rule]+ THE SPIRIT WHISPERER
+> With ancestors deeply attuned to the local spirits within rural Erythea, you grew up surrounded by tales and practices now dismissed by urban society as mere folklore. you possess a rare talent to commune with spirits, interpret their desires, and appease them—an invaluable skill set when facing supernatural phenomena that defy Cerulium's logic.  
+> Choose two attribute boost: one must be Wisdom or Charisma, and one is a free attribute boost. You are trained in Occultism and Rural Traditions Lore. You gain the [Root Magic](https://2e.aonprd.com/Feats.aspx?ID=2147) Feat. 
 
 > [!pf2rule]+ THE EX-CULTIST
 > Raised within one of the many cults worshipping abominations or malevolent spirits, you broke free from the indoctrination and seeks redemption for past actions carried out under cult influence. The cult might have taken something from you that you swore to take back; or you might have went across the line and start to see the horror of your past. The Seeker might have saved you, caught you, or deprogrammed you. As an ex-cultiest, you bring insider knowledge about dark rituals and cultist activities. You might have a personal vendetta to dismantle such groups, or aid the Seekers in combating threats that you have created yourself.
 > Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
-> You learnt the Religion and Occult Religion Lore skill. You also gain the [Schooled in Secrets](https://2e.aonprd.com/Feats.aspx?ID=2148) feat. 
+> You are trained in Religion and Occult Society Lore (Pick one cult that you were involved with, you know the most about that one cult). You also gain the [Schooled in Secrets](https://2e.aonprd.com/Feats.aspx?ID=2148) feat. 
 
 > [!pf2rule]+ THE SCOURGE SCHOLAR
 > You are obsessed with the Abominations—your personal experience with the monstrous causes an undeniable fascination. You might have lost loved ones to the blight, or perhaps even bearing strange marks of the daemons yourself without succumbing to it fully, or even psychologically fascinated by their presences. Either way, you have come close enough to the Abominations to question the origin of their existence. You have dedicated your life to study the phantom phenomena, chasing the cases, conducting experiments, and developing theories that could help save countless lives and uncover the mysteries of these magical threats. In your study you crossed path with the Seekers, who recognize the value in your research and hope it could lead to a breakthrough in combating the bizarre forces.
-> Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
-> You are trained in Occultism and Abomination Lore skill. You gain the [Oddity Identification](https://pf2easy.com/?id=2198) feat. 
+> Choose two attribute boosts: one must be Wisdom or Intelligence, and one is a free attribute boost. 
+> You are trained in Occultism and Lore about a specific category of Abomination(e.g. Ghost, Wraith, Fey, Daemon, Ghoul, Zombie, Vampires, Mana Waste Mutants, Specter). You gain the [Oddity Identification](https://pf2easy.com/?id=2198) feat. 
 
 >[!pf2rule]+ THE ARCANE INQUISITOR
 >  Trained as an arbiter specializing in enforcing magic laws within urban environments, you have witnessed the rifts in society caused by the mandates to control magic and the government's failure to address arcane transgressions effectively. Disenchanted with bureaucracy and corruption, you choose to offer your detective prowess to the Seekers. Perhaps you requested specifically to be transferred into working with the Seekers, or secretly collaborating with the order, regardless you seek justice for those harmed by magical means and have fallen through the cracks of society. 
->  Choose two attribute boosts: one must be Constitution, and one is a free attribute boost. 
+>  Choose two attribute boosts: one must be Strength or Intelligence, and one is a free attribute boost. 
 >  You are trained in Intimidation as well as Legal lore skill. You gain the [Quick Coercion](https://pf2easy.com/index.php?id=2203) feat. 
  
-
 > [!pf2rule]+ THE TAINTED WEAPON
 > Subjected to arcane or occult experimentation aiming at harnessing the Abomination power for weaponization, you miraculously retained your selfhood while harboring powers tied to monstrous itself. Torn between fear of what they've become and hope for redemption through control of their tainted abilities, they bring to the Seekers both a warning and a weapon against unfathomable threats. 
-> Choose two attribute boosts: one must be Constitution, and one is a free attribute boost. 
+> Choose two attribute boosts: one must be Wisdom or Constitution, and one is a free attribute boost. 
 > You are trained in Occultism and Abomination lore skill. You also gain the following feat:
 > 
 > >[!pf2rule] Sheer Will 
@@ -273,79 +274,414 @@ If more than one background resonates with your character, you may use any of th
 
 > [!pf2rule]+ THE FEYWARDEN DESCENDANT
 > Descended from Feys who survived the Fey Reckoning, you carry the legacy of fey history and guardianship over natural order and balance. Your family might be a part of a hidden enclave or the worshipper of a Fey spirit. You learnt to weave ancient elven magic with combat skills refined over generations, preparing for possible confrontation with the other mortals who worship Zefaelon, or similar calamities. 
-> Choose two attribute boosts: one must be Wisdom, and one is a free attribute boost. 
+> Choose two attribute boosts: one must be Wisdom or Charisma, and one is a free attribute boost. 
 > You are trained in Religion and Fey lore skill. You gain the [Trick Magic Item](https://pf2easy.com/?id=2238) feat. 
 
 > [!pf2rule]+ THE  CELESTIAL ALCHEMIST 
 > Once a respected medical alchemist serving the Xia-zhou Court, you travel to Pharousia as a matter of fate: perhaps you have turn fugitive after speaking against the court or fall in love with the wrong lady, or perhaps it’s out of personal quest or curiosity. You bring your foreign knowledge of medicine and magic to Azulihrun, serving the affluent upper-class or the common folks. 
-> You receive two attributes boosts: one must be Wisdom, and one is a free attribute boost. 
+> You receive two attributes boosts: one must be Wisdom or Intelligence, and one is a free attribute boost. 
 > You are trained in Medicine and Xia-Zhou lore skill. You gain the [Medicine Researcher](https://pf2easy.com/index.php?id=10006) feat (You don’t need Alchemical Crafting to be able to craft medicine. ) 
 
 > [!pf2rule]+ THE OFTEN-POSSESSED
 > Since childhood you've struggled with what clerics called "weakness of spirit" - susceptibility to possession by spirits. Over the years you learned to accept the intermittent squatting in your mind. When a particularly nasty entity took hold and unleashed havoc, the Seekers intervened. They helped exorcise the threat, then recruited you, hoping your unique experience could provide insights when confronting incorporeal entities.
-> You gain two attributes boosts, one must be Wisdom, and one is a free attribute boost. 
-> You are trained in Religion through the dialogue with Spirits, as well as Spirit Lore skill. You gain the [Read Psychometric Resonance](https://pf2easy.com/?id=21769) feat. 
+> You gain two attributes boosts, one must be Wisdom or Constitution, and one is a free attribute boost. 
+> You are trained in Religion through the dialogue with Spirits, as well as Spirit Commune Lore skill. You gain the [Read Psychometric Resonance](https://pf2easy.com/?id=21769) feat. 
 
-[…More to come?]
+\[…More to come?\]
 
 #### Recommanded Backgrounds
 Published backgrounds that might be particularly appropriate to the campaign.
-Mana Waste Refugee
-Magical Misfit
-Mechanic Symbiosis (Uncommon)
-Once Bitten (a shitty version of Aberrant Survivor)
-Undertaker
-Insurgent
-Mechanic
-Medicinal Clocksmith
+[Mana Wastes Refugee](https://pf2easy.com/index.php?id=3254)
+[Magical Misfit](https://pf2easy.com/index.php?id=16997&name=Magical_Misfit)
+[Mechanical Symbiosis](https://pf2easy.com/index.php?id=17728&name=Mechanical_Symbiosis) <span class="pf-trait pf-trait-uncommon"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-uncommon">Uncommon</a></span>
+[Once Bitten](https://pf2easy.com/index.php?id=21141&name=Once_Bitten) (a Medicine version of Aberrant Survivor)
+[Undertaker](https://pf2easy.com/index.php?id=17742&name=Undertaker)
+[Insurgent](https://pf2easy.com/index.php?id=8405&name=Insurgent)
+[Anti-Tech Activist](https://pf2easy.com/tree/index.php?id=2502&name=backgrounds&year=2019#!) (Very similar to Anti-Cerulium Rebel)
+[Mechanic](https://pf2easy.com/index.php?id=17722&name=Mechanic)
+[Medicinal Clocksmith](https://pf2easy.com/index.php?id=17723&name=Medicinal_Clocksmith) (Really cool medicine focused engineer background!)
+[Academy Dropout](https://pf2easy.com/tree/index.php?id=16992)
+[Chosen One](https://pf2easy.com/tree/index.php?id=17004) <span class="pf-trait pf-trait-rare"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-rare">Rare</a></span>
+[Cursed Family](https://pf2easy.com/tree/index.php?id=3230)
 …
 
-### Classes 
 
+### Classes & Archetypes 
+#### Class
 
-### Language 
+| Recommended        | Suitable     | Not Recommanded    |
+| ------------------ | ------------ | ------------------ |
+| Inventor           | Ranger       | Wizard             |
+| Rogue              | Fighter      | Alchemist (Legacy) |
+| Thaumaturge        | Cleric       |                    |
+| Witch              | Champion     |                    |
+| Investigator       | Druid        |                    |
+| Oracle             | Monk         |                    |
+| Barbarian (Spirit) | Barbarian    |                    |
+| Psychic            | Swashbuckler |                    |
+| Summoner           | Gunslinger   |                    |
+| Sorcerer           | Kineticist   |                    |
+|                    | Magus        |                    |
+Any class that can easily forge connection with the concepts of spirit magic and paranormal investigation is a great fit for this campaign. 
+
+#### Notable Archetypes 
+There are over a 120 archetypes available in Pathfinder 2E's rule set, many of them are a great fit for this campaign (and many of them are irrelevant, such as faction archetype.) 
+
+There are many interesting Archetype are perfect for this campaign, here are some examples:
+[Blessed One](https://2e.aonprd.com/Archetypes.aspx?ID=51)
+[Elementalist](https://2e.aonprd.com/Archetypes.aspx?ID=207)
+[Curse Maelstrom](https://2e.aonprd.com/Archetypes.aspx?ID=190)
+[Cathartic Mage](https://2e.aonprd.com/Archetypes.aspx?ID=97)
+[Hallowed Necromancer](https://2e.aonprd.com/Archetypes.aspx?ID=172)
+[Mind Smith](https://2e.aonprd.com/Archetypes.aspx?ID=194)
+[Pactbinder](https://2e.aonprd.com/Archetypes.aspx?ID=189)
+[Shadowcaster](https://2e.aonprd.com/Archetypes.aspx?ID=101)
+[Shadowdancer](https://2e.aonprd.com/Archetypes.aspx?ID=77)
+[Sleepwalker](https://2e.aonprd.com/Archetypes.aspx?ID=195)
+[Soulforger](https://2e.aonprd.com/Archetypes.aspx?ID=102)
+[Talisman Dabbler](https://2e.aonprd.com/Archetypes.aspx?ID=79)
+
+All the Multiclass Archetypes are suitable for this campaign, including Wizard and Alchemist. 
+Profession related Archetypes (such as Acrobat) that has no direct relationship with the Golarion setting are suitable for this campaign. Other profession Archetype will be evaluated on a case by case basis. 
+
+Undead Archetype are <span class="pf-trait pf-trait-limited"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-limited">Limited</a></span>  in this campaign. Any Golarion specific Archetypes are <span class="pf-trait pf-trait-limited"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-limited">Limited</a></span> unless discussed.  
 
 
 ### Magic & Faith 
+#### Magic
+##### Impossible Magic
+Erythea is a different from Golarion in many ways metaphysically–especially regarding planes of the world and the source of magic. Therefore, some magic that is related to the planes and the residence of each Golarion planes will need to be modified to fit the world of Erythea on a case by case basis. 
+For example, Summon Celestial will summon different servant based on the deity that you pray to, if you wish to summon a specific creature when using the spell, you must clear with the GM before the session or when you prepare the spell. Summon Fey, on the other hand, can be easily explained as you ask for nearby spirits for help. 
+Plane Shift and Resurrect are incredibly <span class="pf-trait pf-trait-rare"><a class = "internal-link" href = "/03-rule-elements/house-rule-references/#rarity-rare">Rare</a></span> in this world (since there's not many planes). Player and NPC would not normally have access to them. 
+
+##### Illegal Magic 
+Due to Pharousia's restriction on traditional and offensive magic, some magic might considered illegal to perform in the country, especially in the Azulihrun city. While Seekers does have the clearance to perform magic and not to be prosecuted, they would still need to do it in secret or they might still face arrest if there's police nearby. 
+Casting any spell with an offensive ability is considered illegal and face charges up to life-time imprisonment or death; 
+Manual magic without any involvement of certified Cerulium mechanism is illegal and could face fines and prison; 
+Magic service without a Cerulium certification is also illegal and could face fines and prision.
+
 
 #### Great Spirits  
-[[01 World of Erythea/Faith/Deities/Zefaelon\|Zefaelon]], the Lawbringer
-The Edifice Unshaken. Zefaelon is one of the patron deity of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and in regal blue and gold robe. 
+##### Zefaelon the Lawbringer
 
-[[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] the Dawn Shepherd
-The Soother of Sorrows and the Golden Rose. Phaedras is the god of Sun, Beauty, Love, and Art. He is often portrayed as an androgynous man dressed in red and white Shepherd clothing with radiant eyes and beautiful features. 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-Caelithra the Maelstrom 
 
-Halora the Jubilant Hearthkeeper 
 
-Eridius the World Smith 
+> [!pf2rule]+ Creating Character
+> 
+> `=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
 
-Sylvanor the Wild Warden 
+</div></div>
 
-Laramesis the Twin-faced Messenger 
 
-Kha-taleia the Mistress of Slumber 
+##### Phaedras the Shepherd of Dawn
 
-Thothemer the Vault Keeper 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-Eolux the Defying Trickster 
 
-Zemyra the Fair Mother 
 
-Aresmun the Valiant Guardian
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
 
+</div></div>
+ 
+
+##### Caelithra the Maelstorm
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Halora the Golden Vine
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Eridius
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Sylvanor 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+
+##### Laramesis
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Khataleia
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Thothmer
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Eolux 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
+
+
+##### Aresmun 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+>[!pf2rule]+ Creating Character
+>`=this.description`
+> 
+> **Titles**  `=this.divine-titles`
+> **Areas of Concern**  `=this.areas-of-concern`
+> **Edicts**  `=this.edicts`
+> **Anathema**  `=this.Anathema`
+> **Divine Attribute**  `=this.divine-attribute`
+> ---
+> **Cleric Spells** `=this.spells`
+> **Divine Font**  `=this.divine-font`
+> **Divine Sanctification**  `=this.sanctification`
+> **Divine Skill**  `=this.divine-skill`
+> **Domains**  `=this.Domains`
+> **Favored Weapon**  `=this.favored-weapon` 
+
+</div></div>
 
 
 
 ### Skills & Feats
+This campaign will involve investigation, puzzle solving, so a variety of the skills will be relevant for the campaign. 
+Nature might be the least relevant skill, as most of the campaign would happen in the urban area, but it would still have a few uses. 
 
+##### Lores 
+Lores included in the provided campaign backgrounds could provide a good basis for the lores specific to your character. If you want to take additional lore, or have selected a generic background and want to change the lore to something a little bit more specific, here are some unique Lores in the campaign. 
+\*Please keep in mind that many generic lore will still be very useful for the campaign. 
+\** The requirements only listed the natural requirements for selecting the option, some other situation might grant you opportunities to learn the lore. \
+\*\*\* All these lores can be more specific. E.g., one can choose to be trained in World Nobility lore, Pharousian Nobility Lore, or only Azulihrun nobility lore.
 
-### Archetypes 
+| Lore                              | Related Topics                                                                                                                  | Requirement                                                                       |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Cerulium Engineering              | Knowledge regarding mechanic craft made with Cerulium, the ins-and-outs of a Cerulium factory, recent Cerulium inventions, etc. | Be an engineer, worked in a factory/trainyard, went to academy for related topics |
+| Region Lore (e.g. Azulihrun City) | The regions layout, the best food, alleyways, history, factions, resident nobles, famous people, or recent events               | Living in Azulihrun city for a while.                                             |
+| Rural Tradition                   | Traditional worship of the Spirits, superstitions, etiquettes of working with village witches and shrine                        | Living a rural area for a while.                                                  |
+| Occult Society                    | Active cults in the area, their connection, history, secret symbols, individuals involved in the cult.                          | Being involved with a Cult or an Occult Secret Society.                           |
+| Category of an Abomination        | Pick one from the Category: Ghost, Wraith, Fey, Daemon, Ghoul, Zombie, Vampires, Mana Waste Mutants, Specter                    | -                                                                                 |
+| Fey or a specific category of Fey | History, culture, and society of the First World.                                                                               | Learnt it in an academy or otherwise has connection to Fey                        |
+| Spirit Commune                    | Traditions and methods of communing with the Spirits,  protection for the process                                               | -                                                                                 |
+| Nobility Lore (Specific Region)   | Nobility or ruling class genealogy of a specific region                                                                         | -                                                                                 |
 
+### Language 
+Common language in this campaign is Pharousian, the standardized language spoken in Pharousia. 
+
+| Language           | Region                        | Requirement                                                                                                                                                                                      |
+| ------------------ | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Common (Pharounic) | Pharousia                     | -                                                                                                                                                                                                |
+| Valois             | Valcour                       | being a Halfling, has connection to Vacour, or studied it for some reason                                                                                                                        |
+| Lindorese          | Caelindor                     | being a Halfling, has connection to Caelindor, or studied it for some reason                                                                                                                     |
+| Goblok             | Izbudar                       | being a Goblin or Dwarf, has connection to Izbudar, or studied it for some reason                                                                                                                |
+| Khemet             | Nephara                       | being a Felidae, a trader, has connection to Qahilim, or studied it for some reason                                                                                                              |
+| Qahili             | Qahilim                       | being a Lizardfolk, a trader, has connection to Qahilim or studied it for some reason                                                                                                            |
+| Dragonic           | Asvaldr                       | being a kobold, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]]                                                                                                  |
+| Athyn (Celestial)  | All                           | Devoted worshipper of the Great Spirits. (You don't need this language to cast spells or communicate with the Great Spirits, this is only the preferred language of most Great Spirit worship. ) |
+| Xiayu              | Xia-Zhou                      | being a Felidae, Tengu, Vanara, or a trader, has connection to Xia-Zhou, or studied it for some reason                                                                                           |
+| Kadiyan            | Kadiya                        | being a Vishkanya, Nagaji, or a trader, has connection to Kadiya, or studied it for some reason                                                                                                  |
+| Wild Felidae       | Among Aerawan wild Felidaes   |                                                                                                                                                                                                  |
+| Fey (Rare)         | Elves, Gnomes, and other Feys | (Rare) only if you have connection with Fey                                                                                                                                                      |
 
 ### Gears & Items
-
+You are start with the generic gold package of 15 gold upon character creation for things on your character, even though you might have a different economical background in your backstory, which would be reflected more in the plot once the campaign starts. 
+We will be rolling to gain income during downtime in the game. 
 
 
 
