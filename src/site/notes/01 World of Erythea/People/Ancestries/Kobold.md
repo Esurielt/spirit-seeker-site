@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-world-of-erythea/people/ancestries/kobold/","title":"Kobold","contentClasses":"hide-header-underline embed-clean","tags":["Ancestry/Common"],"dgShowInlineTitle":true,"noteIcon":null}
 ---
 
-Forged by Caelithra and Laramesis from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and the Shattered Isles. Long ago, in the First Age, dragons were a lineage of fey creatures shaped in the glorious image of Caelithra's family. But after the cataclysmic Fey Reckoning, these majestic beings dwindled, leaving Caelithra to mourn their passing. From her sorrow and Eridius's sympathy sprang the kobolds, imbued with the legacies and affinities of their draconic ancestors.
+Forged by Caelithra and Eridius from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and the Shattered Isles. Long ago, in the First Age, dragons were a lineage of fey creatures shaped in the glorious image of Caelithra's family. But after the cataclysmic Fey Reckoning, these majestic beings dwindled, leaving Caelithra to mourn their passing. From her sorrow and Eridius's sympathy sprang the kobolds, imbued with the legacies and affinities of their draconic ancestors.
 
 Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might. Kobolds wield a deep connection to the fires and a natural incline for chaotic and destructive magic. 
 
