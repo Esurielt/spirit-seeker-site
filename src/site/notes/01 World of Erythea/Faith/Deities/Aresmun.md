@@ -10,7 +10,9 @@
 > **Edicts**  protect those weaker than you; remain alert for danger; heal the injured and sick
 > **Anathema**  abandon allies in need, engage in needless destruction or bloodshed, intentionally slack on your duty
 > **Divine Attribute**  Constitution or Strength
+> 
 > ---
+> 
 > **Cleric Spells** 1st: [endure](https://pf2easy.com/index.php?id=5091&name=endure),4th: [fire shield](https://pf2easy.com/index.php?id=1332&name=fire_shield),6th: [wall of force](https://pf2easy.com/index.php?id=1578&name=wall_of_force)
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
