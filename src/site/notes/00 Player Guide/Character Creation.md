@@ -6,9 +6,6 @@
 ## Creating Character 
 The city of Azulihrun has seen people from all walks of life. You are free to make any kind of character you like that could possibly live in Erythea, the following suggestion might help you get started and get the most out of this campaign. 
 
-- [ ] #task List of Great Spirits, just fucking do it
-- [ ] #task Magic overview  
-
 ### Alignment, Edict, & Anathema
 Pathfinder 2e Remaster has removed alignment as a concept and replaced with the more personal and nuanced character detail - Edict and Anathema. There's no restriction on character alignment. 
 
@@ -362,298 +359,44 @@ Magic service without a Cerulium certification is also illegal and could face fi
 
 
 #### Great Spirits  
+Read more of each entry in their own page. (Sorry, the embed would not work.)
 ##### Zefaelon the Lawbringer
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/zefaelon/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-> [!pf2rule]+ Creating Character
-> 
-> `=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> ---
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
+[[01 World of Erythea/Faith/Deities/Zefaelon\|Zefaelon]] is one of the creator deities of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and in regal red and white robe.
+He is commonly worshipped by nobles, lawmakers, soldiers, and all sorts of city dwellers.  
 
 ##### Phaedras the Shepherd of Dawn
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/phaedras/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
- 
+The Soother of all Sorrow and the Morning Rose, [[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] is the god of Sun, beauty, love and compassion. He is one of the creator deities of human, as well as halfling. He is often portrayed as a smiling man dressed in white and gold-trimmed Shepherd clothing with radiant eyes and beautiful features. Phaedras' statues can be seen in theaters, museum, and schools of bard. His worship also has many monastery devoted for charity as well as entertainment.
 
 ##### Caelithra the Maelstorm
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/caelithra/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
+[[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]] is one of the creator deity of Kobolds and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
 
 ##### Halora the Golden Vine
+[[01 World of Erythea/Faith/Deities/Halora\|Halora]] is the creator patron of Felidae and Halfling, goddess of Hearth, Wine, Celebrations, and Harvest. She is often portrayed as a plump smiling cat-eared woman crowned with a golden vine and green dress holding a plate of food and drink in her left hand and a sickle in the right. Halora is often praised in large public celebrations. She is commonly worshipped in rural and lower class communities, but also among the nobles.
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/halora/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+##### Eridius the World Smith
+[[01 World of Erythea/Faith/Deities/Eridius\|Eridius]] is a creator patron of Kobold and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
 
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
+##### Sylvanor the Wild Warden
+The Emerald Monarch and the Keeper of the Montains, [[01 World of Erythea/Faith/Deities/Sylvanor\|Sylvanor]] is the patron of Forest, Beasts, Montain, and everything that is wild. They are portrayed as a strong hooded hunter with braided long hair and wearing green and brown hunting clothes, mounting a giant white tiger or a eight-legged wolf. There's not a common consensus on Sylvanor's gender, some believing it to be fluid as the wind.
 
 
-##### Eridius
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/eridius/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
+##### Laramesis the Twin-faced Messenger
+The Keeper of the Crossroads and Twin-faced Traveler, [[01 World of Erythea/Faith/Deities/Laramesis\|Laramesis]] is the god of Time, Travel, Luck, and Duality. They are often portrayed as a god with two masked faces on the front and back of their head, sometimes a pair of twin gods who can merge as one. They wears red and blue traveler robes.
 
 
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
+##### Khataleia the Mistress of Slumber
+The Veiled Spinner and the Keeper of the Stream. [[01 World of Erythea/Faith/Deities/Khataleia\|Khataleia]] is the goddess of Death, Darkness, Protection, Repose, and Void. She is portrayed as a veiled lady with black hair in a beautiful crown, wearing purple ceremonial gown. She weaves the memories of the dead into the silky river of the Lifestream on her alabaster spinning wheel.
 
 
-##### Sylvanor 
+#####  Thothmer the Vault Keeper
+The Cofferer of Countless Coins and the Master of Vaults, [[01 World of Erythea/Faith/Deities/Thothmer\|Thothmer]] is the god of trade, Law, Nobility, Industry, and writing. He is portrayed as a noble man in gold and purple affluent attire, holding a golden scale and amethyst key.
+He is worshipped among the bankers and nobles, you can also see his statues in commoner's houses and countless shops and services in hope to bring in luck and wealth. 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/sylvanor/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+##### Eolux the Defying Trickster
+The Patron of Paradox and the Mythic Maverick, [[01 World of Erythea/Faith/Deities/Eolux\|Eolux]] is the patron of Trickery, Chaos, Charm, and Freedom. Eolux is prayed to by rebels and unconventional opportunists. While Eolux does not have an organized religion, they often have hidden shrines and many songs in their name. Eolux is often portrayed as a carefree androgynous figure with long hair, two red horns or fox-like ears; he often wears black and red garbs in contrast to the royal colors of red and white.
 
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> ---
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
-
-
-##### Laramesis
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/laramesis/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
-
-##### Khataleia
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/khataleia/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
-
-##### Thothmer
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/thothmer/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> ---
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
-
-##### Eolux 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/eolux/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
-
-##### Aresmun 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-world-of-erythea/faith/deities/aresmun/#statblock" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!pf2rule]+ Creating Character
->`=this.description`
-> 
-> **Titles**  `=this.divine-titles`
-> **Areas of Concern**  `=this.areas-of-concern`
-> **Edicts**  `=this.edicts`
-> **Anathema**  `=this.Anathema`
-> **Divine Attribute**  `=this.divine-attribute`
-> 
-> ---
-> 
-> **Cleric Spells** `=this.spells`
-> **Divine Font**  `=this.divine-font`
-> **Divine Sanctification**  `=this.sanctification`
-> **Divine Skill**  `=this.divine-skill`
-> **Domains**  `=this.Domains`
-> **Favored Weapon**  `=this.favored-weapon` 
-
-</div></div>
-
+##### Aresmun the Valiant Guardian 
+The Shield of the Firmament, [[01 World of Erythea/Faith/Deities/Aresmun\|Aresmun]] is the god of War and Valor, but also the god of healing and protection. He is often portrayed as a veteran warrior in golden armor and silver chain shirt, holding a shield in one hand and a bowl of clean water in the other. He is often worshipped among soldiers and doctors.
 
 
 ### Skills & Feats
