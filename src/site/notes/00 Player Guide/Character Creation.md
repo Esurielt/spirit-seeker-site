@@ -402,7 +402,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -427,7 +429,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -452,7 +456,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -477,7 +483,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -528,7 +536,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -553,7 +563,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -603,7 +615,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
@@ -628,7 +642,9 @@ Magic service without a Cerulium certification is also illegal and could face fi
 > **Edicts**  `=this.edicts`
 > **Anathema**  `=this.Anathema`
 > **Divine Attribute**  `=this.divine-attribute`
+> 
 > ---
+> 
 > **Cleric Spells** `=this.spells`
 > **Divine Font**  `=this.divine-font`
 > **Divine Sanctification**  `=this.sanctification`
