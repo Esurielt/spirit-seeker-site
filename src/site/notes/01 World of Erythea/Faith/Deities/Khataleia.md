@@ -10,7 +10,9 @@
 > **Edicts**  Respect the dead, destroy undead, treasure personal and family memories, ruminate on the past
 > **Anathema**  Abandon someone who has no family, kill without thought, rob a tomb, trap a soul
 > **Divine Attribute**  Wisdom or Charisma
+> 
 > ---
+> 
 > **Cleric Spells** 1st: [déjà vu](https://pf2easy.com/index.php?id=8496&name=déjà_vu),3th: [hypercognition](https://pf2easy.com/index.php?id=1370&name=hypercognition),5th: [crushing despair](https://pf2easy.com/index.php?id=1271&name=crushing_despair)
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
