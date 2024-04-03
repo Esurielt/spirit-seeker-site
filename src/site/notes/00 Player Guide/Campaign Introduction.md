@@ -116,7 +116,9 @@ Administrative district that houses the government buildings. The Skyspire is be
 
 #### Spirit's Rest 
 Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
-
+##### Temples
+**Church of Zefaelon**
+**Temple of Phaedras**
 
 #### The Hearthward
 Cozy Residential areas of middle-to-low-income housing. 
@@ -129,7 +131,13 @@ Opulent estates and middle-to-upper-class adobes.
 
 #### Scholar's Hamlet 
 The Silverthorn Arcane Institute and its surrounding establishments.  
-###### Inns and Cafes
+##### Academies 
+**Silverthorn Arcane Institute** - The most prestigious academy for arcane magic and cerulium research
+
+
+##### Shop and Markets 
+**House of Scroll** - An old book store for rare text. 
+##### Inns and Cafes
 **Antler Lounge** - A cafe popular among the scholars and students of the academy. 
 
 
@@ -154,21 +162,9 @@ Shipping heartland teeming with traders. The Grand Pavilion is also located at t
 **Turning Leaf** - A newly-fashioned Cerulium device shop. 
 (and many others)
 
-##### Temples and Academy 
-**Church of Zefaelon**
-**Temple of Phaedras**
+
 
 ##### Industry and Governance
-
-Venerin
-Venneren
-Vennerin
-
-Azur-Auleruin
-Azur-Esperen
-Azur-
-
-
 
 
 ### Powerful Figures
