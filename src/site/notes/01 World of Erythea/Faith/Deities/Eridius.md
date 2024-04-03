@@ -10,7 +10,9 @@
 > **Edicts**  Learn and respect knowledge, always be inventive and continue to improve; respect the forge
 > **Anathema**  intentionally create inferior works, disrespect books and other medium of knowledge, fabricate false knowledge or commit academic fraud
 > **Divine Attribute**  Intelligence or Wisdom
+> 
 > ---
+> 
 > **Cleric Spells** 1st: [temporary tool](https://pf2easy.com/index.php?id=5108&name=temporary_tool),3rd: [hypercognition](https://pf2easy.com/index.php?id=1370&name=hypercognition),4th: [creation](https://pf2easy.com/index.php?id=1268&name=creation)
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
