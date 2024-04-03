@@ -3,7 +3,7 @@
 ---
 
 #### Origin
-According to ancient myths, the feline Felidae were first shaped from desert sands and amber brew by the paws of Sylvanor the Ranger and Zemyra the Mother. Imbued with feline grace, curiosity, and a love of feasting and wanderlust, the catfolk quickly spread across the savannas and woodlands.
+According to ancient myths, the feline Felidae were first shaped from desert sands and amber brew by the paws of Laramesis the Messenger and Halora the Brewer. Imbued with feline grace, curiosity, and a love of feasting and wanderlust, the catfolk quickly spread across the savannas and woodlands.
 
 #### Nepharan Nomads
 In the harsh deserts of Nebet, tribes of proud Felidae banded together with lizardfolk and other beast-kin and founded the nation of Nephara. This ancient nomadic civilization roamed the dunes, building secret and majestic temples to the nature spirits hiding in the shifting sands. 
