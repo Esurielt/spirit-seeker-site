@@ -10,7 +10,9 @@
 > **Edicts**  confront oppression in all its forms, defend the common folk, overcome despair to seize victory
 > **Anathema**  abandon those in need, enslave or oppress others, harm the innocent through direct or inadvertent action
 > **Divine Attribute**  Wisdom or Strength
+> 
 > ---
+> 
 > **Cleric Spells** 1st: [illusory disguise](https://pf2easy.com/index.php?id=1373&name=illusory_disguise),3rd: [enthrall](https://pf2easy.com/index.php?id=1318&name=enthrall),5th: [cloak of colors](https://pf2easy.com/index.php?id=1255&name=cloak_of_colors)
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
