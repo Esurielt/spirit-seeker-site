@@ -3,7 +3,7 @@
 ---
 
 >[!pf2rule]+ Eridius the World Smith
->Eridius is a creator patron of Kobold and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
+>Eridius is a creator patron of Vyrn and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
 > 
 > **Titles**  The Steward of Knowledge,The Master of Crafts
 > **Areas of Concern**  `=this.areas-of-concern`
