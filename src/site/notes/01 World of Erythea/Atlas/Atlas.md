@@ -8,8 +8,6 @@
 
 
 ## Settlements
-- [[01 World of Erythea/Atlas/Eblon/Pharousia/Vashem\|Vashem]]
-- [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun]]
 - [[01 World of Erythea/Atlas/Eblon/06 Asvaldr\|06 Asvaldr]]
 - [[01 World of Erythea/Atlas/Eblon/05 Qahilim\|05 Qahilim]]
 - [[01 World of Erythea/Atlas/Eblon/04 Valcour\|04 Valcour]]
@@ -24,6 +22,8 @@
 - [[01 World of Erythea/Atlas/02 Aerawan\|02 Aerawan]]
 - [[01 World of Erythea/Atlas/03 Borderlands\|03 Borderlands]]
 - [[01 World of Erythea/Atlas/01 Eblon\|01 Eblon]]
+- [[01 World of Erythea/Atlas/Eblon/Pharousia/Vashem\|Vashem]]
+- [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun]]
 
 { .block-language-dataview}
 
