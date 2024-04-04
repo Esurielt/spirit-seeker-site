@@ -5,6 +5,7 @@
 (This page is still WIP. No information on here is final. )
 ![BmampHmCBR3o268](https://i.imgur.com/3k7kcVc.jpeg)
 ## Azulihrun Gazetteer
+![mjPxjKdjZlC540l](https://i.imgur.com/e5Ykbnt.jpeg)
 
 ### Locations
 #### The Crownswork
