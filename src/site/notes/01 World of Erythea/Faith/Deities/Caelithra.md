@@ -3,7 +3,7 @@
 ---
 
 >[!pf2rule]+ Caelithra the Maelstrom
->Caelithra is one of the creator deity of Kobolds and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member.
+>Caelithra is one of the creator deity of Vyrns and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member.
 > 
 > **Titles**  The Primordial Maelstrom,The Broodmother,The Lady of Seas,The Whirlwind Matron,Mother of All Scalekin
 > **Areas of Concern**  Sea, beasts, chaos, creation, pain, revenge, family
