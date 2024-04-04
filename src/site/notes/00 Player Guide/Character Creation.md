@@ -62,19 +62,22 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 >
 >However, the creep of the Mana Wastes caused by the magical warfares has decimated their homelands, uprooting halfling villages into nomadic diaspora or migrate into cities like Azulihrun. Within these nomadic tribes rose fierce halfling rangers and fighter. Despite all plights, halflings continue life's humble celebrations wherever their roads may roam.
 
->[!pf2rule]- Kobold - Dragonkin Archivists of the Lush Caverns
->Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
+>[!pf2rule]- Vyrn - Dragonkin Archivists of the Lush Caverns
+>Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, Vyrns are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
 >
->Many kobolds are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some kobold tribes, central to their way of life are the mystic bonds kobolds forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
+>Many Vyrns are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some Vyrn tribes, central to their way of life are the mystic bonds Vyrns forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
 >
->With the Arcane Revolution's rise and Cerulium's proliferation, many kobold scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded kobolds roamed as rangers and handlers. Still favoring cavernous dwellings, kobolds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
+>With the Arcane Revolution's rise and Cerulium's proliferation, many Vyrn scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded Vyrns roamed as rangers and handlers. Still favoring cavernous dwellings, Vyrns transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
 
 >[!pf2rule]- Lizardfolk - Desert Walkers
 > Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Thothmer the Scribe and Laramesis the Traveler. 
 
 ##### Aerawan Ancestries
+
 >[!pf2rule]- Kitsune - Cunning Traders
 >Kitsune are fox-like race native to the north-western coasts of Aerawan, created by Thothmer the Scribe and Eoluxe the Trickster. 
+![Z9Rf7vv8j0vvv0t](https://i.imgur.com/ZmL3DKy.png)
+![FO7Z9KZfVrp3CYw](https://i.imgur.com/mC1hStc.png)
 
 >[!pf2rule]- Tengu - Martial Masters
 >Tengu are bird-like race native to the north-western coasts of Aerawan, created by Aresmun the Guardian and Sylvanor the Ranger. 
@@ -368,13 +371,13 @@ He is commonly worshipped by nobles, lawmakers, soldiers, and all sorts of city 
 The Soother of all Sorrow and the Morning Rose, [[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] is the god of Sun, beauty, love and compassion. He is one of the creator deities of human, as well as halfling. He is often portrayed as a smiling man dressed in white and gold-trimmed Shepherd clothing with radiant eyes and beautiful features. Phaedras' statues can be seen in theaters, museum, and schools of bard. His worship also has many monastery devoted for charity as well as entertainment.
 
 ##### Caelithra the Maelstorm
-[[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]] is one of the creator deity of Kobolds and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
+[[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]] is one of the creator deity of Vyrns and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
 
 ##### Halora the Golden Vine
 [[01 World of Erythea/Faith/Deities/Halora\|Halora]] is the creator patron of Felidae and Halfling, goddess of Hearth, Wine, Celebrations, and Harvest. She is often portrayed as a plump smiling cat-eared woman crowned with a golden vine and green dress holding a plate of food and drink in her left hand and a sickle in the right. Halora is often praised in large public celebrations. She is commonly worshipped in rural and lower class communities, but also among the nobles.
 
 ##### Eridius the World Smith
-[[01 World of Erythea/Faith/Deities/Eridius\|Eridius]] is a creator patron of Kobold and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
+[[01 World of Erythea/Faith/Deities/Eridius\|Eridius]] is a creator patron of Vyrn and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
 
 ##### Sylvanor the Wild Warden
 The Emerald Monarch and the Keeper of the Montains, [[01 World of Erythea/Faith/Deities/Sylvanor\|Sylvanor]] is the patron of Forest, Beasts, Montain, and everything that is wild. They are portrayed as a strong hooded hunter with braided long hair and wearing green and brown hunting clothes, mounting a giant white tiger or a eight-legged wolf. There's not a common consensus on Sylvanor's gender, some believing it to be fluid as the wind.
@@ -431,7 +434,7 @@ Common language in this campaign is Pharousian, the standardized language spoken
 | Goblok             | Izbudar                       | being a Goblin or Dwarf, has connection to Izbudar, or studied it for some reason                                                                                                                |
 | Khemet             | Nephara                       | being a Felidae, a trader, has connection to Qahilim, or studied it for some reason                                                                                                              |
 | Qahili             | Qahilim                       | being a Lizardfolk, a trader, has connection to Qahilim or studied it for some reason                                                                                                            |
-| Dragonic           | Asvaldr                       | being a kobold, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]]                                                                                                  |
+| Dragonic           | Asvaldr                       | being a Vyrn, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]]                                                                                                  |
 | Athyn (Celestial)  | All                           | Devoted worshipper of the Great Spirits. (You don't need this language to cast spells or communicate with the Great Spirits, this is only the preferred language of most Great Spirit worship. ) |
 | Xiayu              | Xia-Zhou                      | being a Felidae, Tengu, Vanara, or a trader, has connection to Xia-Zhou, or studied it for some reason                                                                                           |
 | Kadiyan            | Kadiya                        | being a Vishkanya, Nagaji, or a trader, has connection to Kadiya, or studied it for some reason                                                                                                  |
