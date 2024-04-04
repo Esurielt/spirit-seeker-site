@@ -3,9 +3,8 @@
 ---
 
 (This page is still WIP. No information on here is final. )
-
+![BmampHmCBR3o268](https://i.imgur.com/3k7kcVc.jpeg)
 ## Azulihrun Gazetteer
-### Factions 
 
 ### Locations
 #### The Crownswork
@@ -58,10 +57,10 @@ Shipping heartland teeming with traders. The Grand Pavilion is also located at t
 **Turning Leaf** - A newly-fashioned Cerulium device shop. 
 **Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
 
-
+### Factions 
 #### Powerful Figures
 ##### Sovereign Emre Sarayli 
-Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire
+(non-binary human mornarch) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire
 
 ##### Laveni Kaplan 
 (male human aristocrat) Lord and High Magistrate of Azulihrun.
