@@ -79,7 +79,7 @@ As a new Seeker pledge, you will train under the fair and capable Chapter Master
 The PCs begin this campaign in Azulihrun, one of the important location to the industrialization of Cerulium technologies in the Sovereignty of Pharousia, by the north-eastern coasts of Elbon. 
 While the adventures might lead you outside of the city, the majority of the first arc would provide you with ample opportunity to explore the city that birthed Arcane Revolution. Whether your character is Azulihrun-born, a first- or second-generation immigrant, or a total newcomer, it's worthwhile to master some of the basic nomenclature in the Cerulean City. 
 
-- [ ] #task Insert Erythea world map and Azulihrun region map.
+![HPvTIch72RDWsFw](https://i.imgur.com/Bz1tbQc.jpeg)
 
 This section will only cover important concept and terms that's connected to the start of the story. You can find more detailed information on the people and locations of the city in the location article of [[01 World of Erythea/Atlas/Eblon/Pharousia/Azulihrun\|Azulihrun, the Cerulean City]]. 
 
@@ -107,6 +107,7 @@ The Sovereign Emre Sarayli has recently initiated a national construction projec
 (This page is still WIP. No information on here is final. )
 ![BmampHmCBR3o268](https://i.imgur.com/3k7kcVc.jpeg)
 ## Azulihrun Gazetteer
+![mjPxjKdjZlC540l](https://i.imgur.com/e5Ykbnt.jpeg)
 
 ### Locations
 #### The Crownswork
