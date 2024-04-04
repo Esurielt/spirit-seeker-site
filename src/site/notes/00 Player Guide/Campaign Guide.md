@@ -133,7 +133,7 @@ With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation 
 
 Notable Cerulium inventions from Azulihrun include Cerulium engines, levitating carriages, mechanical servants, and telescopic stargazing devices. The institute also holds significant authority over the study of Cerulium transportation like trains and airships.
 
-Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Eblon/04 Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Eblon/04 Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
+Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Eblon/04 Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Eblon/04 Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and Vyrns from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
 
 Positioned along the Jade Sea's coastline with the roaring Morrowind River bisecting it, Azulihrun is split into two halves: the historical side housing the lower and middle class called the Azul, and the wealthy side next to the noble keep known as Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
 
@@ -155,78 +155,79 @@ The Sovereign Emre Sarayli has recently initiated a national construction projec
 ### Locations
 #### The Crownswork
 Administrative district that houses the government buildings. The Skyspire is being constructed here. 
-
-
-#### Spirit's Rest 
-Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
-##### Temples
-**Church of Zefaelon**
-**Temple of Phaedras**
-
-#### The Hearthward
-Cozy Residential areas of middle-to-low-income housing. 
-##### Inns and Cafes
-**The Last Stand** - A bar and cafe popular among the mage workers and other middle-class folks that provides strong drinks and tables for games. The owner seems to be running another business behind the closed backroom doors for those in the know.
-
-
+##### Notable Location
+**Alihrun Castle** - the lord castle of Azulihrun's ruling family. 
+***
 #### Veridian Court 
 Opulent estates and middle-to-upper-class adobes.  
-
+***
+#### Spirit's Rest 
+Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
+##### Notable Location
+**Grand Church of Zefaelon**
+**Eversong Monestery of Phaedras**
+***
+#### The Hearthward
+Cozy Residential areas of middle-to-low-income housing. 
+##### Notable Location
+**Altinbaran Academy** - a fundamental education school for children of age 12 to 17. There are other schools like Altinbaran scattered around various district.  
+##### Inns and Cafes
+**The Last Stand** - A bar and cafe popular among the mage workers and other middle-class folks that provides strong drinks and tables for games. The owner seems to be running another business behind the closed backroom doors for those in the know.
+##### Shop and Markets 
+**Silk Castle** - the finest tailorshop in Azulihrun owned by Adem Udono, a Tengu clothmaker. 
+***
 #### Scholar's Hamlet 
 The Silverthorn Arcane Institute and its surrounding establishments.  
-##### Academies 
-**Silverthorn Arcane Institute** - The most prestigious academy for arcane magic and cerulium research
-
-
+##### Notable Location
+**Silverthorn Arcane Institute** - The most prestigious university for arcane magic and cerulium research
 ##### Shop and Markets 
 **House of Scroll** - An old book store for rare text. 
 ##### Inns and Cafes
 **Antler Lounge** - A cafe popular among the scholars and students of the academy. 
-
-
+**Fardae Logos** - the largest bookshop in Azulihrun.
+***
 #### The Loom
 Manufacturing district crowded with Cerulium factories and temp housings for the low-income workers.  
-###### Inns and Cafes
+##### Notable Location
+**Demir Industries Factory** -   
+##### Inns and Cafes
 **Rusty Gears** - an inn that provides hearty meals, strong ales, and a cheap bed for travelers and common folks. 
-
+***
 #### Morrowind Harbor 
 Shipping heartland teeming with traders. The Grand Pavilion is also located at the edge of the district toward the center of the city, showcasing shops with both traditional wares and cutting edge Cerulium inventions.  
+##### Notable Location
+**Demir Industries Office HQ** - the Office Headquarters for Demir Industries, the leading Cerulium Transportation manufacturer owend by Iskander Demir. 
+**[[z_Glossary/Azure Quill\|Azure Quill]]** - News and Private Investigation Company. Secret Hideout for Seekers' Pharousian chapter. 
 ##### Inns and Cafes
 **Blue Wyvern** - A hotels that offers luxurious accommodations for the affluent. 
-
-#### Locations
-
-##### Shop and Markets 
-**House of Scroll** - An old book store for rare text. 
-**Silk Castle** - A tailorshop. 
-**Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
-**Fardae Logos** - the largest library in Azulihrun 
-**Twin Anvil** - an artifact shop for tools, devices, and weapons alike. 
 **Turning Leaf** - A newly-fashioned Cerulium device shop. 
-(and many others)
+**Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
 
 
+#### Powerful Figures
+##### Sovereign Emre Sarayli 
+Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire
 
-##### Industry and Governance
+##### Laveni Kaplan 
+(male human aristocrat) Lord and High Magistrate of Azulihrun.
 
+##### Iskender Demir
+(female Talos industrialist) A Cerulium industrialist, owner of Demir Industries, and leader of the Steel Syndicate.
 
-### Powerful Figures
-#### Sovereign Emre Sarayli 
+##### Hikari Kobayashi
+(male Felidae bartender) Owner of the Last Stand
 
+##### Ayrinda Amaranthine
+(non-binary Nephilim cleric) High Priest of Zefaelon.
 
-#### Laveni Orridus 
+##### Myste Yildiray
+(female human cleric) Oracle of Phaedras in the Pharousia region.
 
-
-#### Elara Valunis 
-
-
-#### Hikari Ishii 
-
-
-#### Ayrinda Amaranthine
+##### Laila Alima
+(female Vyrn scholar) Headmaster of the Arcane Institute of Azulihrun.
 
 >[!cite|clean]+ Azulihrun
-><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Zefaelon, Phaedras, Eridius, Laramesis</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Zefaelon. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Phaedras in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
+><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Vyrn, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Zefaelon, Phaedras, Eridius, Laramesis</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Kaplan</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Iskender Demir</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Kobayashi</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Zefaelon. </p> <p class="hang"><strong>Myste Yildiray</strong> (NG female cleric 11) Oracle of Phaedras in the Pharousia region. </p> <p class="hang"><strong>Laila Alima</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
 
 ^statblock-Azulihrun
 
@@ -317,19 +318,22 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 >
 >However, the creep of the Mana Wastes caused by the magical warfares has decimated their homelands, uprooting halfling villages into nomadic diaspora or migrate into cities like Azulihrun. Within these nomadic tribes rose fierce halfling rangers and fighter. Despite all plights, halflings continue life's humble celebrations wherever their roads may roam.
 
->[!pf2rule]- Kobold - Dragonkin Archivists of the Lush Caverns
->Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, kobolds are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
+>[!pf2rule]- Vyrn - Dragonkin Archivists of the Lush Caverns
+>Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, Vyrns are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
 >
->Many kobolds are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some kobold tribes, central to their way of life are the mystic bonds kobolds forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
+>Many Vyrns are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some Vyrn tribes, central to their way of life are the mystic bonds Vyrns forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
 >
->With the Arcane Revolution's rise and Cerulium's proliferation, many kobold scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded kobolds roamed as rangers and handlers. Still favoring cavernous dwellings, kobolds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
+>With the Arcane Revolution's rise and Cerulium's proliferation, many Vyrn scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded Vyrns roamed as rangers and handlers. Still favoring cavernous dwellings, Vyrns transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
 
 >[!pf2rule]- Lizardfolk - Desert Walkers
 > Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Thothmer the Scribe and Laramesis the Traveler. 
 
 ##### Aerawan Ancestries
+
 >[!pf2rule]- Kitsune - Cunning Traders
 >Kitsune are fox-like race native to the north-western coasts of Aerawan, created by Thothmer the Scribe and Eoluxe the Trickster. 
+![Z9Rf7vv8j0vvv0t](https://i.imgur.com/ZmL3DKy.png)
+![FO7Z9KZfVrp3CYw](https://i.imgur.com/mC1hStc.png)
 
 >[!pf2rule]- Tengu - Martial Masters
 >Tengu are bird-like race native to the north-western coasts of Aerawan, created by Aresmun the Guardian and Sylvanor the Ranger. 
@@ -623,13 +627,13 @@ He is commonly worshipped by nobles, lawmakers, soldiers, and all sorts of city 
 The Soother of all Sorrow and the Morning Rose, [[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] is the god of Sun, beauty, love and compassion. He is one of the creator deities of human, as well as halfling. He is often portrayed as a smiling man dressed in white and gold-trimmed Shepherd clothing with radiant eyes and beautiful features. Phaedras' statues can be seen in theaters, museum, and schools of bard. His worship also has many monastery devoted for charity as well as entertainment.
 
 ##### Caelithra the Maelstorm
-[[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]] is one of the creator deity of Kobolds and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
+[[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]] is one of the creator deity of Vyrns and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
 
 ##### Halora the Golden Vine
 [[01 World of Erythea/Faith/Deities/Halora\|Halora]] is the creator patron of Felidae and Halfling, goddess of Hearth, Wine, Celebrations, and Harvest. She is often portrayed as a plump smiling cat-eared woman crowned with a golden vine and green dress holding a plate of food and drink in her left hand and a sickle in the right. Halora is often praised in large public celebrations. She is commonly worshipped in rural and lower class communities, but also among the nobles.
 
 ##### Eridius the World Smith
-[[01 World of Erythea/Faith/Deities/Eridius\|Eridius]] is a creator patron of Kobold and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
+[[01 World of Erythea/Faith/Deities/Eridius\|Eridius]] is a creator patron of Vyrn and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
 
 ##### Sylvanor the Wild Warden
 The Emerald Monarch and the Keeper of the Montains, [[01 World of Erythea/Faith/Deities/Sylvanor\|Sylvanor]] is the patron of Forest, Beasts, Montain, and everything that is wild. They are portrayed as a strong hooded hunter with braided long hair and wearing green and brown hunting clothes, mounting a giant white tiger or a eight-legged wolf. There's not a common consensus on Sylvanor's gender, some believing it to be fluid as the wind.
@@ -686,7 +690,7 @@ Common language in this campaign is Pharousian, the standardized language spoken
 | Goblok             | Izbudar                       | being a Goblin or Dwarf, has connection to Izbudar, or studied it for some reason                                                                                                                |
 | Khemet             | Nephara                       | being a Felidae, a trader, has connection to Qahilim, or studied it for some reason                                                                                                              |
 | Qahili             | Qahilim                       | being a Lizardfolk, a trader, has connection to Qahilim or studied it for some reason                                                                                                            |
-| Dragonic           | Asvaldr                       | being a kobold, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]]                                                                                                  |
+| Dragonic           | Asvaldr                       | being a Vyrn, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]]                                                                                                  |
 | Athyn (Celestial)  | All                           | Devoted worshipper of the Great Spirits. (You don't need this language to cast spells or communicate with the Great Spirits, this is only the preferred language of most Great Spirit worship. ) |
 | Xiayu              | Xia-Zhou                      | being a Felidae, Tengu, Vanara, or a trader, has connection to Xia-Zhou, or studied it for some reason                                                                                           |
 | Kadiyan            | Kadiya                        | being a Vishkanya, Nagaji, or a trader, has connection to Kadiya, or studied it for some reason                                                                                                  |
