@@ -90,7 +90,7 @@ With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation 
 
 Notable Cerulium inventions from Azulihrun include Cerulium engines, levitating carriages, mechanical servants, and telescopic stargazing devices. The institute also holds significant authority over the study of Cerulium transportation like trains and airships.
 
-Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Eblon/04 Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Eblon/04 Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and kobolds from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
+Aside from its industrial prominence, Azulihrun has always been a melting pot of diverse cultures, and even more so since the revolution. Flooded with arcane scholars and workers seeking opportunities, the metropolis grows exponentially in the last five years to keep up with the immigrant from the surrounding region. The constant territorial conflicts between [[01 World of Erythea/Atlas/Eblon/04 Caelindor\|Caelindor]], [[01 World of Erythea/Atlas/Eblon/04 Valcour\|Valcour]] and its neighboring nations has always been a constant source of immigrants and refugees for Pharousia. Other than human immigrants of all sorts, we also see Goblins refugees from Izbudar, halfings and Vyrns from Caelindor and Valcour, Dwarven crafters from Dorn, Shemtej Felidae and Lizardfolk traders from the Nebet deserts, Tengu and Sunkeeper Felidae from Aerawan. Many of them now came to Azulihrun seeking a new beginning. 
 
 Positioned along the Jade Sea's coastline with the roaring Morrowind River bisecting it, Azulihrun is split into two halves: the historical side housing the lower and middle class called the Azul, and the wealthy side next to the noble keep known as Aulihrun. The river feeds water into factory machineries while allowing goods to be shipped efficiently. Its major exports are Cerulium technology, fish, and culture in the form of entertainment and art.
 
@@ -112,78 +112,79 @@ The Sovereign Emre Sarayli has recently initiated a national construction projec
 ### Locations
 #### The Crownswork
 Administrative district that houses the government buildings. The Skyspire is being constructed here. 
-
-
-#### Spirit's Rest 
-Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
-##### Temples
-**Church of Zefaelon**
-**Temple of Phaedras**
-
-#### The Hearthward
-Cozy Residential areas of middle-to-low-income housing. 
-##### Inns and Cafes
-**The Last Stand** - A bar and cafe popular among the mage workers and other middle-class folks that provides strong drinks and tables for games. The owner seems to be running another business behind the closed backroom doors for those in the know.
-
-
+##### Notable Location
+**Alihrun Castle** - the lord castle of Azulihrun's ruling family. 
+***
 #### Veridian Court 
 Opulent estates and middle-to-upper-class adobes.  
-
+***
+#### Spirit's Rest 
+Old district surrounding an ancient communal and worship site turned into public memorial garden, honoring past mages along with famous Pharousians. Some old temples including the Church of Zefaelon is in the alleyways between the parks and a few residential buildings.
+##### Notable Location
+**Grand Church of Zefaelon**
+**Eversong Monestery of Phaedras**
+***
+#### The Hearthward
+Cozy Residential areas of middle-to-low-income housing. 
+##### Notable Location
+**Altinbaran Academy** - a fundamental education school for children of age 12 to 17. There are other schools like Altinbaran scattered around various district.  
+##### Inns and Cafes
+**The Last Stand** - A bar and cafe popular among the mage workers and other middle-class folks that provides strong drinks and tables for games. The owner seems to be running another business behind the closed backroom doors for those in the know.
+##### Shop and Markets 
+**Silk Castle** - the finest tailorshop in Azulihrun owned by Adem Udono, a Tengu clothmaker. 
+***
 #### Scholar's Hamlet 
 The Silverthorn Arcane Institute and its surrounding establishments.  
-##### Academies 
-**Silverthorn Arcane Institute** - The most prestigious academy for arcane magic and cerulium research
-
-
+##### Notable Location
+**Silverthorn Arcane Institute** - The most prestigious university for arcane magic and cerulium research
 ##### Shop and Markets 
 **House of Scroll** - An old book store for rare text. 
 ##### Inns and Cafes
 **Antler Lounge** - A cafe popular among the scholars and students of the academy. 
-
-
+**Fardae Logos** - the largest bookshop in Azulihrun.
+***
 #### The Loom
 Manufacturing district crowded with Cerulium factories and temp housings for the low-income workers.  
-###### Inns and Cafes
+##### Notable Location
+**Demir Industries Factory** -   
+##### Inns and Cafes
 **Rusty Gears** - an inn that provides hearty meals, strong ales, and a cheap bed for travelers and common folks. 
-
+***
 #### Morrowind Harbor 
 Shipping heartland teeming with traders. The Grand Pavilion is also located at the edge of the district toward the center of the city, showcasing shops with both traditional wares and cutting edge Cerulium inventions.  
+##### Notable Location
+**Demir Industries Office HQ** - the Office Headquarters for Demir Industries, the leading Cerulium Transportation manufacturer owend by Iskander Demir. 
+**[[z_Glossary/Azure Quill\|Azure Quill]]** - News and Private Investigation Company. Secret Hideout for Seekers' Pharousian chapter. 
 ##### Inns and Cafes
 **Blue Wyvern** - A hotels that offers luxurious accommodations for the affluent. 
-
-#### Locations
-
-##### Shop and Markets 
-**House of Scroll** - An old book store for rare text. 
-**Silk Castle** - A tailorshop. 
-**Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
-**Fardae Logos** - the largest library in Azulihrun 
-**Twin Anvil** - an artifact shop for tools, devices, and weapons alike. 
 **Turning Leaf** - A newly-fashioned Cerulium device shop. 
-(and many others)
+**Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
 
 
+#### Powerful Figures
+##### Sovereign Emre Sarayli 
+Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire
 
-##### Industry and Governance
+##### Laveni Kaplan 
+(male human aristocrat) Lord and High Magistrate of Azulihrun.
 
+##### Iskender Demir
+(female Talos industrialist) A Cerulium industrialist, owner of Demir Industries, and leader of the Steel Syndicate.
 
-### Powerful Figures
-#### Sovereign Emre Sarayli 
+##### Hikari Kobayashi
+(male Felidae bartender) Owner of the Last Stand
 
+##### Ayrinda Amaranthine
+(non-binary Nephilim cleric) High Priest of Zefaelon.
 
-#### Laveni Orridus 
+##### Myste Yildiray
+(female human cleric) Oracle of Phaedras in the Pharousia region.
 
-
-#### Elara Valunis 
-
-
-#### Hikari Ishii 
-
-
-#### Ayrinda Amaranthine
+##### Laila Alima
+(female Vyrn scholar) Headmaster of the Arcane Institute of Azulihrun.
 
 >[!cite|clean]+ Azulihrun
-><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Kobold, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Zefaelon, Phaedras, Eridius, Laramesis</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Orridus</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Elara Volunis</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Ishii</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Zefaelon. </p> <p class="hang"><strong>Myste Aurifex</strong> (NG female cleric 11) Oracle of Phaedras in the Pharousia region. </p> <p class="hang"><strong>Milano Wyndalfux</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
+><div class="pf2block" style="width: 100%; margin:  auto"> <div class="d-flex"> <h1>Azulihrun </h1> <h2 class="ml-auto">settlement 14 </h2> </div> <div style="background: rgb(119, 119, 119); height: 2px; margin: 0px 0px 0.2rem;"></div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="pf-trait pf-trait-align">ln</div> <div class="pf-trait pf-trait-type">metropolis</div> <div style="" class="pf-trait pf-trait-edge">&nbsp;</div> <div class="text-pf"> <p class="hang"><strong>Government</strong> <em>Sovereign and High Magistrate</em></p> <p class="hang"><strong>Population</strong> 26,848 (49% Human, 10% Dwarf, 9% Orc, 8% Goblin, 8% Halfling, 7% Vyrn, 5% Felidae, 4% Other Races)</p> <p class="hang"><strong>Language</strong> Common, Xian, Dwarven</p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Religion</strong> Zefaelon, Phaedras, Eridius, Laramesis</p> <p class="hang"><strong>Threats</strong> abomination, spectural horrors, magical surges, criminals, lost magical beasts, spirits who are restless and offended, union busters, rogue artifacts, mechanical malfunctions, radical groups, cultists</p> <p class="hang"><strong>Birthplace of Arcane Industry</strong> Uncommon Arcane gadgets and magic items are common within Azulihrun. </p> <p class="hang"><strong>Prohibited Superstitions</strong> Traiditional magic practices are considered backwards and barbaric due to a mixture of propaganda and people's greater access to arcane magic. To protect the citizens and the means of production, traditional magic are subjects to heavy restriction. Any spiritmancy practices need to be reported and registered, or otherwise fined. Offensive magic or unlicensed services are subject to misdemeanor, and other type of sentences. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p class="hang"><strong>Emre Sarayli</strong> (LN non-binary human mornarch 11) Sovereign of Pharousia, convener of the Cerulean Chamber, temporarily residing in Azulihrun to monitor the construction of the Skyspire. </p> <p class="hang"><strong>Laveni Kaplan</strong> (LE male human aristocrat 9) Lord and High Magistrate of Azulihrun.</p> <p class="hang"><strong>Iskender Demir</strong> (NE female Dreamtouched industrialist 7) A Cerulium industrialist and leader of the Steel Syndicate. </p> <p class="hang"><strong>Hikari Kobayashi</strong> (LG male Felidae bartender 4) Proprietor of the Last Stand </p> <p class="hang"><strong>Ayrinda Amaranthine</strong> (LN non-binary cleric 12) High Priest of Zefaelon. </p> <p class="hang"><strong>Myste Yildiray</strong> (NG female cleric 11) Oracle of Phaedras in the Pharousia region. </p> <p class="hang"><strong>Laila Alima</strong> (LN female scholar 14) Headmaster of the Arcane Institute of Azulihrun. </p> <div style="background: #cccccc; height: 2px; margin: 1px 0; border-bottom: 1px solid #00000066"></div> <p>A character can usually purchase any common item of the same or lower level than the settlement's level - 2. </p> <p>Spellcasting services may be available in this settlement. A character can find someone to cast common spells up to 4th level spells. </p> </div> </div>
 
 ^statblock-Azulihrun
 
