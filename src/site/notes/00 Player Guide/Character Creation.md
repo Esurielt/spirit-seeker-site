@@ -227,6 +227,10 @@ If more than one background resonates with your character, you may use any of th
 > 
 > You are trained in Occultism and Lore about a specific category of Abomination(e.g. Ghost, Wraith, Fey, Daemon, Ghoul, Zombie, Vampires, Mana Waste Mutants, Specter). You gain the [Assurance](https://pf2easy.com/index.php?id=2137) Feat. 
 
+> [!pf2rule]+ Phantom Investigator
+> From the uncanny murder to the haunting of spirits at night, your always had an insatiable curiosity in solving the unexplained cases. An encounter with the supernatural, perhaps a murder brushed with spectral fingerprints, ignited within you an unrelenting thirst for truths shrouded in shadows. While others might think the answers are lost through the cracks of reality, you know that logic and clues apply to even the world unseen. A Seeker of the liminal and lost, you wield your keen mind as a weapon against the phantasmal forces in play.
+> Choose two attribute boosts: one must be Intelligence or Charisma, and one is a free attribute boost. 
+> You are trained in Medicine and Paranormal Cases Lore. You gain the [Forensic Acumen](https://pf2easy.com/index.php?id=8447&name=Forensic_Acumen) feat. 
 
 > [!pf2rule]+ SCHOLAR OF TWO WORLDS
 > You are a renowned scholar of arcane science, a prominent professor in the Silverthorn Arcane Institute. Your lectures on magical theory draw eager students, but your open-mindedness about traditional magics seen as primitive by academic dogma has made powerful enemies. Even though the Institute incentivizes research of arcane inventions, you cannot help but felt drawn to unraveling the mystery of the  folk magic to strengthen your magic principles and yearn to understand the world’s hidden spiritual heritage first-hand. 
