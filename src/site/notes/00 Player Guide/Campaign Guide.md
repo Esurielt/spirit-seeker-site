@@ -20,7 +20,7 @@ For whatever reason, you choose to walk the line between chaos and order, betwee
 
 In the Spirit Seekers campaign for Pathfinder 2nd Edition Remaster, you will create a 1st-level character recruited by the Seekers, a secret society of adventurous agents that study the myth, monitor the bizarre, and protect the citizenry. 
 
-This guide will help you to prepare for a fantastical adventure in the world of Spirit Seeker. It aims to provide you with an introduction to the context of the story, including an overview of the city of Azulihrun, followed by some campaign-appropriate character options for building your Seeker. 
+This guide will help you to prepare for a fantastical adventure in the world of Spirit Seekers. It aims to provide you with an introduction to the context of the story, including an overview of the city of Azulihrun, followed by some campaign-appropriate character options for building your Seeker. 
 
 
 ## Table of Content
