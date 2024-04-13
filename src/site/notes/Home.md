@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Spirit Seeker: Home","pinned":true,"contentClasses":"embed-clean dvl dvl-c","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","title":"Spirit Seekers: Home","pinned":true,"contentClasses":"embed-clean dvl dvl-c","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ![vCKunH7GVWZM06a](https://i.imgur.com/bMFh1js.jpeg "Spirit")
@@ -21,10 +21,10 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
     <a style="background-color: rgba(0,0,0,0); box-sizing: border-box; color: rgb(230, 200, 110); " href="/00-player-guide/campaign-guide/">
     <div style="box-sizing: border-box; color: #e6c86e;overflow: hidden; margin-bottom:10px; margin-right:-10px; margin-left: -10px; margin-top:-10px; background-position: center; background-size: cover; min-height:120px; max-height:120px; background-image: url('https://i.imgur.com/3k7kcVc.jpeg')"></div> 
     <div style="color: #e6c86e; border-top: 1.5px #b69649 solid; border-bottom: 1.5px #b69649 solid; background: hsla(220, 52%, 26%, 0.904); padding: 7px 15px 7px 15px; border-radius: 0px; margin: -10px -10px 5px -10px;">
-    <h5 style = "text-align: center; color: rgb(230, 200, 110); margin-top: 0px" >Spirit Seeker: Player's Guide</h5> 
+    <h5 style = "text-align: center; color: rgb(230, 200, 110); margin-top: 0px" >Spirit Seekers: Player's Guide</h5> 
     </div>
     <div style="padding: 5px 10px;">
-    An introductory article to player character creation in the world of Spirit Seeker.  
+    An introductory article to player character creation in the world of Spirit Seekers.  
     </div></a>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center;align-items:center;"> 
