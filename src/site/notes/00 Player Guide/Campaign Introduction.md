@@ -56,13 +56,23 @@ For those versed only in Arcane teachings—a universe where magic is neatly par
 
 The Seekers is an ancient secret order devoted to protecting the realm from rogue magic and malevolent entities. For centuries, they have honed their skills in spellcraft and combat to meet each new supernatural threat in shadows. Though chapters span kingdoms and borders, their duty remains the same - to wield magic responsibly and solve mysteries beyond mortal ken.
 
-Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Pharousia. The unique background options in Chapter [[01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
+>[!pf2note] PC as Seekers 
+> Toward the start of the campaign, you and your party members arrived at the the Seekers' chapter quarters in Pharousia, operating under the cover company Azure Quill—a news and investigation firm reporting local events and urban mysteries. 
+> 
+> Being a part of Seekers might mean that you could be a investigative reporter writing for the Azure Quill, a sword-and-sorcery abomination hunter, a former victim under protection and now a fledging agent, a magical misfit who otherwise has no way to practice your power. Seekers pays well for the dangerous nature of the job.   
+> 
+> It's worth noting that **you don't have to be a part of the Seekers directly** at the beginning of the campaign, just that you have to be involved with esoteric matters in some fashion that Seekers would reach out to you for help on investigations. 
+> 
+> The unique background options in Chapter [[01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 In the revolutionized Pharousia, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but you come to the Seekers' Pharousia chapter in a time of change. 
 
 A few decades ago, Seekers were branded outlaws along with many other traditional mages. After some targeted sweep, a series of tragedy with the recent surge of abominations, and continued derision toward the traditional magic, Seekers’ ranks in Azulihrun suffered greatly. But the tides have turned with the support of the new Sovereign; he even granted Seekers the official access and guardianship of the Reliquary Vault, a chamber full of confiscated artifacts. Of course, this gift comes with strings attached - oversight from the Crown, where their activities and the vault closely monitored.
 
-As a new Seeker pledge, you will train under the fair and capable Chapter Master Viola Whytebourne. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
+The Seekers' Pharousia Chapter is currently managed by the fair and capable Chapter Captain Viola Whytebourne. She has reluctantly accepted oversight from the Crown's representatives to secure the order's future. Together with new allies, you must navigate political tensions while investigating the rising mystical threats. 
+
+
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-glossary/seeker/#statblock-seekers" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
