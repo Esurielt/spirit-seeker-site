@@ -16,7 +16,7 @@
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
 > **Divine Skill**  Society
-> **Domains**  Cities,Air,Perfection,Duty
+> **Domains**  Cities,Air,Duty,Tyranny
 > **Favored Weapon**  longsword 
 { #statblock}
 
