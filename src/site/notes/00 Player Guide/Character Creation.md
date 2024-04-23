@@ -62,12 +62,12 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 >
 >However, the creep of the Mana Wastes caused by the magical warfares has decimated their homelands, uprooting halfling villages into nomadic diaspora or migrate into cities like Azulihrun. Within these nomadic tribes rose fierce halfling rangers and fighter. Despite all plights, halflings continue life's humble celebrations wherever their roads may roam.
 
->[!pf2rule]- Vyrn - Dragonkin Archivists of the Lush Caverns
->Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, Vyrns are the cunning, proud dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
+>[!pf2rule]- Kobald - Dragonkin Archivists of the Lush Caverns
+>Forged by Caelithra the Primodial Serpen and Laramesis the Twin-faced Messenger from the sorrow of the lost dragon lineage, Kobalds are the cunning, proud, small-sized dragonkin native to Erythea's Northern mountains and isles. More than mere delvers of caverns, they are masterful underground gardeners cultivating rare fungi and bioluminescent flora in their magnificent cavern homes. Inheritors of draconic fire magics, their souls burn with Caelithra's blazing might.
 >
->Many Vyrns are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some Vyrn tribes, central to their way of life are the mystic bonds Vyrns forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
+>Many Kobalds are also natural historians, with elders as living libraries safeguarding lore through oral traditions. Their culture treasures the excavation and preservation of history and relics from the first-age civilizations as a sacred duty. For some Kobald tribes, central to their way of life are the mystic bonds Kobalds forge with a beast companions at an young age through prehistoric rituals, each clan specializing in different animal kinships.
 >
->With the Arcane Revolution's rise and Cerulium's proliferation, many Vyrn scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded Vyrns roamed as rangers and handlers. Still favoring cavernous dwellings, Vyrns transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
+>With the Arcane Revolution's rise and Cerulium's proliferation, many Kobald scholars seized the chance to travel far to unearth knowledge from bygone eras. Many was drawn to cultural capitals like Azulihrun, where their mastery over fire powered arcane forges and factories, scholars became archivists and researchers, and the beast-bonded Kobalds roamed as rangers and handlers. Still favoring cavernous dwellings, Kobalds transformed abandoned underground spaces into lush greenhouse communities - an intermingling of their ancestral ways with the urban life.
 
 >[!pf2rule]- Lizardfolk - Desert Walkers
 > Lizardfolks are native to the Nebet Desert, savage fighters and cunning trader forged by Thothmer the Scribe and Laramesis the Traveler. 
@@ -76,8 +76,6 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 
 >[!pf2rule]- Kitsune - Cunning Traders
 >Kitsune are fox-like race native to the north-western coasts of Aerawan, created by Thothmer the Scribe and Eoluxe the Trickster. 
-![Z9Rf7vv8j0vvv0t](https://i.imgur.com/ZmL3DKy.png)
-![FO7Z9KZfVrp3CYw](https://i.imgur.com/mC1hStc.png)
 
 >[!pf2rule]- Tengu - Martial Masters
 >Tengu are bird-like race native to the north-western coasts of Aerawan, created by Aresmun the Guardian and Sylvanor the Ranger. 
@@ -92,17 +90,67 @@ These section introduce the <span class="pf-trait pf-trait-common"><a class = "i
 ##### Dreamtouched Heritages
 Dreamtouched are those whose lives are intertwined with the ethereal realms of the Spirits. Born in moments where the veil between reality and the spirit realm wavers, they bear the mark of the Great Spirits' dream. Whether through intense prayers, chance encounters, or dramatic spiritual experiences, they are imbued with a connection to the world beyond reality. This gift, known as Dreamtouch, transform their bearers fundamentally in exchange for insights to the forces unseen.
 
-> [!pf2rule]+ Dreamtouched Heritage
+>[!pf2rule]+ Nephilim (Aasimar / Tiefling)
+> Those who manifest otherworldly influences connected with powerful spirits or specific Great Spirits, often because of their or their ancestors' bargains or prayer. Nephilim manifests differently for everyone - it could be a strange body feature like horns, a vibrant imprint or runes on their skin, unusual hair and eye colors, or other subtle changes.   
+> Nephilims in Erythea are not associated with angel or demons of the common fantasy afterlife, but with the Great Spirits, here are a list of Erythean Nephilim lineages. These will replace  nephilim lineage feats in vanilla PF2e. Note that you can only choose an lineage feat at 1st level. 
+> > [!pf2rule]- Harbinger -  Zefaelon
+> > Your blood surge with the influence of Zefaelon, the bring of law and virtue and the lord of the sky. Zefaelon's influence could manifest on you as white or red eyes, illuminous skin markings, hair, or many other kind of physical features. 
+> > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. You gain the Find Fault reaction.
+> > > [!pf2rule|no-title]
+> > > Find Fault <span class=Pathfinder>⬲</span> (concentrate) **Trigger** You attempt a saving throw against a spell or magic effect but haven't rolled yet; **Effect** You find some kind of flaw with the rule of the magic, weakening its effect. You gain a +1 circumstance bonus to your saving throw against the triggering effect, which increases to a +2 circumstance bonus if the effect is divine and originates from a worshipper of the deity you chose for your grudge. 
 > 
-> >[!pf2rule]- Nephilim
-> > Those who manifest otherworldly influences connected with powerful spirits or specific Great Spirits, often because of their or their ancestors' bargains or prayer. 
+> > [!pf2rule]- Enlightened - Eridius
+> > Your lineage was marked by Eridius, the god of knowledge and craft. The influence of the Eridius could manifest on you as blue runes or geometric markings, illuminous blue eyes. You gain the trained proficiency rank in Crafting. If you would automatically become trained in Crafting (from your background or class, for example), you instead become trained in a skill of your choice. You gain the [Multilingual](https://2e.aonprd.com/Feats.aspx?ID=814) skill feat.  
+> > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to any feats requiring Fiend Nephilim lineages. 
+> 
+> > [!pf2rule]- Musetouched -  Phaedras
+> > Your blood sing with the influences of Phaedras the Dawn Shepherd, the god of sun, beauty, love, and art. The Gentle Shepherd's power of healing and introspection flow through you, you gain the [Fast Recovery](https://2e.aonprd.com/Feats.aspx?ID=782) feat, even if you don't meet the prerequisites. 
+> > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. 
+> 
+> > [!pf2rule]- Emberheart -  Aresmun
+> > Your or your ancestors are reached by Aresmun, the god of war and protection. You are the embodiment of chivalry and martial prowess. You become trained in Athletics. If you would automatically become trained in Athletics (from your background or class, for example), you instead become trained in a skill of your choice. You also gain one of these following feats: Battle Medicine feat without needing to meet its requirement, Assurance in Athletics, or any one common 1st-level skill feat with a prerequisite of trained in Athletics. 
+> > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to any feats requiring Fiend Nephilim lineages.
+> 
+> > [!pf2rule]- Idyllkin -  Halora
+> > You have been blessed by the gift of Halora, the lady of harvest and hearth. You are trained in Crafting and Society. If you would automatically become trained in Crafting and/or Society (from your background or class, for example), you instead become trained in one skill of your choice.  You also choose to gain either the Seasoned feat, or a feat with the prerequisite of trained in Crafting or Society. 
+> > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. 
+>
+> > [!pf2rule]- Wildroot -  Sylvanor
+> > You are connected with the energy of [[01 World of Erythea/Faith/Deities/06 Sylvanor\|Sylvanor]], god of the forests, mountain, and beasts. The influence of the Emerald Monarch could manifest as strange vines or leaf patterns on your body, green hair and eyes, or beast-like ears and limbs. No matter where you are from, you know you are a child of wilderness deep down. You gain the Beastkin trait, granting you access to Beastkin feats, but you do not have a hybrid form. You gain a sense of scent(imprecise) 30 feet.
+> > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to any feats requiring Fiend Nephilim lineages.
+>  
+> > [!pf2rule]-  Mistborne - Eolux  
+> > Your lineage or existence is blessed by Eolux, the god of trickery and change. You are not to be tied down by the world around you. You gain You gain a +1 circumstance bonus to [Escape](https://2e.aonprd.com/Actions.aspx?ID=79). When you roll a critical failure on a check to Escape, you get a failure instead, and when you roll a success, you get a critical success instead. 
+> > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. 
+> 
+> > [!pf2rule]- Onyxvein -  Thothmer
+> > You manifest influences from Thothmer, the god of treasure and trade; it might appear as a iridescent glow or gem-glint cracks on your skin, golden eyes, or gem-like halo or horns. You are a creature of logic, and have a knack with negotiations and numbers. You are trained in Society and gain the Eye for Numbers feat. You can cast Approximate as an innate cantrip.  
+> > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to fiend Nephilim lineage related feats. 
+> 
+> > [!pf2rule]- Soulcrossed - Laramesis
+> > Your blood bears the duality of Laramesis, the twin-faced god of travel and message. The influence of the Keeper of Crossroad could have give you double of eyes, mismatched face, single-sided horns, or other manifestation that challenge or conform with symmetry. You find yourself easier to find inner peace than your peers, drawn to different perspectives and experiences. You gain a +1 circumstance bonus to saves against emotion effects, and if you roll a success on a save against an emotion effect, you get a critical success instead. 
+> > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. 
+> 
+> > [!pf2rule]- Vryn - Caelithra 
+> > (Pathbuilder: Choose Draconic Scion as your Versatile Heritage or uses Bonus Feats for the additional 1st-level ancestry feat.)
+> > Your lineage bears the mark of Caelithra, manifesting as draconic features and might. You gain the Draconic Scion trait and have access to feats for the Draconic Scion versatile heritage; you also gain another 1st-level ancestry feat. 
+> 
+> > [!pf2rule]- Grimspawn - Khataleia 
+> > Your soul is entangled with the Lady of Death, the Keeper of the Stream Khataleia. Your subconscious have a close connection with death, which could manifest as sickly pale skin, black or purple eyes and hair, or darkened fingertips. You can recognize Duskwalkers on-sight. You gain the Diehard feat. 
+> > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to fiend Nephilim lineage related feats. 
+>
+
+> [!pf2rule]+ Other Dreamtouched Heritage
 > 
 > >[!pf2rule]- Changeling 
 > > Children of the Hags—a kind of twisted fallen Fey spirit living in the wilderness and in the shadows of civilizations. The birth of Changelings was often involuntary or out of deceit. They were born with an urge to join and serve their malevolent ethereal parent.     
 > 
-> >[!pf2rule]- Duskwalker 
-> > Reincarnated soul who were bound to serve the will of Great Spirits, often servants of Thanatris to hunt the undead abomination whenever their goddess calls. 
-> 
+> >[!pf2rule]- Duskwalker - Khataleia's Blades
+> > Reincarnated soul who were bound to serve the will of Khataleia to hunt the undead abomination whenever their goddess calls. 
+>
+> >[!pf2rule]- Dhampir 
+> >Vampires. Unnatural long-lived offsprings of specters with the living, or half-dead individual stuck between the realms. They feed on bodily aether in order to maintain their existence. 
+>  
 > >[!pf2rule]- Ardande 
 > > People with strong Wood-aligned aether influences. 
 > 
@@ -123,9 +171,6 @@ Dreamtouched are those whose lives are intertwined with the ethereal realms of t
 > 
 > >[!pf2rule]- Suli 
 > > People with a mixture of strong elemental influences. 
-> 
-> >[!pf2rule]- Dhampir 
-> >Unnatural offsprings of specters with the living, or half-dead individual stuck between the realms. They feed on bodily aether in order to maintain their existence. 
 > 
 > >[!pf2rule]- Fetchling 
 > > People who manifest strong Noxis (Dark) aether influence, often appearing reserved and dormant. They often have an affinity with the Noxis-aligned things as well as magic to do with shadow. 
@@ -368,42 +413,42 @@ Magic service without a Cerulium certification is also illegal and could face fi
 #### Great Spirits  
 Read more of each entry in their own page. (Sorry, the embed would not work.)
 ##### Zefaelon the Lawbringer
-[[01 World of Erythea/Faith/Deities/Zefaelon\|Zefaelon]] is one of the creator deities of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and in regal red and white robe.
+[[01 World of Erythea/Faith/Deities/01 Zefaelon\|01 Zefaelon]] is one of the creator deities of human, as well as the state deity of Pharousia. He is often portrayed as a white-bearded monarch in stern postures and in regal red and white robe.
 He is commonly worshipped by nobles, lawmakers, soldiers, and all sorts of city dwellers.  
 
 ##### Phaedras the Shepherd of Dawn
-The Soother of all Sorrow and the Morning Rose, [[01 World of Erythea/Faith/Deities/Phaedras\|Phaedras]] is the god of Sun, beauty, love and compassion. He is one of the creator deities of human, as well as halfling. He is often portrayed as a smiling man dressed in white and gold-trimmed Shepherd clothing with radiant eyes and beautiful features. Phaedras' statues can be seen in theaters, museum, and schools of bard. His worship also has many monastery devoted for charity as well as entertainment.
+The Soother of all Sorrow and the Morning Rose, [[01 World of Erythea/Faith/Deities/03 Phaedras\|03 Phaedras]] is the god of Sun, beauty, love and compassion. He is one of the creator deities of human, as well as halfling. He is often portrayed as a smiling man dressed in white and gold-trimmed Shepherd clothing with radiant eyes and beautiful features. Phaedras' statues can be seen in theaters, museum, and schools of bard. His worship also has many monastery devoted for charity as well as entertainment.
 
 ##### Caelithra the Maelstorm
-[[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]] is one of the creator deity of Vyrns and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
+[[01 World of Erythea/Faith/Deities/10 Caelithra\|10 Caelithra]] is one of the creator deity of Kobalds and Goblins. She is the goddess of sea and the Mother of All Scalekin, she is also the god of revenge and family business. She is commonly portrayed as a great wyrm with black and green scales, terrifying and monstrous, sometimes with a beautiful lady's face and body. Caelithra is worshipped by goblins, scalekins, and seamen; she is also prayed to for family troubles, such as seeking a new child or avenging a family member. 
 
 ##### Halora the Golden Vine
-[[01 World of Erythea/Faith/Deities/Halora\|Halora]] is the creator patron of Felidae and Halfling, goddess of Hearth, Wine, Celebrations, and Harvest. She is often portrayed as a plump smiling cat-eared woman crowned with a golden vine and green dress holding a plate of food and drink in her left hand and a sickle in the right. Halora is often praised in large public celebrations. She is commonly worshipped in rural and lower class communities, but also among the nobles.
+[[01 World of Erythea/Faith/Deities/05 Halora\|05 Halora]] is the creator patron of Felidae and Halfling, goddess of Hearth, Wine, Celebrations, and Harvest. She is often portrayed as a plump smiling cat-eared woman crowned with a golden vine and green dress holding a plate of food and drink in her left hand and a sickle in the right. Halora is often praised in large public celebrations. She is commonly worshipped in rural and lower class communities, but also among the nobles.
 
 ##### Eridius the World Smith
-[[01 World of Erythea/Faith/Deities/Eridius\|Eridius]] is a creator patron of Vyrn and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
+[[01 World of Erythea/Faith/Deities/02 Eridius\|02 Eridius]] is a creator patron of Kobald and Human; he is the god of Knowledge, Invention, Forge, and Engineering. He is commonly portrayed as a bearded scholar wearing blue robe, holding a hammer and a scroll.
 
 ##### Sylvanor the Wild Warden
-The Emerald Monarch and the Keeper of the Montains, [[01 World of Erythea/Faith/Deities/Sylvanor\|Sylvanor]] is the patron of Forest, Beasts, Montain, and everything that is wild. They are portrayed as a strong hooded hunter with braided long hair and wearing green and brown hunting clothes, mounting a giant white tiger or a eight-legged wolf. There's not a common consensus on Sylvanor's gender, some believing it to be fluid as the wind.
+The Emerald Monarch and the Keeper of the Montains, [[01 World of Erythea/Faith/Deities/06 Sylvanor\|06 Sylvanor]] is the patron of Forest, Beasts, Montain, and everything that is wild. They are portrayed as a strong hooded hunter with braided long hair and wearing green and brown hunting clothes, mounting a giant white tiger or a eight-legged wolf. There's not a common consensus on Sylvanor's gender, some believing it to be fluid as the wind.
 
 
 ##### Laramesis the Twin-faced Messenger
-The Keeper of the Crossroads and Twin-faced Traveler, [[01 World of Erythea/Faith/Deities/Laramesis\|Laramesis]] is the god of Time, Travel, Luck, and Duality. They are often portrayed as a god with two masked faces on the front and back of their head, sometimes a pair of twin gods who can merge as one. They wears red and blue traveler robes.
+The Keeper of the Crossroads and Twin-faced Traveler, [[01 World of Erythea/Faith/Deities/09 Laramesis\|09 Laramesis]] is the god of Time, Travel, Luck, and Duality. They are often portrayed as a god with two masked faces on the front and back of their head, sometimes a pair of twin gods who can merge as one. They wears red and blue traveler robes.
 
 
 ##### Khataleia the Mistress of Slumber
-The Veiled Spinner and the Keeper of the Stream. [[01 World of Erythea/Faith/Deities/Khataleia\|Khataleia]] is the goddess of Death, Darkness, Protection, Repose, and Void. She is portrayed as a veiled lady with black hair in a beautiful crown, wearing purple ceremonial gown. She weaves the memories of the dead into the silky river of the Lifestream on her alabaster spinning wheel.
+The Veiled Spinner and the Keeper of the Stream. [[01 World of Erythea/Faith/Deities/11 Khataleia\|11 Khataleia]] is the goddess of Death, Darkness, Protection, Repose, and Void. She is portrayed as a veiled lady with black hair in a beautiful crown, wearing purple ceremonial gown. She weaves the memories of the dead into the silky river of the Lifestream on her alabaster spinning wheel.
 
 
 #####  Thothmer the Vault Keeper
-The Cofferer of Countless Coins and the Master of Vaults, [[01 World of Erythea/Faith/Deities/Thothmer\|Thothmer]] is the god of trade, Law, Nobility, Industry, and writing. He is portrayed as a noble man in gold and purple affluent attire, holding a golden scale and amethyst key.
+The Cofferer of Countless Coins and the Master of Vaults, [[01 World of Erythea/Faith/Deities/08 Thothmer\|08 Thothmer]] is the god of trade, Law, Nobility, Industry, and writing. He is portrayed as a noble man in gold and purple affluent attire, holding a golden scale and amethyst key.
 He is worshipped among the bankers and nobles, you can also see his statues in commoner's houses and countless shops and services in hope to bring in luck and wealth. 
 
 ##### Eolux the Defying Trickster
-The Patron of Paradox and the Mythic Maverick, [[01 World of Erythea/Faith/Deities/Eolux\|Eolux]] is the patron of Trickery, Chaos, Charm, and Freedom. Eolux is prayed to by rebels and unconventional opportunists. While Eolux does not have an organized religion, they often have hidden shrines and many songs in their name. Eolux is often portrayed as a carefree androgynous figure with long hair, two red horns or fox-like ears; he often wears black and red garbs in contrast to the royal colors of red and white.
+The Patron of Paradox and the Mythic Maverick, [[01 World of Erythea/Faith/Deities/07 Eolux\|07 Eolux]] is the patron of Trickery, Chaos, Charm, and Freedom. Eolux is prayed to by rebels and unconventional opportunists. While Eolux does not have an organized religion, they often have hidden shrines and many songs in their name. Eolux is often portrayed as a carefree androgynous figure with long hair, two red horns or fox-like ears; he often wears black and red garbs in contrast to the royal colors of red and white.
 
 ##### Aresmun the Valiant Guardian 
-The Shield of the Firmament, [[01 World of Erythea/Faith/Deities/Aresmun\|Aresmun]] is the god of War and Valor, but also the god of healing and protection. He is often portrayed as a veteran warrior in golden armor and silver chain shirt, holding a shield in one hand and a bowl of clean water in the other. He is often worshipped among soldiers and doctors.
+The Shield of the Firmament, [[01 World of Erythea/Faith/Deities/04 Aresmun\|04 Aresmun]] is the god of War and Valor, but also the god of healing and protection. He is often portrayed as a veteran warrior in golden armor and silver chain shirt, holding a shield in one hand and a bowl of clean water in the other. He is often worshipped among soldiers and doctors.
 
 
 ### Skills & Feats
@@ -438,7 +483,7 @@ Common language in this campaign is Pharousian, the standardized language spoken
 | Goblok             | Izbudar                       | being a Goblin or Dwarf, has connection to Izbudar, or studied it for some reason                                                                                                                |
 | Khemet             | Nephara                       | being a Felidae, a trader, has connection to Qahilim, or studied it for some reason                                                                                                              |
 | Qahili             | Qahilim                       | being a Lizardfolk, a trader, has connection to Qahilim or studied it for some reason                                                                                                            |
-| Dragonic           | Asvaldr                       | being a Vyrn, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/Caelithra\|Caelithra]]                                                                                                  |
+| Dragonic           | Asvaldr                       | being a Kobald, has connection to Asvaldr, studied it for some reason, or worship [[01 World of Erythea/Faith/Deities/10 Caelithra\|10 Caelithra]]                                                                                                 |
 | Athyn (Celestial)  | All                           | Devoted worshipper of the Great Spirits. (You don't need this language to cast spells or communicate with the Great Spirits, this is only the preferred language of most Great Spirit worship. ) |
 | Xiayu              | Xia-Zhou                      | being a Felidae, Tengu, Vanara, or a trader, has connection to Xia-Zhou, or studied it for some reason                                                                                           |
 | Kadiyan            | Kadiya                        | being a Vishkanya, Nagaji, or a trader, has connection to Kadiya, or studied it for some reason                                                                                                  |
