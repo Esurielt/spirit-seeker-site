@@ -31,7 +31,7 @@ Nephilims in Erythea are not associated with angel or demons of the common fanta
 > [!pf2rule]- Idyllkin -  Halora
 > You have been blessed by the gift of Halora, the lady of harvest and hearth. You are trained in Crafting and Society. If you would automatically become trained in Crafting and/or Society (from your background or class, for example), you instead become trained in one skill of your choice.  You also choose to gain either the Seasoned feat, or a feat with the prerequisite of trained in Crafting or Society. 
 > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. 
->
+
 > [!pf2rule]- Wildroot -  Sylvanor
 > You are connected with the energy of [[01 World of Erythea/Faith/Deities/06 Sylvanor\|Sylvanor]], god of the forests, mountain, and beasts. The influence of the Emerald Monarch could manifest as strange vines or leaf patterns on your body, green hair and eyes, or beast-like ears and limbs. No matter where you are from, you know you are a child of wilderness deep down. You gain the Beastkin trait, granting you access to Beastkin feats, but you do not have a hybrid form. You gain a sense of scent(imprecise) 30 feet.
 > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to any feats requiring Fiend Nephilim lineages.
