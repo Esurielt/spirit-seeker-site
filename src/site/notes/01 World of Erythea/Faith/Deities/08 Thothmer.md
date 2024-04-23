@@ -15,7 +15,7 @@
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
 > **Divine Skill**  Diplomacy
-> **Domains**  wealth,glyph,secrecy,metal
+> **Domains**  Wealth,Glyph,Secrecy,Metal
 > **Favored Weapon**  light hammer 
 { #statblock}
 
