@@ -23,6 +23,18 @@ You may not choose this option unless you are rewarded with a rare option or you
 This option is illegal—well, *mostly*—unless you convince me otherwise. You have 10 minutes—now go!{ #rarity-limited}
 
 
+### Hero Points 
+Hero points are more powerful on my table. When you use a hero point to reroll, your result equals to 10 + your proficiency modifier of the skill or your rolled result, whichever one is better. You also can reroll the damage of critical strikes. 
+
+You can also use one hero point to create a flashback [similar to in "Blades in the Dark"](https://www.thelittlegnomeslibrary.com/flashback-system). I have the call on whether the flashback is valid, if it's invalid the flashback is not called. However, If you decide to not flashback after calling it, you still use the hero point. On your flashback roll:
+>[!pf2rule] Flashback
+>**Critical Success** Flashback happened as planned, and something amazing happens. 
+>**Success** Flashback happened as planned, granting you the desired outcome of the Flashback. 
+>**Failure** Flashback happened, it might increase awareness point or have other long-term implication depending on the flashback, but no immediate danger will come of it. 
+
+I still aim to give out roughly 1 hero point per hour. Hero points carries over to the next session. 
+
+
 ### Currency
 This campaign uses the RAW currency scaling of 1 pp = 10 gp = 100 sp = 1000 cp
 
