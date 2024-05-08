@@ -93,7 +93,7 @@ For those versed only in Arcane teachings—a universe where magic is neatly par
 > While village witches might know how to heal the sick, pray for rain, tell the fortune, they don't necessarily always get an definite response from the spirits. Legendary wizards of old epics who said to command weather and call forth disasters are incredibly rare, as it requires impeccable training and divine favor to commune with Great Spirits at a level that could result in such transformative magical effect.
 > <p style="align-content:center;font-weight:700;margin-top:2em">What Does This Mean For Me?</p>
 > 
-> Mechanically, this means a few spells might not be legal or seen as incredibly Rare or Unique in this campaign. You can find out more information about magic options and their rarity in the chapter of [[00 Player Guide/Character Creation#Magic & Faith\|Creating Character: Magic & Faith]]. However, most spells are still available to PCs as you continue to discover the secrets of Spirit Magic. 
+> Mechanically, this means a few spells might not be legal or seen as incredibly Rare or Unique in this campaign. You can find out more information about magic options and their rarity in the chapter of [[00 Player Guide/Character Creation#Magic & Faith\|Character Creation#Magic & Faith]]. However, most spells are still available to PCs as you continue to discover the secrets of Spirit Magic. 
 > 
 > It also means that the high-rank spellcasting would be less likely to be available among the NPCs, since they were not taught as commonly to just any magic student. For example, in a level 14 settlement like Azulihrun, you would only find spellcasting services up to 4th-rank spells (as supposed to 7th-rank spells according to PF2 RAW). 
 > ^faq-high-magic
@@ -109,7 +109,7 @@ The Seekers is an ancient secret order devoted to protecting the realm from rogu
 > 
 > It's worth noting that **you don't have to be a part of the Seekers directly** at the beginning of the campaign, just that you have to be involved with esoteric matters in some fashion that Seekers would reach out to you for help on investigations. 
 > 
-> The unique background options in Chapter [[01 Backgrounds\|Creating Character: Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
+> The unique background options in Chapter [[00 Player Guide/Character Creation#Backgrounds\|Character Creation#Backgrounds]] present a handful of reason your PC might have been scouted, recruited, or invited as help. While you aren't required to choose one of these backgrounds, your character's backstory should involve some reason that the Seekers have reached out to you to join their ranks. 
 
 In the revolutionized Pharousia, the Seekers stand at a crossroads. For centuries, they guarded the civilians against supernatural threats, but you come to the Seekers' Pharousia chapter in a time of change. 
 
