@@ -112,7 +112,7 @@ Dreamtouched are those whose lives are intertwined with the ethereal realms of t
 > > You are a [[z_Glossary/elemental polarity\|Noxis]] Nephilim, gaining access to any feats requiring Fiend Nephilim lineages.
 > 
 > > [!pf2rule]- Idyllkin -  Halora
-> > You have been blessed by the gift of Halora, the lady of harvest and hearth. You are trained in Crafting and Society. If you would automatically become trained in Crafting and/or Society (from your background or class, for example), you instead become trained in one skill of your choice.  You also choose to gain either the Seasoned feat, or a feat with the prerequisite of trained in Crafting or Society. 
+> > You have been blessed by the gift of Halora, the lady of harvest and hearth. You are trained in Crafting and Society. If you would automatically become trained in Crafting and/or Society (from your background or class, for example), you instead become trained in one skill of your choice.  You also choose to gain either the Seasoned feat.
 > > You are a [[z_Glossary/elemental polarity\|Solais]] Nephilim, gaining access to celestial Nephilim lineage related feats. 
 >
 > > [!pf2rule]- Wildroot -  Sylvanor
