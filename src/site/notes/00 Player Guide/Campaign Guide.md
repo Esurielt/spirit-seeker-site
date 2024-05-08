@@ -644,20 +644,24 @@ Nature might be the least relevant skill, as most of the campaign would happen i
 
 ##### Lores 
 Lores included in the provided campaign backgrounds could provide a good basis for the lores specific to your character. If you want to take additional lore, or have selected a generic background and want to change the lore to something a little bit more specific, here are some unique Lores in the campaign. 
-\*Please keep in mind that many generic lore will still be very useful for the campaign. 
+In addition, the [Lore skill page on PRD](https://2e.aonprd.com/Skills.aspx?ID=41) also listed out an array of common Lore. 
+Notably, there's no Planer Lore (as there's no other known planes in Erythea), Deity Lore and Creature Lores are covered by the following table already. 
+
 \** The requirements only listed the natural requirements for selecting the option, some other situation might grant you opportunities to learn the lore. \
 \*\*\* All these lores can be more specific. E.g., one can choose to be trained in World Nobility lore, Pharousian Nobility Lore, or only Azulihrun nobility lore.
 
-| Lore                              | Related Topics                                                                                                                  | Requirement                                                                       |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Cerulium Engineering              | Knowledge regarding mechanic craft made with Cerulium, the ins-and-outs of a Cerulium factory, recent Cerulium inventions, etc. | Be an engineer, worked in a factory/trainyard, went to academy for related topics |
-| Region Lore (e.g. Azulihrun City) | The regions layout, the best food, alleyways, history, factions, resident nobles, famous people, or recent events               | Living in Azulihrun city for a while.                                             |
-| Rural Tradition                   | Traditional worship of the Spirits, superstitions, etiquettes of working with village witches and shrine                        | Living a rural area for a while.                                                  |
-| Occult Society                    | Active cults in the area, their connection, history, secret symbols, individuals involved in the cult.                          | Being involved with a Cult or an Occult Secret Society.                           |
-| Category of an Abomination        | Pick one from the Category: Ghost, Wraith, Fey, Daemon, Ghoul, Zombie, Vampires, Mana Waste Mutants, Specter                    | -                                                                                 |
-| Fey or a specific category of Fey | History, culture, and society of the First World.                                                                               | Learnt it in an academy or otherwise has connection to Fey                        |
-| Spirit Commune                    | Traditions and methods of communing with the Spirits,  protection for the process                                               | -                                                                                 |
-| Nobility Lore (Specific Region)   | Nobility or ruling class genealogy of a specific region                                                                         | -                                                                                 |
+| Lore                              | Related Topics                                                                                                                  | Requirement                                                                            |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Cerulium Engineering              | Knowledge regarding mechanic craft made with Cerulium, the ins-and-outs of a Cerulium factory, recent Cerulium inventions, etc. | Be an engineer, worked in a factory/trainyard, went to academy for related topics      |
+| Region Lore (e.g. Azulihrun City) | The regions layout, the best food, alleyways, history, factions, resident nobles, famous people, or recent events               | Living in Azulihrun city for a while.                                                  |
+| Rural Tradition                   | Traditional worship of the Spirits, superstitions, etiquettes of working with village witches and shrine                        | Living a rural area for a while.                                                       |
+| Occult Society                    | Active cults in the area, their connection, history, secret symbols, individuals involved in the cult.                          | Being involved with a Cult or an Occult Secret Society.                                |
+| Category of an Abomination        | Pick one from the Category: Ghost, Wraith, Fey, Daemon, Ghoul, Zombie, Vampires, Mana Waste Mutants, Specter                    | -                                                                                      |
+| Fey or a specific category of Fey | History, culture, and society of the First World.                                                                               | Learnt it in an academy or otherwise has connection to Fey                             |
+| Spirit Commune                    | Traditions and methods of communing with the Spirits,  protection for the process                                               | -                                                                                      |
+| Nobility Lore (Specific Region)   | Nobility or ruling class genealogy of a specific region                                                                         | -                                                                                      |
+| Deity Lore (Specific)             | Lore of a specific deity as suppose to Religions as a whole. The deity's practices, churches, clergy, hidden secrets, etc.      | Worship or worshipped the deity at some point, or grew up in a household worshipping.  |
+
 
 ### Language 
 Common language in this campaign is Pharousian, the standardized language spoken in Pharousia. 
