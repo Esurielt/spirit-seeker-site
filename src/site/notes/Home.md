@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","title":"Spirit Seekers: Home","pinned":true,"contentClasses":"embed-clean dvl dvl-c","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-![vCKunH7GVWZM06a](https://i.imgur.com/bMFh1js.jpeg "Spirit")
+![vCKunH7GVWZM06a](https://i.imgur.com/bMFh1js.jpeg "Credit: Ying Yi - Leading to the stellar domain")
 
 # Erythea, land of the Spirits 
 
@@ -53,3 +53,5 @@ It's in this world where we meet our heroes, new found **Seekers** who swore to 
 
 ```tasks
 ```
+
+Image Credit: [ArtStation - Leading to stellar domain](https://www.artstation.com/artwork/rJOOPa)
