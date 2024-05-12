@@ -142,7 +142,7 @@ This section will only cover important concept and terms that's connected to the
 #### Azulihrun, the Cerulean Heart of Pharousia
 While Azulihrun may not the capital of Pharousia, this vibrant metropolis is renowned as a beacon of culture and trade. Azulihrun sits in the bustling crossroads of the Aurum Trail -  a trade route stretching across various nations in Aerawan and Eblon. 
 
-With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation and progress. It played a pivotal role in propagating Arcane Technology along the Aurum Trail, contributing to advancements that have rippled across nations. Following a series of key Cerulium inventions, the Silverthorn Arcane Institute surpassed even the Royal Conservatory in Vashem, the Pharousian capital, as one of the most prominent arcane research center in the world. 
+With the Arcane revolution, Azulihrun blossomed into an epicenter of innovation and progress. It played a pivotal role in propagating Arcane Technology along the Aurum Trail, contributing to advancements that have rippled across nations. Following a series of key Cerulium inventions, the Silverthorn Arcane Institute in Azulihrun surpassed even the Royal Conservatory in Vashem, the Pharousian capital, as one of the most prominent arcane research center in the world. 
 
 Notable Cerulium inventions from Azulihrun include Cerulium engines, levitating carriages, mechanical servants, and telescopic stargazing devices. The institute also holds significant authority over the study of Cerulium transportation like trains and airships.
 
