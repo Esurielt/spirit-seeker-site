@@ -15,7 +15,7 @@ Central to their way of life is also the mystic bonds Kobalds forge with beast c
 With the rise of the Arcane Revolution and the proliferation of Cerulium technology, it is easier than ever for the Kobald scholars to travel the world and unearth knowledge from ages long past. Many was drawn from their mountain home to migrate to various cultural centers in the vast land of Eblon. Azulihrun attracted Kobalds from all walks of life. Some put their natural mastery over fire to the Cerulium forges and arcane factories, some found enrichment in roles as archivists and researchers in the scholarly circles, while beast-bonded Kobalds roams the edges of the city as rangers, scouts, and beast handlers. A lot of Kobalds continue to favor cavernous dwellings, constructing bustling underground housing in old sewage and basements, turning them into lush greenhouse and beautiful communities.
 
 > [!pf2rule] Pathfinder 2e Kobald Feats
-> While you can still take Pathfinder 2e vanilla Kobald's feats, they might not exactly fit Erythea's Kobald's flavor. 
-> While Golarion Kobalds are cunning trap masters and opportunistic survivors believing in hierarchy, while Kobald in Erythea has more curious scholars, secluded community builders and cavern gardeners. 
+> You can take Pathfinder 2e vanilla Kobald's feats, they might not exactly fit Erythea's Kobald's flavor. 
+> While Golarion Kobalds are cunning trap masters and opportunistic survivors believing in hierarchy, Kobald in Erythea has more curious scholars, secluded community builders and cavern gardeners. 
 > If you found feats in the Kobald options does not reflect your character well, reach out so I could homebrew some things for you. 
 
