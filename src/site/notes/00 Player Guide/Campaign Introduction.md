@@ -16,11 +16,11 @@
 > | 1762  | Cerulium powered engine was invented by Aydin Farhi at Silverthorn Institute of Arcane                                                                                  |
 > | 1763  | In Pharousia, the first Act that restrict traditional magic practices in the name of safety and advancement was implemented, marking the beginning of Magic Reformation |
 > | 1765  | Caelindor invade Izbudar to contest the colony, Dwarven Kingdom of Dorn joins the war in support of Izbudar                                                             |
-> | 1766  | Pharousia "witch hunt" and increase in anomalies has caused Seekers in Pharousia to suffer greatly in numbers and resources                                             |
+> | 1766  | Pharousia "witch hunt" and increase in anomalies has caused Seekers in Pharousia starting to suffer greatly in numbers and resources                                             |
 > | 1770  | The first continental Cerulium train was established from Pharousia to Nephara, tying the trade route together for southern Eblon                                       |
 > | 1823  | Pharousia crowns the new Sovereign Emre Sarayli, who a year later extend an offer to support the Seekers to help solve the magical abomination problems                 |
 > | 1825  | Vione Ercanvar reestablish the Seekers' Pharousian chapter under the cover operation of Azure Quill News Company.                                                    |
-> | 1831 | The PCs joins the Seekers.                                                                                                                                              |
+> | 1828 | The PCs joins the Seekers.                                                                                                                                              |
 > 
 
 ### A New Dawn of Magic
