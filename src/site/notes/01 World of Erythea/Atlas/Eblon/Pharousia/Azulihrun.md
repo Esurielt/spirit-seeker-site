@@ -37,7 +37,7 @@ Cozy Residential areas of middle-to-low-income housing.
 ##### Shop and Markets 
 **Silk Castle** - the finest tailorshop in Azulihrun owned by Adem Udono, a Tengu clothmaker. 
 ***
-#### Scholar's Hamlet 
+#### Scholar's Walk 
 The Silverthorn Arcane Institute and its surrounding establishments.  
 ##### Notable Location
 **Silverthorn Arcane Institute** - The most prestigious university for arcane magic and cerulium research
