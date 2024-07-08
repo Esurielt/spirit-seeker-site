@@ -11,7 +11,9 @@
 > **Edicts**  Expand civilization, enforce justice through laws, eliminate chaos and corruption.
 > **Anathema**  Disobedience of laws, deliberately incite chaos, disrespecting authority.
 > **Divine Attribute**  Constitution or Wisdom
+>
 > ---
+> 
 > **Cleric Spells** 1st: sure strike,3rd: lightning bolt,7th: disintergrate
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy
