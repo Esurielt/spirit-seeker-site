@@ -10,7 +10,9 @@
 > **Edicts**  earn wealth through hard work and trade, follow the rule of law
 > **Anathema**  engage in banditry or piracy, steal or pay for others' service inappropriately
 > **Divine Attribute**  Charisma or Intelligence
+> 
 > ---
+> 
 > **Cleric Spells** 1st: [illusory object](https://pf2easy.com/index.php?id=1374&name=illusory_object),2nd: [comprehend language](https://pf2easy.com/index.php?id=1260&name=comprehend_language),4th: [suggestion](https://pf2easy.com/index.php?id=1530&name=suggestion)
 > **Divine Font**  Harm or Heal
 > **Divine Sanctification**  holy

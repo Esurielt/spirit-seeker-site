@@ -11,7 +11,7 @@
 > **Anathema**  intentionally create inferior works, disrespect books and other medium of knowledge, fabricate false knowledge or commit academic fraud
 > **Divine Attribute**  Intelligence or Dexterity
 > 
-> ---
+> --- 
 > 
 > **Cleric Spells** 1st: [temporary tool](https://pf2easy.com/index.php?id=5108&name=temporary_tool),3rd: [hypercognition](https://pf2easy.com/index.php?id=1370&name=hypercognition),4th: [creation](https://pf2easy.com/index.php?id=1268&name=creation)
 > **Divine Font**  Harm or Heal
