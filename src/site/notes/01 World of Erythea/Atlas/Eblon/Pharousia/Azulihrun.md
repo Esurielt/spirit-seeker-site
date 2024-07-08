@@ -11,7 +11,8 @@
 (This page is still WIP. No information on here is final. )
 ![BmampHmCBR3o268](https://i.imgur.com/3k7kcVc.jpeg)
 ## Azulihrun Gazetteer
-![mjPxjKdjZlC540l](https://i.imgur.com/e5Ykbnt.jpeg)
+![2ht8b0dKtJT1JZj](https://i.imgur.com/7iMwLeA.jpeg)
+
 
 ### Locations
 #### The Crownswork
@@ -35,7 +36,6 @@ Cozy Residential areas of middle-to-low-income housing.
 ##### Inns and Cafes
 **The Last Stand** - A bar and cafe popular among the mage workers and other middle-class folks that provides strong drinks and tables for games. The owner seems to be running another business behind the closed backroom doors for those in the know.
 ##### Shop and Markets 
-**Silk Castle** - the finest tailorshop in Azulihrun owned by Adem Udono, a Tengu clothmaker. 
 ***
 #### Scholar's Walk 
 The Silverthorn Arcane Institute and its surrounding establishments.  
@@ -50,7 +50,9 @@ The Silverthorn Arcane Institute and its surrounding establishments.
 #### The Loom
 Manufacturing district crowded with Cerulium factories and temp housings for the low-income workers.  
 ##### Notable Location
-**Demir Industries Factory** -   
+**Demir Industries** - one of the most prominent Cerulium transportation manufacturer in Azulihrun owned by the Demir family. 
+Gearhaven Society - a shelter and community center run by Elif Zehra. 
+**Mysty Thread** - the finest tailorshop in Azulihrun owned by Hetamon Haace
 ##### Inns and Cafes
 **Rusty Gears** - an inn that provides hearty meals, strong ales, and a cheap bed for travelers and common folks. 
 ***
@@ -63,6 +65,7 @@ Shipping heartland teeming with traders. The Grand Pavilion is also located at t
 **Blue Wyvern** - A hotels that offers luxurious accommodations for the affluent. 
 **Turning Leaf** - A newly-fashioned Cerulium device shop. 
 **Vyxen's Curiousities** - An antique and gadget shop for both old mechanical antiques as well as Cerulium inventions. 
+Silk Castle - an Aerawan fashion store owned by Adem Udono, a Tengu clothmaker. 
 
 ### Factions 
 #### Powerful Figures
